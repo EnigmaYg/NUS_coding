@@ -1,0 +1,411 @@
+{
+    "41fdbcdb86e8ce3057d6998584fdc202": [
+        "ISRAELI; 090; ISRAEL; 41fdbcdb86e8ce3057d6998584fdc202; Investigate; 7"
+    ],
+    "f56143e27ec1e4a0fe31475245f4a9da": [
+        "EGYPT; 010; NEW YORK; f56143e27ec1e4a0fe31475245f4a9da; Make public statement; 11",
+        "JORDAN; 057; ISRAEL; f56143e27ec1e4a0fe31475245f4a9da; Sign formal agreement; 12",
+        "JORDAN; 030; ISRAEL; f56143e27ec1e4a0fe31475245f4a9da; Express intent to cooperate; 13",
+        "CAIRO; 050; UNITED NATIONS; f56143e27ec1e4a0fe31475245f4a9da; Engage in diplomatic cooperation; 14",
+        "ARMED FORCES; 030; EGYPT; f56143e27ec1e4a0fe31475245f4a9da; Express intent to cooperate; 15",
+        "ISRAEL; 120; EGYPT; f56143e27ec1e4a0fe31475245f4a9da; Reject; 16",
+        "ARMED FORCES; 046; EGYPT; f56143e27ec1e4a0fe31475245f4a9da; Engage in negotiation; 17",
+        "ARMED FORCES; 1056; EGYPT; f56143e27ec1e4a0fe31475245f4a9da; Demand de-escalation of military engagement; 18",
+        "CABINET; 013; EGYPT; f56143e27ec1e4a0fe31475245f4a9da; Make optimistic comment; 19"
+    ],
+    "7bf313059ea104c5254c9cf030f84181": [
+        "ISRAEL; 036; EGYPT; 7bf313059ea104c5254c9cf030f84181; Express intent to meet or negotiate; 20",
+        "EGYPTIAN; 040; ISRAELI; 7bf313059ea104c5254c9cf030f84181; Consult or meet; 21",
+        "EGYPT; 040; EGYPTIAN; 7bf313059ea104c5254c9cf030f84181; Consult or meet; 22",
+        "ISRAEL; 046; EGYPT; 7bf313059ea104c5254c9cf030f84181; Engage in negotiation; 23",
+        "EGYPTIAN; 042; EGYPT; 7bf313059ea104c5254c9cf030f84181; Make a visit; 24",
+        "EGYPTIAN; 046; EGYPT; 7bf313059ea104c5254c9cf030f84181; Engage in negotiation; 25",
+        "ISRAELI; 010; EGYPT; 7bf313059ea104c5254c9cf030f84181; Make public statement; 27",
+        "EGYPT; 043; EGYPTIAN; 7bf313059ea104c5254c9cf030f84181; Host a visit; 28",
+        "ISRAEL; 040; EGYPTIAN; 7bf313059ea104c5254c9cf030f84181; Consult or meet; 29",
+        "ISRAELI; 040; EGYPTIAN; 7bf313059ea104c5254c9cf030f84181; Consult or meet; 30",
+        "EGYPT; 046; EGYPTIAN; 7bf313059ea104c5254c9cf030f84181; Engage in negotiation; 31",
+        "ISRAEL; 030; EGYPT; 7bf313059ea104c5254c9cf030f84181; Express intent to cooperate; 32",
+        "HASSAN; 042; EGYPT; 7bf313059ea104c5254c9cf030f84181; Make a visit; 33",
+        "EGYPT; 043; HASSAN; 7bf313059ea104c5254c9cf030f84181; Host a visit; 34",
+        "THE US; 042; ISRAEL; 7bf313059ea104c5254c9cf030f84181; Make a visit; 35",
+        "ISRAEL; 043; THE US; 7bf313059ea104c5254c9cf030f84181; Host a visit; 36"
+    ],
+    "d490a6ed414df91a602810c342aae4b9": [
+        "EGYPT; 100; ISRAEL; d490a6ed414df91a602810c342aae4b9; Demand or order; 26"
+    ],
+    "30372e8ad02c101e80a46f1f20466b32": [
+        "PRESIDENT; 020; PALESTINIAN; 30372e8ad02c101e80a46f1f20466b32; Make an appeal or request; 41",
+        "JORDAN; 042; ISRAEL; 30372e8ad02c101e80a46f1f20466b32; Make a visit; 42",
+        "ISRAEL; 043; JORDAN; 30372e8ad02c101e80a46f1f20466b32; Host a visit; 43"
+    ],
+    "5b5bc35eb6b9a755ebf29d9e7e199c43": [
+        "EGYPT; 120; PRESIDENT; 5b5bc35eb6b9a755ebf29d9e7e199c43; Reject; 52",
+        "ISRAEL; 046; EGYPT; 5b5bc35eb6b9a755ebf29d9e7e199c43; Engage in negotiation; 60"
+    ],
+    "9b50f725dcff8f4ddf9bd3b938353cb7": [
+        "FOREIGN MINIST; 040; CAIRO; 9b50f725dcff8f4ddf9bd3b938353cb7; Consult or meet; 91",
+        "CAIRO; 040; FOREIGN MINIST; 9b50f725dcff8f4ddf9bd3b938353cb7; Consult or meet; 92",
+        "EGYPT; 040; EGYPT; 9b50f725dcff8f4ddf9bd3b938353cb7; Consult or meet; 93"
+    ],
+    "c17817678bef651236af511a7035d188": [
+        "EGYPT; 010; SYRIA; c17817678bef651236af511a7035d188; Make public statement; 96",
+        "EGYPT; 010; ISRAEL; c17817678bef651236af511a7035d188; Make public statement; 97"
+    ],
+    "746c64ca657d52c93f0ede23d29b1d34": [
+        "EGYPT; 040; PRESIDENT; 746c64ca657d52c93f0ede23d29b1d34; Consult or meet; 102",
+        "THE WHITE HOUSE; 010; UNITED STATES; 746c64ca657d52c93f0ede23d29b1d34; Make public statement; 103",
+        "PRESIDENT; 026; CAIRO; 746c64ca657d52c93f0ede23d29b1d34; Appeal to others to meet or negotiate; 104",
+        "THE WHITE HOUSE; 125; EGYPT; 746c64ca657d52c93f0ede23d29b1d34; Reject proposal to meet, discuss, or negotiate; 106",
+        "EGYPT; 012; ISRAEL; 746c64ca657d52c93f0ede23d29b1d34; Make pessimistic comment; 107",
+        "PRESIDENT; 036; EGYPT; 746c64ca657d52c93f0ede23d29b1d34; Express intent to meet or negotiate; 108",
+        "EGYPT; 036; PRESIDENT; 746c64ca657d52c93f0ede23d29b1d34; Express intent to meet or negotiate; 109",
+        "PRESIDENT; 036; ISRAEL; 746c64ca657d52c93f0ede23d29b1d34; Express intent to meet or negotiate; 110",
+        "PRESIDENT; 040; EGYPT; 746c64ca657d52c93f0ede23d29b1d34; Consult or meet; 111",
+        "EGYPTIAN; 012; ISRAELI; 746c64ca657d52c93f0ede23d29b1d34; Make pessimistic comment; 112",
+        "PRESIDENT; 026; EGYPT; 746c64ca657d52c93f0ede23d29b1d34; Appeal to others to meet or negotiate; 113"
+    ],
+    "b93714113ec61af3383bcaacb6f4eb04": [
+        "AMMAN; 043; EMBASSY; b93714113ec61af3383bcaacb6f4eb04; Host a visit; 105"
+    ],
+    "561d43207bd6a2e831817dc8009e0e26": [
+        "PALESTINIAN; 020; ISRAEL; 561d43207bd6a2e831817dc8009e0e26; Make an appeal or request; 132",
+        "UNITED STATES; 129; SECURITY COUNCIL; 561d43207bd6a2e831817dc8009e0e26; Veto; 133",
+        "ISRAEL; 036; TUNIS; 561d43207bd6a2e831817dc8009e0e26; Express intent to meet or negotiate; 134",
+        "TUNIS; 036; ISRAEL; 561d43207bd6a2e831817dc8009e0e26; Express intent to meet or negotiate; 135",
+        "ISRAEL; 040; TUNIS; 561d43207bd6a2e831817dc8009e0e26; Consult or meet; 136",
+        "TUNIS; 040; ISRAEL; 561d43207bd6a2e831817dc8009e0e26; Consult or meet; 137"
+    ],
+    "bccebdcdd695078f9d366d52c4b9a218": [
+        "EGYPT; 190; AMERICAN; bccebdcdd695078f9d366d52c4b9a218; Use conventional military force; 173",
+        "ISRAEL; 010; EGYPTIAN; bccebdcdd695078f9d366d52c4b9a218; Make public statement; 174",
+        "IRAN; 070; EGYPT; bccebdcdd695078f9d366d52c4b9a218; Provide aid; 175",
+        "JERUSALEM; 010; CAIRO; bccebdcdd695078f9d366d52c4b9a218; Make public statement; 176",
+        "EGYPT; 080; ISRAEL; bccebdcdd695078f9d366d52c4b9a218; Yield or concede; 177",
+        "UNITED STATES; 193; EGYPT; bccebdcdd695078f9d366d52c4b9a218; Fight with small arms and light weapons; 178",
+        "ISRAEL; 010; EGYPT; bccebdcdd695078f9d366d52c4b9a218; Make public statement; 179",
+        "AMERICAN; 193; EGYPT; bccebdcdd695078f9d366d52c4b9a218; Fight with small arms and light weapons; 180",
+        "ISRAEL; 100; EGYPT; bccebdcdd695078f9d366d52c4b9a218; Demand or order; 182"
+    ],
+    "b67b9c176bf87707b54b6e903d5d2e8f": [
+        "HASSAN; 042; CAIRO; b67b9c176bf87707b54b6e903d5d2e8f; Make a visit; 194",
+        "EGYPT; 043; JERUSALEM; b67b9c176bf87707b54b6e903d5d2e8f; Host a visit; 195",
+        "JERUSALEM; 042; EGYPT; b67b9c176bf87707b54b6e903d5d2e8f; Make a visit; 196",
+        "EGYPT; 120; ISRAEL; b67b9c176bf87707b54b6e903d5d2e8f; Reject; 197",
+        "ISRAEL; 043; HOSNI MUBARAK; b67b9c176bf87707b54b6e903d5d2e8f; Host a visit; 198",
+        "EGYPT; 036; ISRAEL; b67b9c176bf87707b54b6e903d5d2e8f; Express intent to meet or negotiate; 199",
+        "ISRAEL; 036; CAIRO; b67b9c176bf87707b54b6e903d5d2e8f; Express intent to meet or negotiate; 200",
+        "EGYPTIAN; 120; JERUSALEM; b67b9c176bf87707b54b6e903d5d2e8f; Reject; 201",
+        "EGYPTIAN; 010; ISRAEL; b67b9c176bf87707b54b6e903d5d2e8f; Make public statement; 202",
+        "GOVERNMENT; 014; HASSAN; b67b9c176bf87707b54b6e903d5d2e8f; Consider policy option; 203",
+        "GOVERNMENT; 026; HASSAN; b67b9c176bf87707b54b6e903d5d2e8f; Appeal to others to meet or negotiate; 204",
+        "ISRAELI; 042; CAIRO; b67b9c176bf87707b54b6e903d5d2e8f; Make a visit; 205",
+        "EGYPTIAN; 120; ISRAELI; b67b9c176bf87707b54b6e903d5d2e8f; Reject; 206",
+        "HASSAN; 036; ISRAEL; b67b9c176bf87707b54b6e903d5d2e8f; Express intent to meet or negotiate; 207",
+        "GOVERNMENT; 026; EGYPT; b67b9c176bf87707b54b6e903d5d2e8f; Appeal to others to meet or negotiate; 208",
+        "GOVERNMENT; 014; EGYPT; b67b9c176bf87707b54b6e903d5d2e8f; Consider policy option; 209",
+        "CAIRO; 036; ISRAEL; b67b9c176bf87707b54b6e903d5d2e8f; Express intent to meet or negotiate; 210",
+        "CAIRO; 043; ISRAELI; b67b9c176bf87707b54b6e903d5d2e8f; Host a visit; 211",
+        "GOVERNMENT; 040; ISRAELI; b67b9c176bf87707b54b6e903d5d2e8f; Consult or meet; 212",
+        "HOSNI MUBARAK; 042; ISRAEL; b67b9c176bf87707b54b6e903d5d2e8f; Make a visit; 213",
+        "CAIRO; 043; HASSAN; b67b9c176bf87707b54b6e903d5d2e8f; Host a visit; 214",
+        "ISRAELI; 040; GOVERNMENT; b67b9c176bf87707b54b6e903d5d2e8f; Consult or meet; 215"
+    ],
+    "35138a70978b83f06c4964ebebf43c46": [
+        "ISRAEL; 020; AMBASSADOR; 35138a70978b83f06c4964ebebf43c46; Make an appeal or request; 216",
+        "EGYPTIAN; 125; EGYPT; 35138a70978b83f06c4964ebebf43c46; Reject proposal to meet, discuss, or negotiate; 217",
+        "ISRAEL; 020; ISRAEL; 35138a70978b83f06c4964ebebf43c46; Make an appeal or request; 218"
+    ],
+    "eb89cf6931614bdb8d496f7bdc998b16": [
+        "PALESTINIAN; 046; ISRAEL; eb89cf6931614bdb8d496f7bdc998b16; Engage in negotiation; 231",
+        "EGYPTIAN; 010; ISRAEL; eb89cf6931614bdb8d496f7bdc998b16; Make public statement; 232",
+        "ISRAEL; 046; PALESTINIAN; eb89cf6931614bdb8d496f7bdc998b16; Engage in negotiation; 233",
+        "ISRAELI; 040; PALESTINIAN; eb89cf6931614bdb8d496f7bdc998b16; Consult or meet; 234",
+        "SECRETARY OF STATE; 046; ISRAELI; eb89cf6931614bdb8d496f7bdc998b16; Engage in negotiation; 235",
+        "PALESTINIAN; 040; ISRAELI; eb89cf6931614bdb8d496f7bdc998b16; Consult or meet; 236",
+        "EGYPT; 040; EGYPT; eb89cf6931614bdb8d496f7bdc998b16; Consult or meet; 237",
+        "EGYPTIAN; 042; EGYPTIAN; eb89cf6931614bdb8d496f7bdc998b16; Make a visit; 238",
+        "EGYPT; 1043; PALESTINIAN; eb89cf6931614bdb8d496f7bdc998b16; Demand rights; 239",
+        "EGYPTIAN; 040; EGYPTIAN; eb89cf6931614bdb8d496f7bdc998b16; Consult or meet; 240",
+        "ISRAEL; 090; ISRAEL; eb89cf6931614bdb8d496f7bdc998b16; Investigate; 241",
+        "EGYPT; 1043; ISRAEL; eb89cf6931614bdb8d496f7bdc998b16; Demand rights; 242",
+        "ISRAEL; 084; EGYPT; eb89cf6931614bdb8d496f7bdc998b16; Return, release; 243",
+        "EGYPT; 051; ISRAELI; eb89cf6931614bdb8d496f7bdc998b16; Praise or endorse; 244",
+        "ABDULLAH II; 040; EGYPTIAN; eb89cf6931614bdb8d496f7bdc998b16; Consult or meet; 245",
+        "EGYPTIAN; 043; EGYPTIAN; eb89cf6931614bdb8d496f7bdc998b16; Host a visit; 246",
+        "EGYPTIAN; 042; ABDULLAH II; eb89cf6931614bdb8d496f7bdc998b16; Make a visit; 247",
+        "ISRAELI; 046; SECRETARY OF STATE; eb89cf6931614bdb8d496f7bdc998b16; Engage in negotiation; 248",
+        "EGYPT; 010; ISRAEL; eb89cf6931614bdb8d496f7bdc998b16; Make public statement; 249",
+        "EGYPT; 110; ISRAEL; eb89cf6931614bdb8d496f7bdc998b16; Verbally disapprove; 250",
+        "ISRAEL; 173; CITIZEN; eb89cf6931614bdb8d496f7bdc998b16; Arrest, detain, or charge with legal action; 251",
+        "EGYPT; 050; TEL AVIV; eb89cf6931614bdb8d496f7bdc998b16; Engage in diplomatic cooperation; 252",
+        "EGYPT; 046; ISRAELI; eb89cf6931614bdb8d496f7bdc998b16; Engage in negotiation; 253",
+        "ABDULLAH II; 043; EGYPTIAN; eb89cf6931614bdb8d496f7bdc998b16; Host a visit; 254"
+    ],
+    "f617ce801164621dc99c23fa09656393": [
+        "MINIST OF TOURISM; 042; CAIRO; f617ce801164621dc99c23fa09656393; Make a visit; 255",
+        "CAIRO; 043; MINIST OF TOURISM; f617ce801164621dc99c23fa09656393; Host a visit; 256",
+        "CAIRO; 043; ISRAEL; f617ce801164621dc99c23fa09656393; Host a visit; 258",
+        "CAIRO; 190; ALBERT; f617ce801164621dc99c23fa09656393; Use conventional military force; 259",
+        "EGYPT; 043; ISRAEL; f617ce801164621dc99c23fa09656393; Host a visit; 262",
+        "ISRAEL; 042; CAIRO; f617ce801164621dc99c23fa09656393; Make a visit; 264",
+        "ISRAEL; 138; HOSNI MUBARAK; f617ce801164621dc99c23fa09656393; Threaten with military force; 268",
+        "ISRAEL; 042; HOSNI MUBARAK; f617ce801164621dc99c23fa09656393; Make a visit; 271",
+        "HOSNI MUBARAK; 043; ISRAEL; f617ce801164621dc99c23fa09656393; Host a visit; 272",
+        "EGYPT; 190; ALBERT; f617ce801164621dc99c23fa09656393; Use conventional military force; 273"
+    ],
+    "fd7282e0e842c28ec05dd6539177e607": [
+        "AMBASSADOR; 1123; ISRAEL; fd7282e0e842c28ec05dd6539177e607; Accuse of aggression; 257",
+        "EGYPT; 1123; ISRAEL; fd7282e0e842c28ec05dd6539177e607; Accuse of aggression; 260",
+        "EGYPTIAN; 043; GAZA; fd7282e0e842c28ec05dd6539177e607; Host a visit; 261",
+        "THE SECURITY COUNCIL; 190; EGYPTIAN; fd7282e0e842c28ec05dd6539177e607; Use conventional military force; 263",
+        "GAZA; 111; ISRAEL; fd7282e0e842c28ec05dd6539177e607; Criticize or denounce; 265",
+        "GAZA; 042; EGYPTIAN; fd7282e0e842c28ec05dd6539177e607; Make a visit; 266",
+        "ISRAEL; 1123; ISRAEL; fd7282e0e842c28ec05dd6539177e607; Accuse of aggression; 267",
+        "ISRAEL; 111; ISRAEL; fd7282e0e842c28ec05dd6539177e607; Criticize or denounce; 269",
+        "ISRAEL; 042; EGYPT; fd7282e0e842c28ec05dd6539177e607; Make a visit; 270"
+    ],
+    "c158ce30941834daa21d0aef7bb8f86f": [
+        "SPOKESMAN; 036; EGYPT; c158ce30941834daa21d0aef7bb8f86f; Express intent to meet or negotiate; 274",
+        "SPOKESMAN; 042; GOVERNMENT; c158ce30941834daa21d0aef7bb8f86f; Make a visit; 276",
+        "GOVERNMENT; 043; SPOKESMAN; c158ce30941834daa21d0aef7bb8f86f; Host a visit; 277",
+        "EGYPT; 036; GOVERNMENT; c158ce30941834daa21d0aef7bb8f86f; Express intent to meet or negotiate; 278",
+        "MINIST FOR FOREIGN; 040; EGYPT; c158ce30941834daa21d0aef7bb8f86f; Consult or meet; 279"
+    ],
+    "fee9eabf4d3de7c617226ddbf718d069": [
+        "EGYPT; 010; ISRAEL; fee9eabf4d3de7c617226ddbf718d069; Make public statement; 275",
+        "ISRAEL; 041; ISRAELI; fee9eabf4d3de7c617226ddbf718d069; Discuss by telephone; 280",
+        "ISRAELI; 041; ISRAEL; fee9eabf4d3de7c617226ddbf718d069; Discuss by telephone; 281",
+        "EGYPT; 010; FOREIGN MINIST; fee9eabf4d3de7c617226ddbf718d069; Make public statement; 282",
+        "ISRAEL; 041; NEW YORK; fee9eabf4d3de7c617226ddbf718d069; Discuss by telephone; 283"
+    ],
+    "b18d0b2e4889717ef2c4796b690029e6": [
+        "MINIST; 040; CAIRO; b18d0b2e4889717ef2c4796b690029e6; Consult or meet; 284",
+        "CAIRO; 040; MINIST; b18d0b2e4889717ef2c4796b690029e6; Consult or meet; 285",
+        "EGYPT; 019; EGYPT; b18d0b2e4889717ef2c4796b690029e6; Express accord; 286",
+        "MINIST; 042; CAIRO; b18d0b2e4889717ef2c4796b690029e6; Make a visit; 287",
+        "JUSTICE MINISTER; 019; EGYPT; b18d0b2e4889717ef2c4796b690029e6; Express accord; 288",
+        "CAIRO; 043; MINIST; b18d0b2e4889717ef2c4796b690029e6; Host a visit; 289",
+        "MINISTRY; 013; EGYPT; b18d0b2e4889717ef2c4796b690029e6; Make optimistic comment; 290"
+    ],
+    "bb1886b1132b22c4ba76ff92ae72fec5": [
+        "FOREIGN MINIST; 164; EGYPT; bb1886b1132b22c4ba76ff92ae72fec5; Halt negotiations; 291",
+        "FOREIGN MINIST; 164; CAIRO; bb1886b1132b22c4ba76ff92ae72fec5; Halt negotiations; 292",
+        "ISRAEL; 164; CAIRO; bb1886b1132b22c4ba76ff92ae72fec5; Halt negotiations; 293",
+        "CAIRO; 043; SECRETARY OF STATE; bb1886b1132b22c4ba76ff92ae72fec5; Host a visit; 294",
+        "CAIRO; 040; FOREIGN MINIST; bb1886b1132b22c4ba76ff92ae72fec5; Consult or meet; 295",
+        "CAIRO; 164; FOREIGN MINIST; bb1886b1132b22c4ba76ff92ae72fec5; Halt negotiations; 296",
+        "EGYPT; 043; JERUSALEM; bb1886b1132b22c4ba76ff92ae72fec5; Host a visit; 297",
+        "AMERICAN; 161; ISRAELI; bb1886b1132b22c4ba76ff92ae72fec5; Reduce or break diplomatic relations; 298",
+        "JERUSALEM; 042; EGYPT; bb1886b1132b22c4ba76ff92ae72fec5; Make a visit; 299",
+        "UNITED STATES; 161; ISRAEL; bb1886b1132b22c4ba76ff92ae72fec5; Reduce or break diplomatic relations; 300",
+        "AMMAN; 036; BEIRUT; bb1886b1132b22c4ba76ff92ae72fec5; Express intent to meet or negotiate; 301",
+        "BEIRUT; 036; AMMAN; bb1886b1132b22c4ba76ff92ae72fec5; Express intent to meet or negotiate; 302",
+        "CAIRO; 164; ISRAEL; bb1886b1132b22c4ba76ff92ae72fec5; Halt negotiations; 303",
+        "SECRETARY OF STATE; 042; CAIRO; bb1886b1132b22c4ba76ff92ae72fec5; Make a visit; 304",
+        "EGYPT; 164; FOREIGN MINIST; bb1886b1132b22c4ba76ff92ae72fec5; Halt negotiations; 305",
+        "EGYPT; 040; FOREIGN MINIST; bb1886b1132b22c4ba76ff92ae72fec5; Consult or meet; 306"
+    ],
+    "b4d548ec54926db710a5abeed551b7f3": [
+        "EGYPT; 020; GOVERNMENT; b4d548ec54926db710a5abeed551b7f3; Make an appeal or request; 307",
+        "JERUSALEM; 051; SINAI; b4d548ec54926db710a5abeed551b7f3; Praise or endorse; 308",
+        "EGYPT; 020; ISRAEL; b4d548ec54926db710a5abeed551b7f3; Make an appeal or request; 309",
+        "EGYPT; 100; GOVERNMENT; b4d548ec54926db710a5abeed551b7f3; Demand or order; 310"
+    ],
+    "859fc96157484e73268e105e6222ce53": [
+        "HASSAN; 040; ISRAEL; 859fc96157484e73268e105e6222ce53; Consult or meet; 3",
+        "HAMAS; 042; PALESTINE; 859fc96157484e73268e105e6222ce53; Make a visit; 4",
+        "PALESTINE; 043; HAMAS; 859fc96157484e73268e105e6222ce53; Host a visit; 5"
+    ],
+    "8bd851030e9ff5342aed1da504b35fde": [
+        "INTERNATIONAL CRIMINAL COURT; 090; HAMAS; 8bd851030e9ff5342aed1da504b35fde; Investigate; 0",
+        "ISRAEL; 138; WEST BANK; 8bd851030e9ff5342aed1da504b35fde; Threaten with military force; 1",
+        "ARMY; 180; PALESTINIAN; 8bd851030e9ff5342aed1da504b35fde; Use unconventional violence including terrorist; 2",
+        "PALESTINIAN; 138; ISRAEL; 8bd851030e9ff5342aed1da504b35fde; Threaten with military force; 6",
+        "PALESTINIAN; 173; ISRAEL; 8bd851030e9ff5342aed1da504b35fde; Arrest, detain, or charge with legal action; 8",
+        "INTERNATIONAL CRIMINAL COURT; 042; JUDGE; 8bd851030e9ff5342aed1da504b35fde; Make a visit; 9",
+        "HAMAS; 193; ISRAEL; 8bd851030e9ff5342aed1da504b35fde; Fight with small arms and light weapons; 10"
+    ],
+    "864ac2acbbcea07cb07eb0e36f468928": [
+        "EGYPTIAN; 154; GAZA; 864ac2acbbcea07cb07eb0e36f468928; Mobilize or increase armed forces; 37"
+    ],
+    "3d972c4eb1fc1b04169a2dd725e7065a": [
+        "INTELLIGENCE; 043; ISRAELI; 3d972c4eb1fc1b04169a2dd725e7065a; Host a visit; 38",
+        "ISRAELI; 042; INTELLIGENCE; 3d972c4eb1fc1b04169a2dd725e7065a; Make a visit; 39",
+        "ISRAELI; 060; NORWAY; 3d972c4eb1fc1b04169a2dd725e7065a; Engage in material cooperation; 40"
+    ],
+    "751546a17fda200b7852d54be16de458": [
+        "MILITARY WING; 042; ISRAEL; 751546a17fda200b7852d54be16de458; Make a visit; 49",
+        "MILITARY WING; 042; GAZA; 751546a17fda200b7852d54be16de458; Make a visit; 53",
+        "HAMAS; 020; EGYPTIAN; 751546a17fda200b7852d54be16de458; Make an appeal or request; 58"
+    ],
+    "32302e9b3f2c65da2bc4ef720ab092e3": [
+        "PALESTINIAN; 084; MAHMOUD ABBAS; 32302e9b3f2c65da2bc4ef720ab092e3; Return, release; 44",
+        "EGYPT; 120; HAMAS; 32302e9b3f2c65da2bc4ef720ab092e3; Reject; 45",
+        "PALESTINIAN; 141; EGYPTIAN; 32302e9b3f2c65da2bc4ef720ab092e3; Demonstrate or rally; 46",
+        "EGYPT; 046; PALESTINIAN; 32302e9b3f2c65da2bc4ef720ab092e3; Engage in negotiation; 47",
+        "EGYPT; 1123; PALESTINIAN; 32302e9b3f2c65da2bc4ef720ab092e3; Accuse of aggression; 48",
+        "EGYPT; 050; PALESTINIAN; 32302e9b3f2c65da2bc4ef720ab092e3; Engage in diplomatic cooperation; 50",
+        "ISRAEL; 020; EGYPTIAN; 32302e9b3f2c65da2bc4ef720ab092e3; Make an appeal or request; 51",
+        "PALESTINIAN; 080; MAHMOUD ABBAS; 32302e9b3f2c65da2bc4ef720ab092e3; Yield or concede; 54",
+        "ISRAEL; 141; EGYPTIAN; 32302e9b3f2c65da2bc4ef720ab092e3; Demonstrate or rally; 55",
+        "PALESTINIAN; 050; EGYPT; 32302e9b3f2c65da2bc4ef720ab092e3; Engage in diplomatic cooperation; 56",
+        "PALESTINIAN; 046; EGYPT; 32302e9b3f2c65da2bc4ef720ab092e3; Engage in negotiation; 57",
+        "EGYPT; 120; ISRAEL; 32302e9b3f2c65da2bc4ef720ab092e3; Reject; 59"
+    ],
+    "87400ebb4dd90dde85a2df26b2a20e6d": [
+        "COMMANDER; 120; ISRAEL; 87400ebb4dd90dde85a2df26b2a20e6d; Reject; 82",
+        "ISRAELI; 1712; GAZA; 87400ebb4dd90dde85a2df26b2a20e6d; Destroy property; 84",
+        "HAMAS; 154; ISRAEL; 87400ebb4dd90dde85a2df26b2a20e6d; Mobilize or increase armed forces; 88",
+        "ISRAEL; 1712; ISRAEL; 87400ebb4dd90dde85a2df26b2a20e6d; Destroy property; 89"
+    ],
+    "1147a3bc1ce3254725724cb0f325a026": [
+        "EGYPT; 046; PALESTINIAN; 1147a3bc1ce3254725724cb0f325a026; Engage in negotiation; 61",
+        "ISRAEL; 017; ISRAEL; 1147a3bc1ce3254725724cb0f325a026; Engage in symbolic act; 62",
+        "PALESTINIAN; 113; EGYPT; 1147a3bc1ce3254725724cb0f325a026; Mobilize and rally opposition against; 63",
+        "EGYPT; 050; PALESTINIAN; 1147a3bc1ce3254725724cb0f325a026; Engage in diplomatic cooperation; 64",
+        "PALESTINIAN; 020; EGYPTIAN; 1147a3bc1ce3254725724cb0f325a026; Make an appeal or request; 65",
+        "EGYPT; 020; EGYPT; 1147a3bc1ce3254725724cb0f325a026; Make an appeal or request; 66",
+        "SAUDI ARABIA; 080; ISRAEL; 1147a3bc1ce3254725724cb0f325a026; Yield or concede; 67",
+        "SAUDI ARABIA; 080; GAZA; 1147a3bc1ce3254725724cb0f325a026; Yield or concede; 69",
+        "EGYPT; 120; ISRAEL; 1147a3bc1ce3254725724cb0f325a026; Reject; 70",
+        "PRESIDENT; 040; SAUDI; 1147a3bc1ce3254725724cb0f325a026; Consult or meet; 71",
+        "PALESTINIAN; 050; EGYPT; 1147a3bc1ce3254725724cb0f325a026; Engage in diplomatic cooperation; 72",
+        "EGYPT; 020; ISRAEL; 1147a3bc1ce3254725724cb0f325a026; Make an appeal or request; 73",
+        "EGYPT; 010; ISRAEL; 1147a3bc1ce3254725724cb0f325a026; Make public statement; 74",
+        "SAUDI; 040; PRESIDENT; 1147a3bc1ce3254725724cb0f325a026; Consult or meet; 75",
+        "EGYPT; 020; GAZA; 1147a3bc1ce3254725724cb0f325a026; Make an appeal or request; 76",
+        "PALESTINIAN; 113; ISRAEL; 1147a3bc1ce3254725724cb0f325a026; Mobilize and rally opposition against; 77",
+        "EGYPT; 1123; PALESTINIAN; 1147a3bc1ce3254725724cb0f325a026; Accuse of aggression; 78",
+        "SAUDI; 113; ISRAEL; 1147a3bc1ce3254725724cb0f325a026; Mobilize and rally opposition against; 79",
+        "ISRAEL; 113; EGYPT; 1147a3bc1ce3254725724cb0f325a026; Mobilize and rally opposition against; 80",
+        "EGYPT; 010; GAZA; 1147a3bc1ce3254725724cb0f325a026; Make public statement; 81",
+        "EGYPTIAN; 051; GOVERNMENT; 1147a3bc1ce3254725724cb0f325a026; Praise or endorse; 83",
+        "EGYPT; 120; HAMAS; 1147a3bc1ce3254725724cb0f325a026; Reject; 85",
+        "PALESTINIAN; 046; EGYPT; 1147a3bc1ce3254725724cb0f325a026; Engage in negotiation; 86",
+        "SAUDI ARABIA; 100; EGYPT; 1147a3bc1ce3254725724cb0f325a026; Demand or order; 87",
+        "PALESTINIAN; 141; EGYPTIAN; 1147a3bc1ce3254725724cb0f325a026; Demonstrate or rally; 90"
+    ],
+    "6d6d87f5663645fcf4ba78ecee1b91a3": [
+        "ISRAELI; 010; UNIVERSITY; 6d6d87f5663645fcf4ba78ecee1b91a3; Make public statement; 68"
+    ],
+    "e75f98ff318f31625f336754178ead15": [
+        "HAMAS; 010; NEWS AGENCY; e75f98ff318f31625f336754178ead15; Make public statement; 94"
+    ],
+    "70e2ea0563a77b9d285996500022794a": [
+        "HAMAS; 150; GAZA; 70e2ea0563a77b9d285996500022794a; Exhibit military or police power; 95"
+    ],
+    "79b506b6d55ae140fb6ee7f9f66f3feb": [
+        "ISLAMIC; 190; HAMAS; 79b506b6d55ae140fb6ee7f9f66f3feb; Use conventional military force; 98",
+        "FIGHTER; 120; HAMAS; 79b506b6d55ae140fb6ee7f9f66f3feb; Reject; 99",
+        "HAMAS; 190; ISLAMIC; 79b506b6d55ae140fb6ee7f9f66f3feb; Use conventional military force; 100",
+        "HAMAS; 180; ISRAEL; 79b506b6d55ae140fb6ee7f9f66f3feb; Use unconventional violence including terrorist; 101"
+    ],
+    "1f0e4d4b9a482d420b9132fac02e5bf7": [
+        "DEFENSE MINIST; 111; ISRAEL; 1f0e4d4b9a482d420b9132fac02e5bf7; Criticize or denounce; 116",
+        "DEFENSE MINIST; 124; MILITARY; 1f0e4d4b9a482d420b9132fac02e5bf7; Refuse to yield or concede; 120"
+    ],
+    "5cb661fc2543cff12f0723b4eb5eda5f": [
+        "SAUDI ARABIA; 043; EGYPTIAN; 5cb661fc2543cff12f0723b4eb5eda5f; Host a visit; 114",
+        "EGYPTIAN; 012; EGYPTIAN; 5cb661fc2543cff12f0723b4eb5eda5f; Make pessimistic comment; 115",
+        "EGYPT; 0871; GAZA; 5cb661fc2543cff12f0723b4eb5eda5f; Declare truce, ceasefire; 117",
+        "SAUDI ARABIA; 028; EGYPT; 5cb661fc2543cff12f0723b4eb5eda5f; Appeal to others to engage in or accept mediation; 118",
+        "ISRAEL; 111; EGYPT; 5cb661fc2543cff12f0723b4eb5eda5f; Criticize or denounce; 119",
+        "HAMAS; 013; EGYPTIAN; 5cb661fc2543cff12f0723b4eb5eda5f; Make optimistic comment; 121",
+        "EGYPT; 0871; ISRAEL; 5cb661fc2543cff12f0723b4eb5eda5f; Declare truce, ceasefire; 122",
+        "HAMAS; 110; EGYPTIAN; 5cb661fc2543cff12f0723b4eb5eda5f; Verbally disapprove; 123",
+        "GAZA; 111; ISRAEL; 5cb661fc2543cff12f0723b4eb5eda5f; Criticize or denounce; 124",
+        "EGYPTIAN; 042; SAUDI ARABIA; 5cb661fc2543cff12f0723b4eb5eda5f; Make a visit; 125",
+        "EGYPTIAN; 012; EGYPT; 5cb661fc2543cff12f0723b4eb5eda5f; Make pessimistic comment; 126",
+        "SAUDI ARABIA; 042; SAUDI ARABIA; 5cb661fc2543cff12f0723b4eb5eda5f; Make a visit; 127",
+        "SAUDI ARABIA; 043; SAUDI ARABIA; 5cb661fc2543cff12f0723b4eb5eda5f; Host a visit; 128",
+        "DEPUTY; 111; HAMAS; 5cb661fc2543cff12f0723b4eb5eda5f; Criticize or denounce; 129",
+        "EGYPT; 111; HAMAS; 5cb661fc2543cff12f0723b4eb5eda5f; Criticize or denounce; 130",
+        "GAZA; 111; EGYPTIAN; 5cb661fc2543cff12f0723b4eb5eda5f; Criticize or denounce; 131"
+    ],
+    "9d20d4c18a3d09ea2aa76ab13fbb1c9a": [
+        "ISRAELI; 194; CIVILIAN; 9d20d4c18a3d09ea2aa76ab13fbb1c9a; Fight with artillery and tanks; 138"
+    ],
+    "ad4085a49927e5a004924e55eecb3147": [
+        "ISLAMIC; 154; ISRAEL; ad4085a49927e5a004924e55eecb3147; Mobilize or increase armed forces; 139",
+        "SPOKESMAN; 010; ISRAEL; ad4085a49927e5a004924e55eecb3147; Make public statement; 140"
+    ],
+    "7a068f0c7f130944df96148121204d6a": [
+        "ISRAEL; 020; LEBANON; 7a068f0c7f130944df96148121204d6a; Make an appeal or request; 141",
+        "ISRAEL; 020; MILITARY INTELLIGENCE; 7a068f0c7f130944df96148121204d6a; Make an appeal or request; 146",
+        "SHIITE; 112; ISRAEL; 7a068f0c7f130944df96148121204d6a; Accuse; 148",
+        "SHIITE; 190; BEIRUT; 7a068f0c7f130944df96148121204d6a; Use conventional military force; 149",
+        "SHIITE; 194; BEIRUT; 7a068f0c7f130944df96148121204d6a; Fight with artillery and tanks; 150",
+        "SHIITE; 112; UNITED STATES; 7a068f0c7f130944df96148121204d6a; Accuse; 151"
+    ],
+    "1a77126ce1d9ae4f87542b9b34d7188c": [
+        "GAZA; 043; ISRAEL; 1a77126ce1d9ae4f87542b9b34d7188c; Host a visit; 142",
+        "HAMAS; 046; MINIST; 1a77126ce1d9ae4f87542b9b34d7188c; Engage in negotiation; 143",
+        "GAZA; 043; THE UN; 1a77126ce1d9ae4f87542b9b34d7188c; Host a visit; 144",
+        "ISRAEL; 020; HAMAS; 1a77126ce1d9ae4f87542b9b34d7188c; Make an appeal or request; 145",
+        "MINIST; 046; HAMAS; 1a77126ce1d9ae4f87542b9b34d7188c; Engage in negotiation; 147",
+        "ISRAEL; 042; GAZA; 1a77126ce1d9ae4f87542b9b34d7188c; Make a visit; 152",
+        "THE UN; 042; GAZA; 1a77126ce1d9ae4f87542b9b34d7188c; Make a visit; 153"
+    ],
+    "b54c9041fdb6197f57f9465e95473eba": [
+        "ISRAEL; 120; ISRAEL; b54c9041fdb6197f57f9465e95473eba; Reject; 154",
+        "PALESTINIAN; 120; ISRAEL; b54c9041fdb6197f57f9465e95473eba; Reject; 155"
+    ],
+    "1a2b935d1ec37739114723461657e368": [
+        "EGYPTIAN; 120; EGYPT; 1a2b935d1ec37739114723461657e368; Reject; 162",
+        "UNITED NATIONS; 012; EGYPTIAN; 1a2b935d1ec37739114723461657e368; Make pessimistic comment; 163"
+    ],
+    "aebfa48327a5884a5951831c401a6003": [
+        "HAMAS; 173; GAZA; aebfa48327a5884a5951831c401a6003; Arrest, detain, or charge with legal action; 157",
+        "PALESTINIAN; 010; ISRAEL; aebfa48327a5884a5951831c401a6003; Make public statement; 158",
+        "ISRAEL; 1123; SECURITY FORCE; aebfa48327a5884a5951831c401a6003; Accuse of aggression; 159",
+        "HAMAS; 1123; SECURITY FORCE; aebfa48327a5884a5951831c401a6003; Accuse of aggression; 160",
+        "ISRAEL; 160; SECURITY FORCE; aebfa48327a5884a5951831c401a6003; Reduce relations; 161",
+        "ISRAEL; 173; GAZA; aebfa48327a5884a5951831c401a6003; Arrest, detain, or charge with legal action; 165",
+        "HAMAS; 190; GAZA; aebfa48327a5884a5951831c401a6003; Use conventional military force; 169",
+        "GAZA; 160; SECURITY FORCE; aebfa48327a5884a5951831c401a6003; Reduce relations; 170",
+        "PALESTINIAN; 016; ISRAEL; aebfa48327a5884a5951831c401a6003; Reject accusation, deny responsibility; 171"
+    ],
+    "f79fbbfe98fc55b3072cb2ad27e3764d": [
+        "PARTY LEADER; 012; ISRAEL; f79fbbfe98fc55b3072cb2ad27e3764d; Make pessimistic comment; 156",
+        "ISRAEL; 110; ISRAEL; f79fbbfe98fc55b3072cb2ad27e3764d; Verbally disapprove; 164",
+        "PARTY LEADER; 012; PROTESTER; f79fbbfe98fc55b3072cb2ad27e3764d; Make pessimistic comment; 166",
+        "DEFENSE MINIST; 110; ISRAEL; f79fbbfe98fc55b3072cb2ad27e3764d; Verbally disapprove; 167",
+        "DEFENSE MINIST; 110; ADMINISTRATION; f79fbbfe98fc55b3072cb2ad27e3764d; Verbally disapprove; 168"
+    ],
+    "43edb8688966aa0ac95be47c4632aa64": [
+        "ISRAEL; 170; MUSLIM; 43edb8688966aa0ac95be47c4632aa64; Coerce; 172",
+        "EGYPT; 170; MUSLIM; 43edb8688966aa0ac95be47c4632aa64; Coerce; 183"
+    ],
+    "72d02c1561717c8a5fb114a75c115b24": [
+        "HAMAS; 020; GOVERNMENT; 72d02c1561717c8a5fb114a75c115b24; Make an appeal or request; 181"
+    ],
+    "ff68d773893f64644c090323a5899508": [
+        "GAZA; 080; ISRAEL; ff68d773893f64644c090323a5899508; Yield or concede; 184",
+        "SPOKESMAN; 110; WEST BANK; ff68d773893f64644c090323a5899508; Verbally disapprove; 185",
+        "ISRAEL; 173; HAMAS; ff68d773893f64644c090323a5899508; Arrest, detain, or charge with legal action; 186",
+        "ISRAELI; 020; GAZA; ff68d773893f64644c090323a5899508; Make an appeal or request; 187",
+        "PALESTINIAN; 173; HAMAS; ff68d773893f64644c090323a5899508; Arrest, detain, or charge with legal action; 188",
+        "HAMAS; 020; GOVERNMENT; ff68d773893f64644c090323a5899508; Make an appeal or request; 189",
+        "WEST BANK; 110; SPOKESMAN; ff68d773893f64644c090323a5899508; Verbally disapprove; 190",
+        "GAZA; 173; HAMAS; ff68d773893f64644c090323a5899508; Arrest, detain, or charge with legal action; 191",
+        "GAZA; 045; ISRAEL; ff68d773893f64644c090323a5899508; Engage in mediation; 192"
+    ],
+    "62d90795894807385020ecc0cb2821fe": [
+        "MILITARY WING; 154; ISRAEL; 62d90795894807385020ecc0cb2821fe; Mobilize or increase armed forces; 193"
+    ],
+    "edd7fdd3b3490148bee794ac4618c92d": [
+        "MILITARY; 010; ISRAEL; edd7fdd3b3490148bee794ac4618c92d; Make public statement; 219",
+        "TEL AVIV; 111; RESIDENTS; edd7fdd3b3490148bee794ac4618c92d; Criticize or denounce; 220",
+        "EUROPE; 043; ISRAELI; edd7fdd3b3490148bee794ac4618c92d; Host a visit; 221",
+        "MILITARY; 012; TERRORIST; edd7fdd3b3490148bee794ac4618c92d; Make pessimistic comment; 222",
+        "SILVAN SHALOM; 040; CABINET; edd7fdd3b3490148bee794ac4618c92d; Consult or meet; 223",
+        "ISRAEL; 0256; TEL AVIV; edd7fdd3b3490148bee794ac4618c92d; Appeal for de-escalation of military engagement; 224",
+        "ISRAELI; 060; ISRAEL; edd7fdd3b3490148bee794ac4618c92d; Engage in material cooperation; 225",
+        "ISRAELI; 042; EUROPE; edd7fdd3b3490148bee794ac4618c92d; Make a visit; 226",
+        "ISRAEL; 111; RESIDENTS; edd7fdd3b3490148bee794ac4618c92d; Criticize or denounce; 227",
+        "CABINET; 040; SILVAN SHALOM; edd7fdd3b3490148bee794ac4618c92d; Consult or meet; 228",
+        "ISRAEL; 160; WEST BANK; edd7fdd3b3490148bee794ac4618c92d; Reduce relations; 229",
+        "CABINET; 154; IRAQ; edd7fdd3b3490148bee794ac4618c92d; Mobilize or increase armed forces; 230"
+    ]
+}
