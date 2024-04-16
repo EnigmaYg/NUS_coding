@@ -6,7 +6,7 @@ import os
 from tqdm import tqdm
 import pandas as pd
 
-API_KEY = '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'
+API_KEY = ''
 openai.api_key = API_KEY
 
 model_id = 'gpt-4'
