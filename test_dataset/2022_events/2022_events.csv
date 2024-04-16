@@ -1,0 +1,870 @@
+Subject	Relation_id	Relation_choice	Object	Md5
+Alpha Dhabi	010	Make public statement	Record Dh5.2b in '21 net profits	a724498ec1606a7581299226d3779cd3
+Abu Dhabi's Alpha Dhabi	010	Make public statement	Record Dh5.2b in '21 net profits	a724498ec1606a7581299226d3779cd3
+Egypt	030	Express intent to cooperate	Tajikistan	b11fd7358a69628c25222db5a694196d
+Egyptian President Abdel Fattah el-Sisi	040	Consult or meet	Tajikistan President Emomali Rahmon	b11fd7358a69628c25222db5a694196d
+Tajikistan President Emomali Rahmon	040	Consult or meet	Egyptian President Abdel Fattah el-Sisi	b11fd7358a69628c25222db5a694196d
+Egypt	020	Make an appeal or request	Israel	2577d0685d835a6e14296312cdeec1de
+Israel	020	Make an appeal or request	Palestinian Information Centre	759da3c5aca8c8535a0bef536f0d0217
+Israel	020	Make an appeal or request	Yedioth Ahronoth	759da3c5aca8c8535a0bef536f0d0217
+Israel	050	Engage in diplomatic cooperation	Egypt	759da3c5aca8c8535a0bef536f0d0217
+Israel	050	Engage in diplomatic cooperation	Ramat HaNegev regional council	759da3c5aca8c8535a0bef536f0d0217
+Israel	050	Engage in diplomatic cooperation	Arad area, northeast of Beersheba	759da3c5aca8c8535a0bef536f0d0217
+UN climate chief	030	Express intent to cooperate	Egypt	4db488191112cbedd4deef77dfb03f65
+Executive Secretary of the United Nations Framework Convention on Climate Change (UNFCCC) Patricia Espinosa	040	Consult or meet	Egypt's President Abdel-Fattah El-Sisi, Foreign Minister and President-designate of COP27 Sameh Shoukry, and Environment Minister Yasmine Fouad	4db488191112cbedd4deef77dfb03f65
+Egypt's President Abdel-Fattah El-Sisi	040	Consult or meet	Executive Secretary of the United Nations Framework Convention on Climate Change (UNFCCC) Patricia Esp	4db488191112cbedd4deef77dfb03f65
+Suez Canal	010	Make public statement	Egypt	378acde2a2622c6ab4646676e47d357c
+Egypt	030	Express intent to cooperate	Maritime traffic	378acde2a2622c6ab4646676e47d357c
+Egypt	090	Investigate	Falling maritime traffic	378acde2a2622c6ab4646676e47d357c
+Egypt	080	Yield or concede	Claims about maritime traffic	378acde2a2622c6ab4646676e47d357c
+Egypt	160	Reduce relations	International Diabetes Federation	378acde2a2622c6ab4646676e47d357c
+International Diabetes Federation	020	Make an appeal or request	Access to diabetes education	378acde2a2622c6ab4646676e47d357c
+Access to diabetes education	040	Consult or meet	International Diabetes Federation	378acde2a2622c6ab4646676e47d357c
+International Diabetes Federation	030	Express intent to cooperate	World Diabetes Day	378acde2a2622c6ab4646676e47d357c
+Egypt	020	Make an appeal or request	International community	d2f607fe4978775d588ee46e7e16a5dd
+Egypt	030	Express intent to cooperate	International community	d2f607fe4978775d588ee46e7e16a5dd
+Meat prices	080	Yield or concede	International community	d2f607fe4978775d588ee46e7e16a5dd
+Hussein Abu Saddam	040	Consult or meet	International community	d2f607fe4978775d588ee46e7e16a5dd
+International community	090	Investigate	Meat prices, Yield or concede	d2f607fe4978775d588ee46e7e16a5dd
+International community	100	Demand or order	Meat prices, Yield or concede	d2f607fe4978775d588ee46e7e16a5dd
+International community	110	Verbally disapprove	Meat prices, Yield or concede	d2f607fe4978775d588ee46e7e16a5dd
+International community	120	Reject	Meat prices, Yield or concede	d2f607fe4978775d588ee46e7e16a5dd
+Fadia Kiwan	030	Express intent to cooperate	Arab Women Organization (AWO)	63a04ca336bf54648118699220192523
+Fadia Kiwan	040	Consult or meet	Xinhua	63a04ca336bf54648118699220192523
+Xinhua	040	Consult or meet	Fadia Kiwan	63a04ca336bf54648118699220192523
+Arab Women Organization (AWO)	040	Consult or meet	Xinhua	63a04ca336bf54648118699220192523
+Egypt	010	Make public statement	Not specified	baad2e979d0ad80daa8f21cff5f7222e
+Egypt	020	Make an appeal or request	Israel	71dee4a0f732838d0a20be4ac3ac50d6
+Egyptian Civil Aviation Ministry	090	Investigate	Confirmation	71dee4a0f732838d0a20be4ac3ac50d6
+Arab League	020	Make an appeal or request	Algeria	0cc50c1b390ce878cf5d58a7e0ce63d4
+Arab League	020	Make an appeal or request	Algeria	0cc50c1b390ce878cf5d58a7e0ce63d4
+Egypt	030	Express intent to cooperate	IMF	8d9e5c111f565088f1aeb0b39acae3cc
+Minister of Planning Hala El-Said	040	Consult or meet	Reuters News Agency	8d9e5c111f565088f1aeb0b39acae3cc
+Reuters News Agency	040	Consult or meet	Minister of Planning Hala El-Said	8d9e5c111f565088f1aeb0b39acae3cc
+IMF Managing Director Kristalina Georgieva	040	Consult or meet	Egypt	8d9e5c111f565088f1aeb0b39acae3cc
+Egypt	080	Yield or concede	Russia	8d9e5c111f565088f1aeb0b39acae3cc
+Egypt	050	Engage in diplomatic cooperation	Ukraine	8d9e5c111f565088f1aeb0b39acae3cc
+Egypt	060	Engage in material cooperation	IMF	8d9e5c111f565088f1aeb0b39acae3cc
+Egypt	070	Provide aid	MENA countries	8d9e5c111f565088f1aeb0b39acae3cc
+Egypt	160	Reduce relations	Russia	8d9e5c111f565088f1aeb0b39acae3cc
+Man	020	Make an appeal or request	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Man	110	Verbally disapprove	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Wife	080	Yield or concede	Man	eecc655b9f218e8dddd984a1f36b2b57
+Man	130	Threaten	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Man	140	Engage in political dissent	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Man	180	Use unconventional violence including terrorist	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Man	160	Reduce relations	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Man	170	Coerce	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Man	190	Use conventional military force	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Man	200	Use unconventional mass force	Wife	eecc655b9f218e8dddd984a1f36b2b57
+Egypt	110	Verbally disapprove	"""greedy merchants"""	3c858e8b5c96dc5a3f3a71dcd0467789
+Egyptian government	090	Investigate	Rise in wheat prices	3c858e8b5c96dc5a3f3a71dcd0467789
+Local media	040	Consult or meet	Egyptians to reduce daily consumption of bread and wheat products	3c858e8b5c96dc5a3f3a71dcd0467789
+Russia	050	Engage in diplomatic cooperation	Ukraine	3c858e8b5c96dc5a3f3a71dcd0467789
+Bloomberg	040	Consult or meet	Government on boosting wheat stocks	3c858e8b5c96dc5a3f3a71dcd0467789
+Egypt	080	Yield or concede	"""greedy merchants"""	3c858e8b5c96dc5a3f3a71dcd0467789
+Egyptian government	130	Threaten	Rationalize consumption to mitigate the impact of the crisis	3c858e8b5c96dc5a3f3a71dcd0467789
+Egypt	160	Reduce relations	"""greedy"	3c858e8b5c96dc5a3f3a71dcd0467789
+Sharm El-Sheikh	020	Make an appeal or request	Minister of Environment Yasmine Fouad	00889b00e92d6ccc37380c348f2fba4f
+Minister of Environment Yasmine Fouad	040	Consult or meet	Prime Minister Mostafa Madbouly	00889b00e92d6ccc37380c348f2fba4f
+Prime Minister Mostafa Madbouly	040	Consult or meet	Sharm El-Sheikh	00889b00e92d6ccc37380c348f2fba4f
+Sharm El-Sheikh	010	Make public statement	UN Conference of Parties on Climate Change (COP27)	00889b00e92d6ccc37380c348f2fba4f
+UN Conference of Parties on Climate Change (COP27)	050	Engage in diplomatic cooperation	Red Sea resort city	00889b00e92d6ccc37380c348f2fba4f
+Brazil	030	Express intent to cooperate	Egypt	2d98e891422b631b02e070b02dd59b23
+Ramax Trading	040	Consult or meet	Reda Saleh	2d98e891422b631b02e070b02dd59b23
+Reda Saleh	040	Consult or meet	Brazil	2d98e891422b631b02e070b02dd59b23
+Israel	020	Make an appeal or request	Egypt	cf9a40109392d5dbbfb3fd2f83d2eb5c
+Flydubai	010	Make public statement	UAE	3a0204c786efb764554442b9032abc18
+Flydubai	010	Make public statement	UAE	3a0204c786efb764554442b9032abc18
+UAE	010	Make public statement	Flydubai	3a0204c786efb764554442b9032abc18
+Egypt	110	Verbally disapprove	Saudi Arabia	924472239101993728acdbc36d9abf7f
+Egypt	030	Express intent to cooperate	Japan	8187b5fb600ee0c06f96a321b422319a
+Egypt prime minister Mustafa Madbouli	040	Consult or meet	Japanese expert	8187b5fb600ee0c06f96a321b422319a
+Japanese expert	040	Consult or meet	Egypt prime minister Mustafa Madbouli	8187b5fb600ee0c06f96a321b422319a
+Egypt	020	Make an appeal or request	Japan	8187b5fb600ee0c06f96a321b422319a
+Egypt prime minister Mustafa Madbouli	020	Make an appeal or request	Japanese expert	8187b5fb600ee0c06f96a321b422319a
+Japanese expert	020	Make an appeal or request	Egypt prime minister Mustafa Madbouli	8187b5fb600ee0c06f96a321b422319a
+Egypt	090	Investigate	Japan	8187b5fb600ee0c06f96a321b422319a
+Egypt prime minister Mustafa Madbouli	090	Investigate	Japanese expert	8187b5fb600ee0c06f96a321b422319a
+Egypt	020	Make an appeal or request	Wheat farmers	aec6309cc48d8a8e629eb683390195f0
+Egypt's cabinet	040	Consult or meet	Ministry of Supply and Internal Trade	aec6309cc48d8a8e629eb683390195f0
+Ministry of Supply and Internal Trade	040	Consult or meet	Egypt's cabinet	aec6309cc48d8a8e629eb683390195f0
+Wheat farmers	040	Consult or meet	Ministry of Supply and Internal Trade	aec6309cc48d8a8e629eb683390195f0
+Egypt	020	Make an appeal or request	Not specified	5147736416e95a749d8f4f095b7631f3
+Not specified	020	Make an appeal or request	Egypt	5147736416e95a749d8f4f095b7631f3
+Not specified	040	Consult or meet	Ministry of Supply and Internal Trade, Ministry of Finance, Ministry of Agriculture	5147736416e95a749d8f4f095b7631f3
+Ahmed Kamal	040	Consult or meet	Not specified	5147736416e95a749d8f4f095b7631f3
+Egypt	090	Investigate	Disruption of supply lines and global price hikes resulting from the Russian-Ukrainian war	5147736416e95a749d8f4f095b7631f3
+Egypt	080	Yield or concede	Not specified	5147736416e95a749d8f4f095b7631f3
+Egypt	050	Engage in diplomatic cooperation	Not specified	5147736416e95a749d8f4f095b7631f3
+Egypt	070	Provide aid	Not specified	5147736416e95a749d8f4f095b7631f3
+Egypt	160	Reduce relations	Not	5147736416e95a749d8f4f095b7631f3
+Egypt	010	Make public statement	Ministry of Health and Population	615c66e1dfd5d73cace4b54ab5a888c5
+Egypt	090	Investigate	Coronavirus cases	615c66e1dfd5d73cace4b54ab5a888c5
+Egypt	080	Yield or concede	Total number of cases since the outbreak began in February 2020	615c66e1dfd5d73cace4b54ab5a888c5
+Egypt	160	Reduce relations	Total tally of deaths	615c66e1dfd5d73cace4b54ab5a888c5
+Egypt	170	Coerce	25 coronavirus-related fatalities	615c66e1dfd5d73cace4b54ab5a888c5
+Egypt	180	Use unconventional violence including terrorist	24,222	615c66e1dfd5d73cace4b54ab5a888c5
+Egypt	110	Verbally disapprove	Sudan	1e2849f26493bdbeab4584af97d896e7
+Teryola	020	Make an appeal or request	Naseer Shamma	47a5d219b103f6271ee113c10f4b61fd
+Naseer Shamma	040	Consult or meet	Teryola	47a5d219b103f6271ee113c10f4b61fd
+Teryola	050	Engage in diplomatic cooperation	Pierre Boulez Hall	47a5d219b103f6271ee113c10f4b61fd
+Pierre Boulez Hall	050	Engage in diplomatic cooperation	Naseer Shamma	47a5d219b103f6271ee113c10f4b61fd
+Hany El-Badry	030	Express intent to cooperate	Naseer Shamma	47a5d219b103f6271ee113c10f4b61fd
+Mohamed Essam	040	Consult or meet	Naseer Shamma	47a5d219b103f6271ee113c10f4b61fd
+Mohamed Arafa	040	Consult or meet	Naseer Shamma	47a5d219b103f6271ee113c10f4b61fd
+Egypt	020	Make an appeal or request	Palestine and Jordan	792193b5436c73c01636650bf64eb3ba
+Egyptian Minister of Foreign Affairs Sameh Shoukry	040	Consult or meet	Jordanian Minister of Foreign Affairs and Expatriates Ayman Al-Safadi and Palestinian Minister of Foreign Affairs and Expatriates Riad Maliki	792193b5436c73c01636650bf64eb3ba
+Jordanian Minister of Foreign Affairs and Expatriates Ayman Al-Safadi	040	Consult or meet	Egyptian Minister of Foreign Affairs Sameh Shoukry and Palestinian Minister of Foreign Affairs and Expatriates Riad Maliki	792193b5436c73c01636650bf64eb3ba
+Turkey	020	Make an appeal or request	Israel	a4e8c6224ce93b0242e799856461afe6
+Israeli President Isaac Herzog	040	Consult or meet	Turkish officials	a4e8c6224ce93b0242e799856461afe6
+Turkish officials	040	Consult or meet	Israeli President Isaac Herzog	a4e8c6224ce93b0242e799856461afe6
+Israel	020	Make an appeal or request	Turkey	298e1595d3eb745b8d5f2d21c43460bb
+President Isaac Herzog	040	Consult or meet	Turkish President Recep Tayyip Erdogan	298e1595d3eb745b8d5f2d21c43460bb
+Turkish President Recep Tayyip Erdogan	040	Consult or meet	President Isaac Herzog	298e1595d3eb745b8d5f2d21c43460bb
+President Isaac Herzog	020	Make an appeal or request	Turkish President Recep Tayyip Erdogan	298e1595d3eb745b8d5f2d21c43460bb
+Egypt	030	Express intent to cooperate	UAE and Saudi Arabia	8b881ea3720f211e53ab425a43c39420
+Egypt	110	Verbally disapprove	Unknown actors	8b881ea3720f211e53ab425a43c39420
+Unknown actors	110	Verbally disapprove	Egypt	8b881ea3720f211e53ab425a43c39420
+Egypt	130	Threaten	Unknown actors	8b881ea3720f211e53ab425a43c39420
+Unknown actors	130	Threaten	Egypt	8b881ea3720f211e53ab425a43c39420
+Egypt	160	Reduce relations	Unknown actors	8b881ea3720f211e53ab425a43c39420
+Unknown actors	160	Reduce relations	Egypt	8b881ea3720f211e53ab425a43c39420
+Egypt	170	Coerce	Unknown actors	8b881ea3720f211e53ab425a43c39420
+Unknown actors	170	Coerce	Egypt	8b881ea3720f211e53ab425a43c39420
+Egypt	180	Use unconventional violence including terrorist	Unknown actors	8b881ea3720f211e53ab425a43c39420
+Ukrainian police officer	110	Verbally disapprove	Russian forces	f7d191dff1988ef8862f561736255bc1
+Ukrainian police officer	040	Consult or meet	PBS correspondent Jane Ferguson	f7d191dff1988ef8862f561736255bc1
+PBS correspondent Jane Ferguson	040	Consult or meet	Ukrainian police officer	f7d191dff1988ef8862f561736255bc1
+American journalist	010	Make public statement	Russian forces	f7d191dff1988ef8862f561736255bc1
+American journalist	010	Make public statement	Brent Renaud	f7d191dff1988ef8862f561736255bc1
+Brent Renaud	010	Make public statement	American journalist	f7d191dff1988ef8862f561736255bc1
+Russian forces	010	Make public statement	Brent Renaud	f7d191dff1988ef8862f561736255bc1
+Russian forces	010	Make public statement	American journalist	f7d191dff1988ef8862f561736255bc1
+Russian forces	090	Investigate	American journalist	f7d191dff1988ef8862f561736255bc1
+Russian forces	090	Investigate	Brent Rena	f7d191dff1988ef8862f561736255bc1
+Saudi Arabia	010	Make public statement	Executed man	b2318ec0a06179c5e4039af5c6a1fb16
+Saudi Arabia	010	Make public statement	Executed man	b2318ec0a06179c5e4039af5c6a1fb16
+Israel	020	Make an appeal or request	Egypt	0c92dbb83c2056c7166be7386b97a430
+International Diabetes Federation	040	Consult or meet	World Diabetes Day	0c92dbb83c2056c7166be7386b97a430
+Egypt	030	Express intent to cooperate	Tajikistan	2753d2ce529200732e769e12dfd2aff7
+Egypt president Abdel Fattah El-Sisi	040	Consult or meet	Tajik president Emomali Rahmon	2753d2ce529200732e769e12dfd2aff7
+President Abdel-Fattah El-Sisi	010	Make public statement	Tajik president Emomali Rahmon	2753d2ce529200732e769e12dfd2aff7
+Tajik president Emomali Rahmon	010	Make public statement	President Abdel-Fattah	2753d2ce529200732e769e12dfd2aff7
+US	020	Make an appeal or request	Egypt	93a7efd8fe7571b96b76b5ad18e99b17
+General Frank McKenzie	040	Consult or meet	Senate Armed Services Committee	93a7efd8fe7571b96b76b5ad18e99b17
+Egypt	090	Investigate	US	93a7efd8fe7571b96b76b5ad18e99b17
+US	100	Demand or order	Egypt	93a7efd8fe7571b96b76b5ad18e99b17
+Egypt	050	Engage in diplomatic cooperation	US	93a7efd8fe7571b96b76b5ad18e99b17
+US	070	Provide aid	Egypt	93a7efd8fe7571b96b76b5ad18e99b17
+Egypt	080	Yield or concede	US	93a7efd8fe7571b96b76b5ad18e99b17
+US	180	Use unconventional violence including terrorist	Egypt	93a7efd8fe7571b96b76b5ad18e99b17
+Egypt	160	Reduce relations	US	93a7efd8fe7571b96b76b5ad18e99b17
+General Frank McKenzie	110	Verbally disapprove	US	93a7efd8fe7571b96b76b5ad18e99b17
+US	130	Threaten	Egypt	93a7efd8fe7571b96b76b5ad18e99b17
+Egypt	170	Coerce	US	93a7efd8fe7571b96b76b5ad18e99b17
+Egyptian Youth Council	020	Make an appeal or request	Civil society institutions in cooperation with the German Friedrich Naumann Foundation	57a48af081ed1658e5f9ebe57fd6ab6d
+Egyptian Youth Council	040	Consult or meet	Civil society institutions in cooperation with the German Friedrich Naumann Foundation	57a48af081ed1658e5f9ebe57fd6ab6d
+Palestinians	020	Make an appeal or request	Saudi Arabia	445f0e5b275ef88db0702df90895af95
+Palestinian pilgrims	040	Consult or meet	Hamas-run Interior Ministry	445f0e5b275ef88db0702df90895af95
+Hamas-run Interior Ministry	040	Consult or meet	Palestinian pilgrims	445f0e5b275ef88db0702df90895af95
+Awad Abu Madkour	040	Consult or meet	Chairman of the Association of Hajj and Umrah Companies in Gaza	445f0e5b275ef88db0702df90895af95
+Gaza	050	Engage in diplomatic cooperation	Egypt	445f0e5b275ef88db0702df90895af95
+Rafah border crossing	050	Engage in diplomatic cooperation	Egypt	445f0e5b275ef88db0702df90895af95
+Palestinian pilgrims	010	Make public statement	Anad	445f0e5b275ef88db0702df90895af95
+Demi Lovato	020	Make an appeal or request	Archaeologist Peter Campbell	91e7ee90c1b7a12d66db6c86579cca9f
+Archaeologist Peter Campbell	020	Make an appeal or request	Demi Lovato	91e7ee90c1b7a12d66db6c86579cca9f
+Egypt	030	Express intent to cooperate	Sudan	725d0da7a7bae8cdf1913e1c94801eeb
+Osama Askar	040	Consult or meet	Mohamed Othman Al-Hussein	725d0da7a7bae8cdf1913e1c94801eeb
+Mohamed Othman Al-Hussein	040	Consult or meet	Osama Askar	725d0da7a7bae8cdf1913e1c94801eeb
+Lebanon	020	Make an appeal or request	Arab countries	6cf595f600b62f31127460c03e3d8ed8
+Foreign Minister Abdallah Bou Habib	040	Consult or meet	Arab League's ministerial council in Cairo	6cf595f600b62f31127460c03e3d8ed8
+Arab League's ministerial council in Cairo	040	Consult or meet	Foreign Minister Abdallah Bou Habib	6cf595f600b62f31127460c03e3d8ed8
+Saudi Arabia	020	Make an appeal or request	Egypt	79fc59ed501925738125a5d47ca839d7
+Egyptian President Abdel Fattah El-Sisi	040	Consult or meet	Saudi Arabia	79fc59ed501925738125a5d47ca839d7
+Saudi Arabia	040	Consult or meet	Egyptian President Abdel Fattah El-Sisi	79fc59ed501925738125a5d47ca839d7
+Egypt	030	Express intent to cooperate	Saudi Arabia	79fc59ed501925738125a5d47ca839d7
+Saudi Press Agency	040	Consult or meet	Egyptian President Abdel Fattah El-Sisi	79fc59ed501925738125a5d47ca839d7
+Egyptian President Abdel Fattah El-Sisi	040	Consult or meet	Saudi Press Agency	79fc59ed501925738125a5d47ca839d7
+Egypt	040	Consult or meet	Saudi	79fc59ed501925738125a5d47ca839d7
+Egypt	030	Express intent to cooperate	UN Climate Change Conference COP27	8011ed28ffcb6611b3ca0780dfd37ffb
+Minister of Environment Yasmine Fouad	040	Consult or meet	Egypt president Abdel Fattah Al-Sisi	8011ed28ffcb6611b3ca0780dfd37ffb
+Egypt president Abdel Fattah Al-Sisi	040	Consult or meet	Minister of Environment Yasmine Fouad	8011ed28ffcb6611b3ca0780dfd37ffb
+Minister of Environment Yasmine Fouad	040	Consult or meet	UN Climate Change Conference COP27	8011ed28ffcb6611b3ca0780dfd37ffb
+Egypt	030	Express intent to cooperate	Russia	e9dc79d8b0fffe49c36ddda49f3df4ab
+Egyptian President Abdel-Fattah al-Sisi	040	Consult or meet	Russian President Vladimir Putin	e9dc79d8b0fffe49c36ddda49f3df4ab
+Russian President Vladimir Putin	040	Consult or meet	Egyptian President Abdel-Fattah al-Sisi	e9dc79d8b0fffe49c36ddda49f3df4ab
+Qatar	020	Make an appeal or request	Arab League Council	96f0dc3fb434560367a3d0e1fda9627c
+Qatar	020	Make an appeal or request	Lebanon	96f0dc3fb434560367a3d0e1fda9627c
+Qatar	020	Make an appeal or request	HE Director of Arab Affairs Department of the Ministry of Foreign Affairs Nayef bin Abdullah Al Emadi	96f0dc3fb434560367a3d0e1fda9627c
+Egypt	010	Make public statement	Ministry of Health and Population	fa23b1b58ef53377085b64b68a18c5cc
+Egypt Ministry of Health and Population	040	Consult or meet	Hossam Abdel-Ghaffar, health ministry spokesman	fa23b1b58ef53377085b64b68a18c5cc
+Hossam Abdel-Ghaffar, health ministry spokesman	040	Consult or meet	Egypt Ministry of Health and Population	fa23b1b58ef53377085b64b68a18c5cc
+Egypt	030	Express intent to cooperate	Armed Forces	d6755ddb04ee2b4c16c6eb732447abf3
+Egyptian President Abdel Fattah El-Sisi	040	Consult or meet	Asharq Al-Awsat	d6755ddb04ee2b4c16c6eb732447abf3
+Asharq Al-Awsat	040	Consult or meet	Egyptian President Abdel Fattah El-Sisi	d6755ddb04ee2b4c16c6eb732447abf3
+Egypt	020	Make an appeal or request	Nationals of Egypt in Ukraine	3ab6965a30c161b40e8bbde8bc46fd58
+Egyptian Embassy in Bucharest	040	Consult or meet	Nationals of Egypt in Ukraine	3ab6965a30c161b40e8bbde8bc46fd58
+Romanian authorities	090	Investigate	Entry stamp granted to Egyptians	3ab6965a30c161b40e8bbde8bc46fd58
+Egyptian Embassy in Bucharest	040	Consult or meet	Romanian authorities	3ab6965a30c161b40e8bbde8bc46fd58
+Egyptian Embassy in Bucharest	070	Provide aid	Accommodations for Egyptians	3ab6965a30c161b40e8bbde8bc46fd58
+Egyptian Embassy in Bucharest	130	Threaten	Expiration of temporary entry stamp	3ab6965a30c161b40e8bbde8bc46fd58
+Germany	020	Make an appeal or request	Egyptian woman killed by racist	6e65ef1eede7b7c1f1dadaf6257938e1
+Mayor of Dresden, Dirk Hilbert	040	Consult or meet	Not specified	6e65ef1eede7b7c1f1dadaf6257938e1
+Not specified	040	Consult or meet	Not specified	6e65ef1eede7b7c1f1dadaf6257938e1
+Renaming a park	050	Engage in diplomatic cooperation	Not specified	6e65ef1eede7b7c1f1dadaf6257938e1
+Not specified	040	Consult or meet	Not specified	6e65ef1eede7b7c1f1dadaf6257938e1
+Marwa El-Sherbini	010	Make public statement	Not specified	6e65ef1eede7b7c1f1dadaf6257938e1
+Not specified	040	Consult or meet	Not specified	6e65ef1eede7b7c1f1dadaf6257938e1
+Not specified	090	Investigate	Not specified	6e65ef1eede7b7c1f1dadaf6257938e1
+Not specified	100	Demand or order	Not specified	6e65ef1eede7b7c1f1dadaf6257938e1
+Not specified	110	Verbally disapprove	Not	6e65ef1eede7b7c1f1dadaf6257938e1
+Egypt	020	Make an appeal or request	Ethiopia	ff80cc9aa639e58bfd58bfc4227d8f1a
+Egypt and Sudan	040	Consult or meet	African Union (AU)	ff80cc9aa639e58bfd58bfc4227d8f1a
+Egypt	110	Verbally disapprove	Ethiopia	ff80cc9aa639e58bfd58bfc4227d8f1a
+Sudan	040	Consult or meet	African Union (AU)	ff80cc9aa639e58bfd58bfc4227d8f1a
+Sudan	110	Verbally disapprove	Ethiopia	ff80cc9aa639e58bfd58bfc4227d8f1a
+Sisi	020	Make an appeal or request	Saudi Arabia	03e98852ae0c8b2173ca082957e01978
+Egyptian President Abdel Fattah Al-Sisi	040	Consult or meet	Saudi Arabia	03e98852ae0c8b2173ca082957e01978
+Saudi Arabia	040	Consult or meet	Egyptian President Abdel Fattah Al-Sisi	03e98852ae0c8b2173ca082957e01978
+Egyptian President Abdel Fattah Al-Sisi	110	Verbally disapprove	Kuwait	03e98852ae0c8b2173ca082957e01978
+Kuwait	040	Consult or meet	Egyptian President Abdel Fattah Al-Sisi	03e98852ae0c8b2173ca082957e01978
+Egyptian President Abdel Fattah Al-Sisi	130	Threaten	Gulf States	03e98852ae0c8b2173ca082957e01978
+Egypt	030	Express intent to cooperate	Arab nations	c49f711a1e7c3adaf5eb0193774a075a
+Egypt foreign minister Sameh Shoukry	040	Consult or meet	Arab League Council at the ministerial level	c49f711a1e7c3adaf5eb0193774a075a
+Arab League Council at the ministerial level	040	Consult or meet	Egypt foreign minister Sameh Shoukry	c49f711a1e7c3adaf5eb0193774a075a
+Sisi	030	Express intent to cooperate	Putin	26038df777ae77a3e80be6250fb4a33d
+Sisi	110	Verbally disapprove	Russian actions in Ukraine	26038df777ae77a3e80be6250fb4a33d
+Egypt	040	Consult or meet	Putin	26038df777ae77a3e80be6250fb4a33d
+Egypt	070	Provide aid	Egyptian citizens in Ukraine	26038df777ae77a3e80be6250fb4a33d
+Egypt	080	Yield or concede	Diplomatic cooperation between Egypt and Russia	26038df777ae77a3e80be6250fb4a33d
+Egypt	050	Engage in diplomatic cooperation	Russia	26038df777ae77a3e80be6250fb4a33d
+Egypt	050	Engage in diplomatic cooperation	Ukraine	26038df777ae77a3e80be6250fb4a33d
+Egypt	160	Reduce relations	Russia	26038df777ae77a3e80be6250fb4a33d
+Egypt	170	Coerce	Russian actions in Ukraine	26038df777ae77a3e80be6250fb4a33d
+Egypt	180	Use unconventional violence including terrorist	Russian actions in Ukraine	26038df777ae77a3e80be6250fb4a33d
+Iran	020	Make an appeal or request	Israel	220d38c05dca7101c9e3ea115aeb6c2f
+Top U.S. general in the Middle East	040	Consult or meet	Senate Armed Services Committee	220d38c05dca7101c9e3ea115aeb6c2f
+Gen Frank McKenzie	040	Consult or meet	Top general in the Middle East	220d38c05dca7101c9e3ea115aeb6c2f
+Israel	080	Yield or concede	Iran	220d38c05dca7101c9e3ea115aeb6c2f
+Iran	130	Threaten	Israel	220d38c05dca7101c9e3ea115aeb6c2f
+Iran	180	Use unconventional violence including terrorist	Israel	220d38c05dca7101c9e3ea115aeb6c2f
+Iran	190	Use conventional military force	Israel	220d38c05dca7101c9e3ea115aeb6c2f
+Iran	160	Reduce relations	Israel	220d38c05dca7101c9e3ea115aeb6c2f
+Israel	170	Coerce	Iran	220d38c05dca7101c9e3ea115aeb6c2f
+Iran	150	Exhibit military or police power	Israel	220d38c05dca7101c9e3ea115aeb6c2f
+Iran	110	Verbally disapprove	Israel	220d38c05dca7101c9e3ea115aeb6c2f
+Washington	020	Make an appeal or request	Egypt	be14bbaa13418ced004845a722b31593
+Egypt	020	Make an appeal or request	Saudi Arabia	40d81c88ad0664de2bfd0134ecae3cf5
+Saudi Arabia	020	Make an appeal or request	Egypt	6d6b98c32162cdb805f42b4482affbd1
+Saudi Arabia	020	Make an appeal or request	Egypt president Abdel Fattah Al-Sisi	6d6b98c32162cdb805f42b4482affbd1
+United States	020	Make an appeal or request	Syrian government	3798faf29d41b32186e85990196305bd
+Bipartisan group of US lawmakers	040	Consult or meet	Syrian government	3798faf29d41b32186e85990196305bd
+Syrian government	040	Consult or meet	Bipartisan group of US lawmakers	3798faf29d41b32186e85990196305bd
+Bipartisan group of US lawmakers	030	Express intent to cooperate	Syrian government	3798faf29d41b32186e85990196305bd
+United States	110	Verbally disapprove	Syrian government	3798faf29d41b32186e85990196305bd
+Syrian government	080	Yield or concede	Biden's policy of rapprochement with Assad	3798faf29d41b32186e85990196305bd
+Egypt	030	Express intent to cooperate	Lebanon	1e1bad464e5775072ef94d27ed873f66
+Egypt president Abdel Fattah Al-Sisi	040	Consult or meet	Lebanese parliamentary speaker Nabih Berri	1e1bad464e5775072ef94d27ed873f66
+Cabinet spokesman Nader Saad	040	Consult or meet	Egypt's Prime Minister Mostafa Madbouly	1e1bad464e5775072ef94d27ed873f66
+Egypt	030	Express intent to cooperate	Siemens	cc17864de13dcff9056fbbadd1c2928d
+Egypt Minister of Petroleum and Mineral Resources Tarek El-Molla	040	Consult or meet	CEO of Siemens Middle East Dietmar Siersdorfer	cc17864de13dcff9056fbbadd1c2928d
+CEO of Siemens Middle East Dietmar Siersdorfer	040	Consult or meet	Egypt Minister of Petroleum and Mineral Resources Tarek El-Molla	cc17864de13dcff9056fbbadd1c2928d
+Egypt	020	Make an appeal or request	Siemens	cc17864de13dcff9056fbbadd1c2928d
+Egypt	030	Express intent to cooperate	Gulf countries	0d32d079d39c776c90b9ba0078f3721c
+Egypt president Abdel Fattah Al-Sisi	040	Consult or meet	Saudi Arabian officials	0d32d079d39c776c90b9ba0078f3721c
+Saudi Arabian officials	040	Consult or meet	Egypt president Abdel Fattah Al-Sisi	0d32d079d39c776c90b9ba0078f3721c
+Judge Jackson	020	Make an appeal or request	Harvard group	a1c4bf32e5a22387341fbb9643902a94
+Leonard Jeffries	020	Make an appeal or request	Harvard student group	a1c4bf32e5a22387341fbb9643902a94
+Judge Jackson	110	Verbally disapprove	Leonard Jeffries	a1c4bf32e5a22387341fbb9643902a94
+Judge Jackson	120	Reject	Leonard Jeffries	a1c4bf32e5a22387341fbb9643902a94
+Harvard University	040	Consult or meet	Leonard Jeffries	a1c4bf32e5a22387341fbb9643902a94
+Judge Jackson	080	Yield or concede	Leonard Jeffries	a1c4bf32e5a22387341fbb9643902a94
+Judge Jackson	090	Investigate	Leonard Jeffries	a1c4bf32e5a22387341fbb9643902a94
+Judge Jackson	100	Demand or order	Harvard student	a1c4bf32e5a22387341fbb9643902a94
+IDF	090	Investigate	Sinai drug smugglers	7bfc6d595c34ce8b75e864ee3d57a549
+IDF	090	Investigate	Sinai drug smugglers	7bfc6d595c34ce8b75e864ee3d57a549
+UAE	030	Express intent to cooperate	Arab League	b60444f9dda67347305d20dc96c6bd86
+Khalifa Shaheen Al Marar	040	Consult or meet	Arab League Council	b60444f9dda67347305d20dc96c6bd86
+Arab League Council	040	Consult or meet	UAE delegation	b60444f9dda67347305d20dc96c6bd86
+UAE delegation	040	Consult or meet	Khalifa Shaheen Al Marar	b60444f9dda67347305d20dc96c6bd86
+UAE	010	Make public statement	Houthi militias	b60444f9dda67347305d20dc96c6bd86
+UAE	090	Investigate	Houthi terrorist attacks	b60444f9dda67347305d20dc96c6bd86
+UAE	130	Threaten	Houthi terrorist attacks	b60444f9dda67347305d20dc96c6bd86
+UAE	050	Engage in diplomatic cooperation	Saudi Arabia	b60444f9dda67347305d20dc96c6bd86
+Egypt	030	Express intent to cooperate	AfDB	6f053ae8d53b2c6ed4f9317ff584c2c0
+Minister of International Cooperation Rania Al-Mashat	040	Consult or meet	Vice President for Energy, Climate and Green Growth Kevin Kariuki	6f053ae8d53b2c6ed4f9317ff584c2c0
+Vice President for Energy, Climate and Green Growth Kevin Kariuki	040	Consult or meet	Minister of International Cooperation Rania Al-Mashat	6f053ae8d53b2c6ed4f9317ff584c2c0
+Egypt	110	Verbally disapprove	Abdel Moneim Aboul Fotouh	9b189249a1550fc9133073186b77b454
+Egypt	050	Engage in diplomatic cooperation	Human rights lawyer Ahmed Abul-Ela Madi	9b189249a1550fc9133073186b77b454
+Abdel Moneim Aboul Fotouh	050	Engage in diplomatic cooperation	Human rights lawyer Ahmed Abul-Ela Madi	9b189249a1550fc9133073186b77b454
+Iran	020	Make an appeal or request	International community	b745a192b079fbc932b3aa58baebf9f1
+Not specified	020	Make an appeal or request	Not specified	b745a192b079fbc932b3aa58baebf9f1
+Not specified	020	Make an appeal or request	Not specified	b745a192b079fbc932b3aa58baebf9f1
+US Vice President Kamala Harris	040	Consult or meet	Philippine island near China-claimed waters	f3aa8874325cb348fcf4516e0e6d9980
+Philippines	080	Yield or concede	Beijing’s growing influence in the region	f3aa8874325cb348fcf4516e0e6d9980
+Harris	110	Verbally disapprove	Beijing’s growing influence in the region	f3aa8874325cb348fcf4516e0e6d9980
+Philippines	160	Reduce relations	Beijing	f3aa8874325cb348fcf4516e0e6d9980
+Harris	130	Threaten	Beijing	f3aa8874325cb348fcf4516e0e6d9980
+Egypt	020	Make an appeal or request	US defense company Lockheed Martin	a56409f8eb7ab49550423e4e0e033225
+US defense company Lockheed Martin	040	Consult or meet	Egypt	a56409f8eb7ab49550423e4e0e033225
+Egypt	090	Investigate	US defense company Lockheed Martin	a56409f8eb7ab49550423e4e0e033225
+International Diabetes Federation	040	Consult or meet	Egypt	a56409f8eb7ab49550423e4e0e033225
+Egypt	030	Express intent to cooperate	International Diabetes Federation	a56409f8eb7ab49550423e4e0e033225
+Egypt	160	Reduce relations	International Diabetes Federation	a56409f8eb7ab49550423e4e0e033225
+Egypt	110	Verbally disapprove	Inadequate knowledge about the prevention and management of diabetes in many countries	a56409f8eb7ab49550423e4e0e033225
+Egypt	130	Threaten	Inadequate knowledge about the prevention and management	a56409f8eb7ab49550423e4e0e033225
+Egyptian President Abdel Fattah al-Sisi	040	Consult or meet	Russian President Vladimir Putin	b0ae36f41441636875c6deeb3d9c65f3
+Egypt	030	Express intent to cooperate	UNRWA	cea366e23244c3ae51c64819da2fffb4
+Egyptian President Abdel Fattah el-Sisi	040	Consult or meet	(not specified)	cea366e23244c3ae51c64819da2fffb4
+Saudi Arabia	020	Make an appeal or request	United Arab Emirates	c2789fb6d66f13ccfcdc2ba0b8d53103
+Saudi Arabia Minister of Islamic Affairs Sheikh Dr. Abdullatif bin Abdulaziz Al-Sheikh	040	Consult or meet	United Arab Emirates	c2789fb6d66f13ccfcdc2ba0b8d53103
+United Arab Emirates	040	Consult or meet	Saudi Arabia Minister of Islamic Affairs Sheikh Dr. Abdullatif bin Abdulaziz Al-Sheikh	c2789fb6d66f13ccfcdc2ba0b8d53103
+Saudi Arabia Minister of Islamic Affairs Sheikh Dr. Abdullatif bin Abdulaziz Al-Sheikh	040	Consult or meet	Gulf Cooperation Council	c2789fb6d66f13ccfcdc2ba0b8d53103
+Kuwait	110	Verbally disapprove	Not specified	e87f630f2e0bb4e90d06114fa7fd0723
+Not specified	110	Verbally disapprove	Not specified	e87f630f2e0bb4e90d06114fa7fd0723
+Not specified	110	Verbally disapprove	Not specified	e87f630f2e0bb4e90d06114fa7fd0723
+Egypt	020	Make an appeal or request	Saudi Arabia	7374f5978f60f62ce22177b5cdce03b9
+Egypt	050	Engage in diplomatic cooperation	Saudi Arabia	7374f5978f60f62ce22177b5cdce03b9
+ACWA	070	Provide aid	Egypt	7374f5978f60f62ce22177b5cdce03b9
+ACWA	060	Engage in material cooperation	Egypt	7374f5978f60f62ce22177b5cdce03b9
+Egypt	080	Yield or concede	Saudi Arabia	7374f5978f60f62ce22177b5cdce03b9
+Egypt	090	Investigate	Saudi Arabia	7374f5978f60f62ce22177b5cdce03b9
+Egypt	100	Demand or order	Saudi Arabia	7374f5978f60f62ce22177b5cdce03b9
+Egypt	110	Verbally disapprove	Saudi Arabia	7374f5978f60f62ce22177b5cdce03b9
+Egypt	120	Reject	Saudi Arabia	7374f5978f60f62ce22177b5cdce03b9
+Egypt	130	Threaten	Saudi Arabia	7374f5978f60f62ce22177b5cdce03b9
+Egypt	140	Engage in political dissent	Sa	7374f5978f60f62ce22177b5cdce03b9
+Egypt	030	Express intent to cooperate	N/A	6b23b18fddb7736716f5852eb0dab5e3
+Mohamed Al-Orabi	040	Consult or meet	N/A	6b23b18fddb7736716f5852eb0dab5e3
+N/A	040	Consult or meet	Mohamed Al-Orabi	6b23b18fddb7736716f5852eb0dab5e3
+Egypt	110	Verbally disapprove	No need for more wheat imports in short or medium term	5876d9efc5597515b46a18248560f73c
+Egypt	080	Yield or concede	Inadequate knowledge about the prevention and management of diabetes	5876d9efc5597515b46a18248560f73c
+International Diabetes Federation	040	Consult or meet	World Diabetes Day	5876d9efc5597515b46a18248560f73c
+Ukraine	020	Make an appeal or request	Egypt	83e3a7e184b5a37ed9e8e2a22584f480
+Ukrainian Chargé d'Affaires in Egypt Ruslan Nechai	020	Make an appeal or request	Egyptian government	83e3a7e184b5a37ed9e8e2a22584f480
+Egyptian government	040	Consult or meet	Ukrainian Chargé d'Affaires in Egypt Ruslan Nechai	83e3a7e184b5a37ed9e8e2a22584f480
+EgyptAir	050	Engage in diplomatic cooperation	Ukrainian tourists	83e3a7e184b5a37ed9e8e2a22584f480
+Cairo Air	050	Engage in diplomatic cooperation	Ukrainian tourists	83e3a7e184b5a37ed9e8e2a22584f480
+Ukrainian tourists	080	Yield or concede	Egyptian government	83e3a7e184b5a37ed9e8e2a22584f480
+Egypt	030	Express intent to cooperate	Saudi Arabia	56593e479d24b7135a6bc6b4973c616c
+Egypt president Abdel Fattah El-Sisi	040	Consult or meet	Crown Prince Mohamemed Bin Salman	56593e479d24b7135a6bc6b4973c616c
+Crown Prince Mohamemed Bin Salman	040	Consult or meet	Egypt president Abdel Fattah El-Sisi	56593e479d24b7135a6bc6b4973c616c
+Presidential Spokesman Bassam Rady	040	Consult or meet	King Salman bin Abdulaziz Al Saud and the crown prince	56593e479d24b7135a6bc6b4973c616c
+King Salman bin Abdulaziz Al Saud and the crown prince	040	Consult or meet	Presidential Spokesman Bassam Rady	56593e479d24b7135a6bc6b4973c616c
+Liverpool	020	Make an appeal or request	Arsenal	314230b05461f60b4f3359e945eec164
+Mohamed Salah	020	Make an appeal or request	Juergen Klopp	314230b05461f60b4f3359e945eec164
+Juergen Klopp	040	Consult or meet	Liverpool's Mohamed Salah	314230b05461f60b4f3359e945eec164
+Liverpool	090	Investigate	Arsenal	314230b05461f60b4f3359e945eec164
+Liverpool	110	Verbally disapprove	Arsenal	314230b05461f60b4f3359e945eec164
+Liverpool	130	Threaten	Arsenal	314230b05461f60b4f3359e945eec164
+Liverpool	140	Engage in political dissent	Arsenal	314230b05461f60b4f3359e945eec164
+Liverpool	180	Use unconventional violence including terrorist	Arsenal	314230b05461f60b4f3359e945eec164
+Liverpool	160	Reduce relations	Arsenal	314230b05461f60b4f3359e945eec164
+Liverpool	170	Coerce	Arsen	314230b05461f60b4f3359e945eec164
+The Knowledge Summit 2022	020	Make an appeal or request	United Nations Development Programme (UNDP)	5c5c7b07f7b6d73baff01303cffbc7a2
+Mohammad Bin Rashid Al Maktoum Knowledge Foundation (MBRF)	040	Consult or meet	United Nations Development Programme (UNDP)	5c5c7b07f7b6d73baff01303cffbc7a2
+United Nations Development Programme (UNDP)	040	Consult or meet	Mohammad Bin Rashid Al Maktoum Knowledge Foundation (MBRF)	5c5c7b07f7b6d73baff01303cffbc7a2
+UAE	020	Make an appeal or request	US	1cef1635be744c23dc1a4b0dc0ca6c95
+UAE	180	Use unconventional violence including terrorist	Russia's invasion of Ukraine	1cef1635be744c23dc1a4b0dc0ca6c95
+UAE ambassador to Washington	040	Consult or meet	US president	1cef1635be744c23dc1a4b0dc0ca6c95
+Egypt	110	Verbally disapprove	Not specified	c677aa584d75aa44acc3e0bb199d85f4
+Not specified	110	Verbally disapprove	Egypt	c677aa584d75aa44acc3e0bb199d85f4
+Isis Moustafa	130	Threaten	Not specified	c677aa584d75aa44acc3e0bb199d85f4
+Not specified	130	Threaten	Isis Moustafa	c677aa584d75aa44acc3e0bb199d85f4
+Woman	020	Make an appeal or request	Police	9175097df83c8d0151a16efc26626c80
+Woman in her 60s	040	Consult or meet	Police	9175097df83c8d0151a16efc26626c80
+"Sisi in Riyadh…The Consolidation of an Arab Regional Order
+
+Egypt"	030	Express intent to cooperate	Saudi Arabia	119d5f2c500307d974191af7536e28d5
+Egypt president Abdel Fattah Al-Sisi	040	Consult or meet	Saudi Arabia	119d5f2c500307d974191af7536e28d5
+Saudi Arabia	040	Consult or meet	Egypt president Abdel Fattah Al-Sisi	119d5f2c500307d974191af7536e28d5
+Egypt	020	Make an appeal or request	Saudi Arabia	119d5f2c500307d974191af7536e28d5
+Egypt president Abdel Fattah Al-Sisi	020	Make an appeal or request	Saudi Arabia	119d5f2c500307d974191af7536e28d5
+Egypt	050	Engage in diplomatic cooperation	Saudi Arabia	119d5f2c500307d974191af7536e28d5
+The writer	030	Express intent to cooperate	Independent Centre for Research and Security Studies, Islamabad	1c18d9ae89ecbfcb34b017dee5f880ab
+Anissa Hassouna	020	Make an appeal or request	Egypt	23b263f54ed863612e4b5dc468f0f1bf
+Egypt	040	Consult or meet	President Abdel-Fattah El-Sisi	2206142e2797928cff31719d607f697d
+Malaysia	030	Express intent to cooperate	Egypt	c26ae51c3b719d63299b6cbaf439c7c6
+Malaysia's Foreign Minister Saifuddin Abdullah	040	Consult or meet	Egyptian FM Sameh Shoukry	c26ae51c3b719d63299b6cbaf439c7c6
+Egyptian FM Sameh Shoukry	040	Consult or meet	Malaysia's Foreign Minister Saifuddin Abdullah	c26ae51c3b719d63299b6cbaf439c7c6
+Egyptian Red Crescent	020	Make an appeal or request	Romanian government and the International Federation of the Red Cross (IFRC)	caf3f7ea4d7ad8863e466392b5f1fabb
+Egyptian Red Crescent team	040	Consult or meet	Romanian government and the International Federation of the Red Cross (IFRC)	caf3f7ea4d7ad8863e466392b5f1fabb
+Egyptian Red Crescent team	070	Provide aid	Refugees fleeing the conflict in Ukraine	caf3f7ea4d7ad8863e466392b5f1fabb
+Egypt	110	Verbally disapprove	Iraqi city of Irbil	c247d9ca12d05d38cb5b6e8f3c5ac2d0
+Egypt	030	Express intent to cooperate	African countries (11 states)	2a8e05dc16c0f260645fc6715482969f
+Egyptian Minister of Agriculture	040	Consult or meet	Envoys of African countries	2a8e05dc16c0f260645fc6715482969f
+Envoys of African countries	040	Consult or meet	Egyptian Minister of Agriculture	2a8e05dc16c0f260645fc6715482969f
+Jesus or Esther?	030	Express intent to cooperate	Rabbi	ba8b6391882948a781d8f8f8f8064c97
+Dr. Abraham J. Berkovitz	040	Consult or meet	Jewish midrash (creative interpretation)	ba8b6391882948a781d8f8f8f8064c97
+Jewish midrash (creative interpretation)	040	Consult or meet	Rabbi	ba8b6391882948a781d8f8f8f8064c97
+Psalm 22	020	Make an appeal or request	King Ahasuerus	ba8b6391882948a781d8f8f8f8064c97
+King Ahasuerus	040	Consult or meet	Prophet Esther	ba8b6391882948a781d8f8f8f8064c97
+Prophet Esther	040	Consult or meet	Psalm 22	ba8b6391882948a781d8f8f8f8064c97
+Psalm 22	020	Make an appeal or request	Messiah Jesus	ba8b6391882948a781d8f8f8f8064c97
+Egypt	030	Express intent to cooperate	Malaysia	d049db3dd9dc5c6490fdccf9e8c86e2a
+Egypt's Foreign Minister Sameh Shoukry	040	Consult or meet	Malaysian Prime Minister Ismail Sabri Yaakob	d049db3dd9dc5c6490fdccf9e8c86e2a
+Malaysian Prime Minister Ismail Sabri Yaakob	040	Consult or meet	Egypt's Foreign Minister Sameh Shoukry	d049db3dd9dc5c6490fdccf9e8c86e2a
+Ukraine	050	Engage in diplomatic cooperation	Middle East and North Africa	c6be9452eb1125130dce07b7e0d38dc9
+Russia	050	Engage in diplomatic cooperation	Ukraine	c6be9452eb1125130dce07b7e0d38dc9
+Arab states of the Middle East and North Africa	040	Consult or meet	Russia and Ukraine	c6be9452eb1125130dce07b7e0d38dc9
+Russia	050	Engage in diplomatic cooperation	Ukraine	c6be9452eb1125130dce07b7e0d38dc9
+Lebanon	090	Investigate	Wheat supplies	c6be9452eb1125130dce07b7e0d38dc9
+Egypt	090	Investigate	Wheat supplies	c6be9452eb1125130dce07b7e0d38dc9
+Tunisia	090	Investigate	Wheat supplies	c6be9452eb1125130dce07b7e0d38dc9
+Yemen	090	Investigate	Wheat supplies	c6be9452eb1125130dce07b7e0d38dc9
+Sudan	090	Investigate	Wheat supplies	c6be9452eb1125130dce07b7e0d38dc9
+International aid agencies	090	Investigate	Wheat supplies	c6be9452eb1125130dce07b7e0d38dc9
+Wheat	090	Investigate	Black	c6be9452eb1125130dce07b7e0d38dc9
+Egypt	020	Make an appeal or request	Saudi Arabia	612f3eb4756a89190395d2b6727fd67d
+Egypt president Abdel Fattah El-Sisi	020	Make an appeal or request	Saudi Arabia's Crown Prince Mohammed bin Salman	612f3eb4756a89190395d2b6727fd67d
+Saudi Arabia's Crown Prince Mohammed bin Salman	020	Make an appeal or request	Egypt president Abdel Fattah El-Sisi	612f3eb4756a89190395d2b6727fd67d
+Bassam Rady	040	Consult or meet	Delegations from both countries	612f3eb4756a89190395d2b6727fd67d
+UAE	030	Express intent to cooperate	Realty sector	3abe03df131a8294da29b955c472aa3a
+UAE	050	Engage in diplomatic cooperation	Key economic sectors	3abe03df131a8294da29b955c472aa3a
+US	020	Make an appeal or request	Egypt	7a841a5dc3a0727061519738928cdabe
+CENTCOM	020	Make an appeal or request	Egypt	7a841a5dc3a0727061519738928cdabe
+F-15 jets	070	Provide aid	Egypt	7a841a5dc3a0727061519738928cdabe
+Immigration law	040	Consult or meet	Egypt	7a841a5dc3a0727061519738928cdabe
+Immigration attorney	040	Consult or meet	Egypt	7a841a5dc3a0727061519738928cdabe
+El-Sisi	020	Make an appeal or request	Putin	3505a422bd35ee80e5b20470ddd9bdfb
+El-Sisi	040	Consult or meet	Putin	3505a422bd35ee80e5b20470ddd9bdfb
+International Diabetes Federation	040	Consult or meet	World Diabetes Day	3505a422bd35ee80e5b20470ddd9bdfb
+Israel	020	Make an appeal or request	Egypt	b50069c293d3cfdd8849ff3e5e384d97
+Israeli prime minister Naftali Bennett	040	Consult or meet	Egyptian leader	b50069c293d3cfdd8849ff3e5e384d97
+Israir	040	Consult or meet	Egypt	b50069c293d3cfdd8849ff3e5e384d97
+Egypt	010	Make public statement	Israel	b50069c293d3cfdd8849ff3e5e384d97
+Israeli carrier Israir	040	Consult or meet	Egypt	b50069c293d3cfdd8849ff3e5e384d97
+Israeli prime minister Naftali Bennett	030	Express intent to cooperate	Egyptian leader	b50069c293d3cfdd8849ff3e5e384d97
+Israir	050	Engage in diplomatic cooperation	Egypt	b50069c293d3cfdd8849ff3e5e384d97
+Israeli prime minister Naftali Bennett	060	Engage in material cooperation	Egypt	b50069c293d3cfdd8849ff3e5e384d97
+Israir	070	Provide aid	Egypt	b50069c293d3cfdd8849ff3e5e384d97
+Sudan	020	Make an appeal or request	International community	cf9d7b8e58148264f80e49ebd9da617b
+Sudan	050	Engage in diplomatic cooperation	International community	cf9d7b8e58148264f80e49ebd9da617b
+US Vice President Kamala Harris	040	Consult or meet	Philippine President Rodrigo Duterte	cf9d7b8e58148264f80e49ebd9da617b
+Philippine President Rodrigo Duterte	040	Consult or meet	US Vice President Kamala Harris	cf9d7b8e58148264f80e49ebd9da617b
+US Vice President Kamala Harris	010	Make public statement	Philippine President Rodrigo Duterte	cf9d7b8e58148264f80e49ebd9da617b
+Philippine President Rodrigo Duterte	010	Make public statement	US Vice President Kamala Harris	cf9d7b8e58148264f80e49ebd9da617b
+US Vice President Kamala Harris	090	Investigate	Chinese authorities	cf9d7b8e58148264f80e49ebd9da617b
+Walid Jumblat	030	Express intent to cooperate	Gulf Cooperation Council	7427647aa91a5426e2df7cb1e06d4624
+Progressive Socialist Party leader Walid Jumblat	040	Consult or meet	GCC countries	7427647aa91a5426e2df7cb1e06d4624
+Gulf Cooperation Council	040	Consult or meet	Progressive Socialist Party leader Walid Jumblat	7427647aa91a5426e2df7cb1e06d4624
+Ukraine	020	Make an appeal or request	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Russia	020	Make an appeal or request	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Ukraine war	090	Investigate	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Russia	090	Investigate	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Ukraine	070	Provide aid	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Russia	070	Provide aid	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Ukraine	050	Engage in diplomatic cooperation	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Russia	050	Engage in diplomatic cooperation	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Ukraine	060	Engage in material cooperation	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Russia	060	Engage in material cooperation	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Ukraine	110	Verbally disapprove	Yemen	49c96fcf44fbe07380f8607a9a99129d
+Russia	110	Verbally disapprove	Yemen	49c96fcf44fbe07380f8607a9a99129d
+MENA media outlets	040	Consult or meet	Startups	abbb57946bd56a01962b63ed456c771f
+Hamoud Almahmoud	040	Consult or meet	Chief content officer at Majarra	abbb57946bd56a01962b63ed456c771f
+Participants	040	Consult or meet	Media conference	abbb57946bd56a01962b63ed456c771f
+Media conference	040	Consult or meet	Middle Eastern Media Leaders e-Summit 2022	abbb57946bd56a01962b63ed456c771f
+Middle Eastern Media Leaders e-Summit 2022	040	Consult or meet	Day 3	abbb57946bd56a01962b63ed456c771f
+Day 3	040	Consult or meet	Thursday	abbb57946bd56a01962b63ed456c771f
+Thursday	040	Consult or meet	2022	abbb57946bd56a01962b63ed456c771f
+Egypt	030	Express intent to cooperate	Saudi Arabia	b146f98bc1cdf8620171a3a5282fa7e0
+Egyptian President Abdel-Fattah El-Sisi	040	Consult or meet	Saudi Arabia's King Salman	b146f98bc1cdf8620171a3a5282fa7e0
+Saudi Arabia's King Salman	040	Consult or meet	Egyptian President Abdel-Fattah El-Sisi	b146f98bc1cdf8620171a3a5282fa7e0
+Saudi Crown Prince Mohammed bin Salman	020	Make an appeal or request	Wall Street	2306d5a78ed4f4c7ec833386174a71cd
+Wall Street	040	Consult or meet	Saudi Crown Prince Mohammed bin Salman	2306d5a78ed4f4c7ec833386174a71cd
+Saudi Crown Prince Mohammed bin Salman	040	Consult or meet	Manhattan bankers and investors	2306d5a78ed4f4c7ec833386174a71cd
+Manhattan bankers and investors	040	Consult or meet	Saudi Crown Prince Mohammed bin Salman	2306d5a78ed4f4c7ec833386174a71cd
+Neom	010	Make public statement	$500 billion futuristic city-state	2306d5a78ed4f4c7ec833386174a71cd
+$500 billion futuristic city-state	010	Make public statement	robots and artificial intelligence	2306d5a78ed4f4c7ec833386174a71cd
+UN	110	Verbally disapprove	Egypt	b4e670608cce6ec526dd177ba025be61
+UN secretary general	110	Verbally disapprove	Egyptian peacekeeping mission in Mali	b4e670608cce6ec526dd177ba025be61
+Malian authorities	090	Investigate	Attack	b4e670608cce6ec526dd177ba025be61
+Egypt	020	Make an appeal or request	International community	dafab4b44b1a4578cec0ae2d1ffe5a0f
+Egypt	090	Investigate	Cause of increase in commodity prices	dafab4b44b1a4578cec0ae2d1ffe5a0f
+Egypt	080	Yield or concede	Importance of wheat and other staples	dafab4b44b1a4578cec0ae2d1ffe5a0f
+Egypt	050	Engage in diplomatic cooperation	Russia and Ukraine	dafab4b44b1a4578cec0ae2d1ffe5a0f
+Egypt	070	Provide aid	Impacted countries	dafab4b44b1a4578cec0ae2d1ffe5a0f
+Egypt	160	Reduce relations	With Russia and Ukraine	dafab4b44b1a4578cec0ae2d1ffe5a0f
+International community	040	Consult or meet	Egypt	dafab4b44b1a4578cec0ae2d1ffe5a0f
+International community	090	Investigate	Cause of increase in commodity prices	dafab4b44b1a4578cec0ae2d1ffe5a0f
+International community	050	Engage in diplomatic cooperation	Russia and Ukraine	dafab4b44b1a4578cec0ae2d1ffe5a0f
+Egypt	020	Make an appeal or request	Citizens	2181061112c07bbb1ed66ce7e3d14a8d
+Egypt president Abdel Fattah El-Sisi	040	Consult or meet	Prime Minister Mostafa Madbouly, Minister of Interior Mahmoud Tawfik, Minister of Supply and Internal Trade Ali Moselhi, Head of the General Intelligence Service (GIS) Abbas Kamel	2181061112c07bbb1ed66ce7e3d14a8d
+Prime Minister Mostafa Madbouly	040	Consult or meet	Egypt president Abdel Fattah El-Sisi, Minister of Interior Mahmoud Tawfik, Minister of Supply and Internal Trade Ali Mosel	2181061112c07bbb1ed66ce7e3d14a8d
+US	020	Make an appeal or request	Egypt	421dfbff3c6e1062b1c27122249733c7
+US Senate	040	Consult or meet	Egypt	421dfbff3c6e1062b1c27122249733c7
+Egypt	050	Engage in diplomatic cooperation	US	421dfbff3c6e1062b1c27122249733c7
+US	070	Provide aid	Egypt	421dfbff3c6e1062b1c27122249733c7
+US Defense Security Cooperation Agency	040	Consult or meet	Egypt	421dfbff3c6e1062b1c27122249733c7
+US	080	Yield or concede	Egypt	421dfbff3c6e1062b1c27122249733c7
+Saudi Arabia	020	Make an appeal or request	United Arab Emirates	166e9f2c2622a9440e55891528419786
+Saudi Arabia	020	Make an appeal or request	Egypt	ad8cdea1eca3dcf54f1028d541cc4811
+Custodian of the Two Holy Mosques King Salman bin Abdulaziz	040	Consult or meet	Egyptian President Abdul Fattah al-Sisi	ad8cdea1eca3dcf54f1028d541cc4811
+Egyptian President Abdul Fattah al-Sisi	040	Consult or meet	Crown Prince Mohammed bin Salman, Deputy Prime Minister and Minister of Defense	ad8cdea1eca3dcf54f1028d541cc4811
+Make public statement	050	Engage in diplomatic cooperation	Riyadh - Asharq Al-Awsat	ad8cdea1eca3dcf54f1028d541cc4811
+Russia	110	Verbally disapprove	West	e0e8d0be4c2b675c7f835692d9abd148
+Russia	010	Make public statement	West	e0e8d0be4c2b675c7f835692d9abd148
+West	020	Make an appeal or request	Russia	e0e8d0be4c2b675c7f835692d9abd148
+Independent local media outlets	040	Consult or meet	Kremlin-backed media outlets	e0e8d0be4c2b675c7f835692d9abd148
+Kremlin-backed media outlets	040	Consult or meet	Independent local media outlets	e0e8d0be4c2b675c7f835692d9abd148
+Independent local media outlets	080	Yield or concede	Kremlin-backed media outlets	e0e8d0be4c2b675c7f835692d9abd148
+Kremlin-backed media outlets	130	Threaten	Independent local media outlets	e0e8d0be4c2b675c7f835692d9abd148
+Russia	140	Engage in political dissent	West	e0e8d0be4c2b675c7f835692d9abd148
+Egypt	010	Make public statement	Ministry of Health and Population	3d75539831adf016959e34532f8cfd14
+Egypt	090	Investigate	Coronavirus infections	3d75539831adf016959e34532f8cfd14
+Egypt	080	Yield or concede	Total number of cases since the outbreak began	3d75539831adf016959e34532f8cfd14
+Egypt	110	Verbally disapprove	Total tally of deaths	3d75539831adf016959e34532f8cfd14
+Egypt	050	Engage in diplomatic cooperation	Total number of recoveries	3d75539831adf016959e34532f8cfd14
+Egypt	160	Reduce relations	Daily report	3d75539831adf016959e34532f8cfd14
+Egypt	170	Coerce	Patients discharged from hospitals nationwide	3d75539831adf016959e34532f8cfd14
+Egypt	180	Use unconventional violence including terrorist	Coronavirus-related fatalities	3d75539831adf016959e34532f8cfd14
+US	020	Make an appeal or request	Egypt	1f1cb2266c2905f5ebadd8623c4f3c40
+Gen. Frank McKenzie	040	Consult or meet	Egypt	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	050	Engage in diplomatic cooperation	US	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	070	Provide aid	US	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	080	Yield or concede	Biden administration	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	090	Investigate	Cairo	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	140	Engage in political dissent	Gen. Frank McKenzie	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	150	Exhibit military or police power	US	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	160	Reduce relations	Biden administration	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	170	Coerce	US	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	180	Use unconventional violence including terrorist	US	1f1cb2266c2905f5ebadd8623c4f3c40
+Egypt	010	Make public statement	Russia and Ukraine	9d3c727ca51b57d55c9f3b15a1ec0bb8
+Egypt	010	Make public statement	beach travelers	9d3c727ca51b57d55c9f3b15a1ec0bb8
+International Diabetes Federation	040	Consult or meet	World Diabetes Day	9d3c727ca51b57d55c9f3b15a1ec0bb8
+Diabetes	030	Express intent to cooperate	International Diabetes Federation	9d3c727ca51b57d55c9f3b15a1ec0bb8
+Diabetes	040	Consult or meet	World Diabetes Day	9d3c727ca51b57d55c9f3b15a1ec0bb8
+Arab world	080	Yield or concede	invisible enemy	9d3c727ca51b57d55c9f3b15a1ec0bb8
+Diabetes	160	Reduce relations	sedentary lifestyles, unhealthy diets, obesity	9d3c727ca51b57d55c9f3b15a1ec0bb8
+Diabetes	090	Investigate	prevention and management	9d3c727ca51b57d55c9f3b15a1ec0bb8
+Egypt	020	Make an appeal or request	Russia, Ukraine, and Romania	46b20c476368636505591acb1930e121
+Ministry of Supply and Internal Trade	040	Consult or meet	Wheat shipments from abroad	46b20c476368636505591acb1930e121
+Russia, Ukraine, and Romania	070	Provide aid	Wheat	46b20c476368636505591acb1930e121
+Egypt	090	Investigate	Wheat shipments from abroad	46b20c476368636505591acb1930e121
+Egypt	050	Engage in diplomatic cooperation	Russia, Ukraine, and Romania	46b20c476368636505591acb1930e121
+Egypt	060	Engage in material cooperation	Russia, Ukraine, and Romania	46b20c476368636505591acb1930e121
+Egypt	160	Reduce relations	Russia, Ukraine, and Romania	46b20c476368636505591acb1930e121
+Egypt	170	Coerce	Russia, Ukraine, and Romania	46b20c476368636505591acb1930e121
+CCCPA	020	Make an appeal or request	Participating countries (Mauritania, Mali, Nigeria, Guinea, Cameroon, Chad, and Burkina Faso)	376d5298d1acd99bf40fdd4e0556c102
+CCCPA	040	Consult or meet	Participating countries (Mauritania, Mali, Nigeria, Guinea, Cameroon, Chad, and Burkina Faso)	376d5298d1acd99bf40fdd4e0556c102
+Participating countries (Mauritania, Mali, Nigeria, Guinea, Cameroon, Chad, and Burkina Faso)	040	Consult or meet	CCCPA	376d5298d1acd99bf40fdd4e0556c102
+Israel	020	Make an appeal or request	Turkey	cf8a113dc08556bed1df63be05208fb0
+Israel president Isaac Herzog	040	Consult or meet	Turkish President Recep Tayyip Erdogan	cf8a113dc08556bed1df63be05208fb0
+Turkish President Recep Tayyip Erdogan	040	Consult or meet	Israel president Isaac Herzog	cf8a113dc08556bed1df63be05208fb0
+Democrats	030	Express intent to cooperate	Republicans	b1e1750b08db97832cfd969ae7568d67
+Chris Cillizza	040	Consult or meet	Pew Research Center	b1e1750b08db97832cfd969ae7568d67
+Pew Research Center	040	Consult or meet	Democrats	b1e1750b08db97832cfd969ae7568d67
+Democrats	020	Make an appeal or request	Republicans	b1e1750b08db97832cfd969ae7568d67
+Democrats	130	Threaten	Republicans	b1e1750b08db97832cfd969ae7568d67
+Democrats	090	Investigate	Republicans	b1e1750b08db97832cfd969ae7568d67
+Democrats	160	Reduce relations	Republicans	b1e1750b08db97832cfd969ae7568d67
+Democrats	170	Coerce	Republicans	b1e1750b08db97832cfd969ae7568d67
+Democrats	180	Use unconventional violence including terrorist	Republicans	b1e1750b08db97832cfd969ae7568d67
+Democrats	190	Use conventional military force	Republicans	b1e1750b08db97832cfd969ae7568d67
+Saudi Arabia	020	Make an appeal or request	United States	40191c63a1979a2f6ee09c68113a7698
+Saudi Arabia government	040	Consult or meet	Gulf Cooperation Council member states	40191c63a1979a2f6ee09c68113a7698
+Gulf Cooperation Council member states	040	Consult or meet	Saudi Arabia government	40191c63a1979a2f6ee09c68113a7698
+King Salman bin Abdulaziz	040	Consult or meet	Custodian of the Two Holy Mosques	40191c63a1979a2f6ee09c68113a7698
+Egypt	030	Express intent to cooperate	United Nations Commission on the Status of Women (CSW66)	65c29c23ce7e217ffcc76be4662bcd33
+Maya Morsy	040	Consult or meet	President of the National Council for Women	65c29c23ce7e217ffcc76be4662bcd33
+The People's Duty	020	Make an appeal or request	For me, the convoy has ended. As much as I can tell, it completed its mission to raise awareness of the vaccine mandates and to demand our human and individual rights. It had to be big enough to get the attention of the people, albeit through the media. It did that. It had to create media personalities of otherwise little-known people bringing truth to the people. It did that. The larger issues might take time, might need a coordinated effort by other truckers who are willing to turn the keys off	5d0b517d97e7be4205944e2adca610f7
+Egypt	030	Express intent to cooperate	UNRWA	ce533eb2c9aba21d2e79fe20d8f591ec
+President Abdel-Fattah El-Sisi	040	Consult or meet	UNRWA Commissioner-General Philippe Lazzarini	ce533eb2c9aba21d2e79fe20d8f591ec
+UNRWA Commissioner-General Philippe Lazzarini	040	Consult or meet	President Abdel-Fattah El-Sisi	ce533eb2c9aba21d2e79fe20d8f591ec
+Egypt	030	Express intent to cooperate	Green Climate Fund (GCF)	55145b6a64d280b4c3ff371765930e1c
+Yannick Glemarec	040	Consult or meet	Egypt	55145b6a64d280b4c3ff371765930e1c
+Green Climate Fund (GCF) Yannick Glemarec	040	Consult or meet	Egypt	55145b6a64d280b4c3ff371765930e1c
+Venezuela	020	Make an appeal or request	US officials from the White House and State Department	0642da11321eeb23c3ac1d1c5559eb25
+US officials from the White House and State Department	040	Consult or meet	Venezuelan authorities	0642da11321eeb23c3ac1d1c5559eb25
+Jorge Alberto Fernández	040	Consult or meet	US officials from the White House and State Department	0642da11321eeb23c3ac1d1c5559eb25
+Gustavo Cardenas	040	Consult or meet	US officials from the White House and State Department	0642da11321eeb23c3ac1d1c5559eb25
+Venezuela	080	Yield or concede	US officials from the White House and State Department	0642da11321eeb23c3ac1d1c5559eb25
+Venezuela	090	Investigate	US officials from the White House and State Department	0642da11321eeb23c3ac1d1c5559eb25
+Venezuela	160	Reduce relations	US officials from the White House and State Department	0642da11321eeb23c3ac1d1c5559eb25
+Pollution	020	Make an appeal or request	Climate Tracker	a26972bb8ba4093ff685632391d90d0d
+Climate Tracker	020	Make an appeal or request	Pollution and climate change are devastating Egyptian fisheries	a26972bb8ba4093ff685632391d90d0d
+Fishermen	090	Investigate	Dead fish found in the water	a26972bb8ba4093ff685632391d90d0d
+Climate Tracker	090	Investigate	Pollution and climate change are dev	a26972bb8ba4093ff685632391d90d0d
+Nazanin Zaghari-Ratcliffe	020	Make an appeal or request	Iranian authorities	e87d6274bf2827206e4e127d9a389eae
+Nazanin Zaghari-Ratcliffe	050	Engage in diplomatic cooperation	British team	e87d6274bf2827206e4e127d9a389eae
+Man	020	Make an appeal or request	Libya's new leader	e9e0eb0c09d0555ad78b2249f88c6f5f
+Former Libyan Interior Minister Fathi Bashagha	040	Consult or meet	House of Representatives	e9e0eb0c09d0555ad78b2249f88c6f5f
+Libya's new leader	040	Consult or meet	Former Libyan Interior Minister Fathi Bashagha	e9e0eb0c09d0555ad78b2249f88c6f5f
+Abdul Hamid al-Dbeibah	110	Verbally disapprove	Libya's new leader	e9e0eb0c09d0555ad78b2249f88c6f5f
+Libya's new leader	080	Yield or concede	Abdul Hamid al-Dbeibah	e9e0eb0c09d0555ad78b2249f88c6f5f
+Mohamed Hefzy	030	Express intent to cooperate	Hussein Fahmy	c9f810cf502b3c7165bf260adb12a334
+Mohamed Hefzy	040	Consult or meet	Hussein Fahmy	c9f810cf502b3c7165bf260adb12a334
+Hussein Fahmy	040	Consult or meet	Mohamed Hefzy	c9f810cf502b3c7165bf260adb12a334
+Egypt	030	Express intent to cooperate	Kuwait	21a71c598719d52cc9fc05cba2b98fe4
+Hanafy El-Gebaly	040	Consult or meet	Marzouq El-Ghanem	21a71c598719d52cc9fc05cba2b98fe4
+Marzouq El-Ghanem	040	Consult or meet	Hanafy El-Gebaly	21a71c598719d52cc9fc05cba2b98fe4
+Egypt	020	Make an appeal or request	Russia and Ukraine	d23c7d1506c295ec0f64260730773892
+Egyptian Food Export Council	040	Consult or meet	Russia and Ukraine	d23c7d1506c295ec0f64260730773892
+Russia	040	Consult or meet	Egyptian Food Export Council	d23c7d1506c295ec0f64260730773892
+Ukraine	040	Consult or meet	Egyptian Food Export Council	d23c7d1506c295ec0f64260730773892
+Egyptian Food Export Council	010	Make public statement	Total Egyptian food exports	d23c7d1506c295ec0f64260730773892
+Israel	020	Make an appeal or request	Turkey	bcb8395900620df5f8aab840cee7204a
+President Isaac Herzog	040	Consult or meet	Turkish leader Recep Tayyip Erdogan	bcb8395900620df5f8aab840cee7204a
+Turkish leader Recep Tayyip Erdogan	040	Consult or meet	President Isaac Herzog	bcb8395900620df5f8aab840cee7204a
+Egypt	030	Express intent to cooperate	Russia	be4ee51230b1c7eabfe7252224b715c7
+Egyptian President Abdel-Fattah al-Sisi	040	Consult or meet	Russian President Vladimir Putin	be4ee51230b1c7eabfe7252224b715c7
+Russian President Vladimir Putin	040	Consult or meet	Egyptian President Abdel-Fattah al-Sisi	be4ee51230b1c7eabfe7252224b715c7
+UK	020	Make an appeal or request	Egypt	f05ccaea37f18c319615b9a41abbb313
+UK Embassy in Cairo	040	Consult or meet	Egypt	f05ccaea37f18c319615b9a41abbb313
+Egypt	080	Yield or concede	UK	f05ccaea37f18c319615b9a41abbb313
+UK Embassy in Cairo	110	Verbally disapprove	Egypt	f05ccaea37f18c319615b9a41abbb313
+Egypt	160	Reduce relations	UK	f05ccaea37f18c319615b9a41abbb313
+UK Embassy in Cairo	170	Coerce	Egypt	f05ccaea37f18c319615b9a41abbb313
+UK Embassy in Cairo	180	Use unconventional violence including terrorist	Egypt	f05ccaea37f18c319615b9a41abbb313
+UK Embassy in Cairo	190	Use conventional military force	Egypt	f05ccaea37f18c319615b9a41abbb313
+UK Embassy in Cairo	200	Use unconventional mass force	Egypt	f05ccaea37f18c319615b9a41abbb313
+Foreign Affairs Minister Sameh Shoukry	040	Consult or meet	Minister of Foreign Affairs of Malaysia, Singapore, Indonesia, and Pakistan	7aa8633754ac9ffdcfdddcb7c2c65d4f
+Minister of Foreign Affairs of Malaysia, Singapore, Indonesia, and Pakistan	040	Consult or meet	Foreign Affairs Minister Sameh Shoukry	7aa8633754ac9ffdcfdddcb7c2c65d4f
+Egypt	020	Make an appeal or request	UN Conference of Parties on Climate Change (COP 27)	7aa8633754ac9ffdcfdddcb7c2c65d4f
+Egypt	020	Make an appeal or request	Foreign Affairs Minister Sameh Shoukry	7aa8633754ac9ffdcfdddcb7c2c65d4f
+Shoukry	030	Express intent to cooperate	Foreign Affairs Ministers of Malaysia, Singapore, Indones	7aa8633754ac9ffdcfdddcb7c2c65d4f
+Ukrainian US college grad	110	Verbally disapprove	Russian missile strike	c3dbdc513d73af8d9e307d3c533afb9e
+Olga Shevchenko	110	Verbally disapprove	Russian missile strike	c3dbdc513d73af8d9e307d3c533afb9e
+Ukrainian US college grad	110	Verbally disapprove	Russian missile strike	c3dbdc513d73af8d9e307d3c533afb9e
+Russian missile strike	160	Reduce relations	Ukrainian US college grad	c3dbdc513d73af8d9e307d3c533afb9e
+Russian missile strike	180	Use unconventional violence including terrorist	Ukrainian US college grad	c3dbdc513d73af8d9e307d3c533afb9e
+Russian missile strike	190	Use conventional military force	Ukrainian US college grad	c3dbdc513d73af8d9e307d3c533afb9e
+Egypt	030	Express intent to cooperate	National Council For Women	812f25891b7b8d1fa32b63ee72ce052d
+Egypt's First Lady Entissar El-Sisi	040	Consult or meet	United Nations Population Fund in Egypt (UNFPA Egypt)	812f25891b7b8d1fa32b63ee72ce052d
+United Nations Population Fund in Egypt (UNFPA Egypt)	040	Consult or meet	Egypt's First Lady Entissar El-Sisi	812f25891b7b8d1fa32b63ee72ce052d
+National Council For Women (NCW)	040	Consult or meet	Egypt's First Lady Entissar El-Sisi	812f25891b7b8d1fa32b63ee72ce052d
+EBRD	030	Express intent to cooperate	Egypt	8859f9306974a42172ed6fbe18fd0440
+EBRD Vice President for Policy and Partnerships Mark Bowman	040	Consult or meet	Egypt	8859f9306974a42172ed6fbe18fd0440
+Egypt	050	Engage in diplomatic cooperation	UN Climate Change Conference 2022 (COP27)	8859f9306974a42172ed6fbe18fd0440
+Mark Bowman	040	Consult or meet	Egypt	8859f9306974a42172ed6fbe18fd0440
+Egypt	060	Engage in material cooperation	Renewable energy and green growth	8859f9306974a42172ed6fbe18fd0440
+Mark Bowman	040	Consult or meet	Egypt	8859f9306974a42172ed6fbe18fd0440
+Palestinians	030	Express intent to cooperate	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Al-Astal family	040	Consult or meet	Ynetnews	f45b9740d15d3bc2e25f5486c1b71c5c
+Palestinians	040	Consult or meet	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Palestinians	110	Verbally disapprove	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Palestinians	130	Threaten	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Palestinians	180	Use unconventional violence including terrorist	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Palestinians	190	Use conventional military force	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Palestinians	160	Reduce relations	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Palestinians	170	Coerce	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Palestinians	140	Engage in political dissent	Ukraine	f45b9740d15d3bc2e25f5486c1b71c5c
+Egypt	020	Make an appeal or request	Russia, Ukraine	1555fe389919552cdfaf89a3b3f76268
+International Diabetes Federation	040	Consult or meet	World Diabetes Day	1555fe389919552cdfaf89a3b3f76268
+Egypt	110	Verbally disapprove	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	080	Yield or concede	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Professor	030	Express intent to cooperate	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	090	Investigate	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	160	Reduce relations	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	170	Coerce	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Russia	180	Use unconventional violence including terrorist	Ukraine	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	040	Consult or meet	Professor	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	050	Engage in diplomatic cooperation	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	060	Engage in material cooperation	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	070	Provide aid	Russia	c0a8ba8cecbcefd957a49f82d8938d67
+Russia	190	Use conventional military force	Ukraine	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	200	Use unconventional mass force	Ukraine	c0a8ba8cecbcefd957a49f82d8938d67
+Egypt	030	Express intent to cooperate	Tajikistan	d26d56ecdaf56da4a6f7ffad12ff2365
+Tajik President Emomali Rahmon	040	Consult or meet	Egyptian President Abdel-Fattah El-Sisi	d26d56ecdaf56da4a6f7ffad12ff2365
+Egyptian President Abdel-Fattah El-Sisi	040	Consult or meet	Tajik President Emomali Rahmon	d26d56ecdaf56da4a6f7ffad12ff2365
+Tajik President Emomali Rahmon	040	Consult or meet	Egyptian President Abdel-Fatt	d26d56ecdaf56da4a6f7ffad12ff2365
+US	020	Make an appeal or request	Egypt	d13c7ace6712c5a062baaf49ce4caeb9
+Central Command head General Frank McKenzie	040	Consult or meet	Senate Armed Services Committee	d13c7ace6712c5a062baaf49ce4caeb9
+Egypt	010	Make public statement	US	d13c7ace6712c5a062baaf49ce4caeb9
+US	090	Investigate	Egypt's human rights record	d13c7ace6712c5a062baaf49ce4caeb9
+Egypt	110	Verbally disapprove	US	d13c7ace6712c5a062baaf49ce4caeb9
+Egypt	130	Threaten	US	d13c7ace6712c5a062baaf49ce4caeb9
+F-15s	070	Provide aid	Egypt	d13c7ace6712c5a062baaf49ce4caeb9
+F-15s	050	Engage in diplomatic cooperation	US	d13c7ace6712c5a062baaf49ce4caeb9
+F-15s	060	Engage in material cooperation	US	d13c7ace6712c5a062baaf49ce4caeb9
+F-15s	190	Use conventional military force	US	d13c7ace6712c5a062baaf49ce4caeb9
+Egypt	030	Express intent to cooperate	International community	f301f5bed71f18f7a0cb04fcb86817ab
+Permanent Mission of the Arab Republic of Egypt to the United Nations in Geneva	040	Consult or meet	Missions of Spain, Sweden, Costa Rica, and Malaysia	f301f5bed71f18f7a0cb04fcb86817ab
+Missions of Spain, Sweden, Costa Rica, and Malaysia	040	Consult or meet	Permanent Representative of Egypt to the United Nations in Geneva Ahmed Ihab Gamal El-Din	f301f5bed71f18f7a0cb04fcb86817ab
+Ahmed Ihab Gamal El-Din	040	Consult or meet	Permanent Represent	f301f5bed71f18f7a0cb04fcb86817ab
+Dina Amer	030	Express intent to cooperate	Saudi Arabia	084b5bc2f281eec897c90b8c9342b5c2
+Dina Amer	040	Consult or meet	Saudi Arabian authorities	084b5bc2f281eec897c90b8c9342b5c2
+Saudi Arabian authorities	040	Consult or meet	Dina Amer	084b5bc2f281eec897c90b8c9342b5c2
+Western pressure	020	Make an appeal or request	Arab neutrality over Ukraine	350517ac523b036cefe539481ab602e9
+Western countries	020	Make an appeal or request	Arab countries	350517ac523b036cefe539481ab602e9
+Arab countries	040	Consult or meet	Western countries	350517ac523b036cefe539481ab602e9
+Arab countries	080	Yield or concede	Western countries	350517ac523b036cefe539481ab602e9
+Egypt	020	Make an appeal or request	Saudi Arabia	512b0c9e622b6046850e4f809f2532e0
+Egypt president Abdel Fattah El-Sisi	040	Consult or meet	Saudi Crown Prince Mohammed bin Salman	512b0c9e622b6046850e4f809f2532e0
+Saudi Crown Prince Mohammed bin Salman	040	Consult or meet	Egypt president Abdel Fattah El-Sisi	512b0c9e622b6046850e4f809f2532e0
+Egypt	050	Engage in diplomatic cooperation	Saudi Arabia	512b0c9e622b6046850e4f809f2532e0
+Egypt	010	Make public statement	Saudi Arabia	512b0c9e622b6046850e4f809f2532e0
+Egypt	150	Exhibit military or police power	Saudi Arabia	512b0c9e622b6046850e4f809f2532e0
+Egypt	160	Reduce relations	Saudi Arabia	512b0c9e622b6046850e4f809f2532e0
+Egypt	170	Coerce	Saudi Arab	512b0c9e622b6046850e4f809f2532e0
+Israel	020	Make an appeal or request	Egypt	209974036f30fcf24fc7b5aa9fd9a069
+Israel	020	Make an appeal or request	Egyptian President Abdel Fattah Al-Sisi	209974036f30fcf24fc7b5aa9fd9a069
+Egyptian President Abdel Fattah Al-Sisi	040	Consult or meet	Israeli Prime Minister Naftali Bennett	209974036f30fcf24fc7b5aa9fd9a069
+Israeli Prime Minister Naftali Bennett	040	Consult or meet	Egyptian President Abdel Fattah Al-Sisi	209974036f30fcf24fc7b5aa9fd9a069
+Israel	050	Engage in diplomatic cooperation	Egypt	209974036f30fcf24fc7b5aa9fd9a069
+Israel	050	Engage in diplomatic cooperation	Egyptian President Abdel Fattah Al-Sisi	209974036f30fcf24fc7b5aa9fd9a069
+Trump	020	Make an appeal or request	AOC	a56788026a3d9db8732ce86180080782
+Former Rep. Joe Crowley	040	Consult or meet	Rep. Alexandria Ocasio-Cortez	a56788026a3d9db8732ce86180080782
+Rep. Alexandria Ocasio-Cortez	040	Consult or meet	Former Rep. Joe Crowley	a56788026a3d9db8732ce86180080782
+Former Rep. Joe Crowley	110	Verbally disapprove	Trump	a56788026a3d9db8732ce86180080782
+Trump	130	Threaten	AOC	a56788026a3d9db8732ce86180080782
+AOC	080	Yield or concede	Trump	a56788026a3d9db8732ce86180080782
+Trump	090	Investigate	AOC	a56788026a3d9db8732ce86180080782
+AOC	120	Reject	Trump	a56788026a3d9db8732ce86180080782
+Trump	140	Engage in political dissent	AOC	a56788026a3d9db8732ce86180080782
+Yeshivas Bais Dovid	020	Make an appeal or request	Egypt	cbfa910b4d1cf10944677da507d419c8
+Yeshivas Bais Dovid	040	Consult or meet	Egypt	cbfa910b4d1cf10944677da507d419c8
+Egypt	040	Consult or meet	Yeshivas Bais Dovid	cbfa910b4d1cf10944677da507d419c8
+Yeshivas Bais Dovid	030	Express intent to cooperate	Egypt	cbfa910b4d1cf10944677da507d419c8
+Yeshivas Bais Dovid	050	Engage in diplomatic cooperation	Egypt	cbfa910b4d1cf10944677da507d419c8
+Yeshivas Bais Dovid	060	Engage in material cooperation	Egypt	cbfa910b4d1cf10944677da507d419c8
+Yeshivas Bais Dovid	070	Provide aid	Egypt	cbfa910b4d1cf10944677da507d419c8
+Egypt	090	Investigate	Yeshivas B	cbfa910b4d1cf10944677da507d419c8
+Egypt president Abdel Fattah El-Sisi	040	Consult or meet	Saudi King Salman bin Abdulaziz and Crown Prince Mohammed bin Salman	16e59843b083044df20dc6ae83e015ed
+Saudi King Salman bin Abdulaziz and Crown Prince Mohammed bin Salman	040	Consult or meet	Egypt president Abdel Fattah El-Sisi	16e59843b083044df20dc6ae83e015ed
+"Historic Folly—Banishing the Scientifically Adept
+
+Spain"	020	Make an appeal or request	Ottoman sultan Bayezit II	f3ffbd45bd0e758de428fc60126fa159
+Ferdinand and Isabella	040	Consult or meet	Ottoman sultan Bayezit II	f3ffbd45bd0e758de428fc60126fa159
+Jewish populations	040	Consult or meet	Ottoman sultan Bayezit II	f3ffbd45bd0e758de428fc60126fa159
+Ottoman sultan Bayezit II	070	Provide aid	Jewish refugees	f3ffbd45bd0e758de428fc60126fa159
+Jewish refugees	040	Consult or meet	Ottoman sultan Bayezit II	f3ffbd45bd0e758de428fc60126fa159
+Ottoman sultan Bayezit II	050	Engage in diplomatic cooperation	Jewish refugees	f3ffbd45bd0e758de428fc60126fa159
+Egypt	030	Express intent to cooperate	Lebanon	637c0908c53d8d31fd4a36344df7165c
+Egypt president Abdel Fattah Al-Sisi	040	Consult or meet	Lebanese parliamentary speaker Nabih Berri	637c0908c53d8d31fd4a36344df7165c
+Brazilian businesses	030	Express intent to cooperate	Egypt	7f3af778d406bd89f750239cdf43ecc4
+Fernanda Baltazar	040	Consult or meet	Essam El Nagar	7f3af778d406bd89f750239cdf43ecc4
+Essam El Nagar	040	Consult or meet	Fernanda Baltazar	7f3af778d406bd89f750239cdf43ecc4
+Qatar	020	Make an appeal or request	Egypt	2436f7741c0eb8ade63eb036ac3572d0
+Egyptian Ministry of Foreign Affairs	040	Consult or meet	Qatar and Egypt	2436f7741c0eb8ade63eb036ac3572d0
+Qatar	040	Consult or meet	Egyptian Ministry of Foreign Affairs	2436f7741c0eb8ade63eb036ac3572d0
+Egypt	090	Investigate	Qatar and Egypt	2436f7741c0eb8ade63eb036ac3572d0
+Egyptian Ministry of Foreign Affairs	110	Verbally disapprove	Qatar and Egypt	2436f7741c0eb8ade63eb036ac3572d0
+Qatar	120	Reject	Egyptian Ministry of Foreign Affairs	2436f7741c0eb8ade63eb036ac3572d0
+Egyptian Ministry of Foreign Affairs	130	Threaten	Qatar and Egypt	2436f7741c0eb8ade63eb036ac3572d0
+Qatar	170	Coerce	Egyptian Ministry of Foreign Affairs	2436f7741c0eb8ade63eb036ac3572d0
+Egypt	020	Make an appeal or request	N/A	6ff636c97275094369c1624fde92c1a8
+N/A	020	Make an appeal or request	Egypt	6ff636c97275094369c1624fde92c1a8
+Egypt's Senate	040	Consult or meet	N/A	6ff636c97275094369c1624fde92c1a8
+N/A	040	Consult or meet	Egypt's Senate	6ff636c97275094369c1624fde92c1a8
+The law states	080	Yield or concede	N/A	6ff636c97275094369c1624fde92c1a8
+N/A	080	Yield or concede	The law states	6ff636c97275094369c1624fde92c1a8
+N/A	090	Investigate	N/A	6ff636c97275094369c1624fde92c1a8
+N/A	090	Investigate	N/A	6ff636c97275094369c1624fde92c1a8
+Israel	020	Make an appeal or request	Turkey	59f534dfbe98e2c232bd837aa9e16ec3
+Turkish President Recep Tayyip Erdogan	040	Consult or meet	Israeli President Isaac Herzog	59f534dfbe98e2c232bd837aa9e16ec3
+Israeli President Isaac Herzog	040	Consult or meet	Turkish President Recep Tayyip Erdogan	59f534dfbe98e2c232bd837aa9e16ec3
+Rabbi Nathan Lopes Cardozo	030	Express intent to cooperate	Maimonides	6129a33ee89b14fdd67f9e203d5ed884
+Rabbi Nathan Lopes Cardozo	040	Consult or meet	Maimonides	6129a33ee89b14fdd67f9e203d5ed884
+Maimonides	040	Consult or meet	Rabbi Nathan Lopes Cardozo	6129a33ee89b14fdd67f9e203d5ed884
+Egypt	010	Make public statement	National Council for Human Rights	0dcfd59de681cfe5121390d9944a3bee
+Egypt president Abdel Fattah Al-Sisi	040	Consult or meet	NCHR President Moushira Khattab	0dcfd59de681cfe5121390d9944a3bee
+NCHR President Moushira Khattab	040	Consult or meet	Egypt president Abdel Fattah Al-Sisi	0dcfd59de681cfe5121390d9944a3bee
+Tarek Radwan	040	Consult or meet	NCHR President Moushira Khattab	0dcfd59de681cfe5121390d9944a3bee
+Tarek Radwan	040	Consult or meet	Egypt president Abdel Fattah Al-Sisi	0dcfd59de681cfe5121390d9944a3bee
+Iran	020	Make an appeal or request	International community	34a6a220ca59962e40b0fb7ed3b5fa2b
+Revolutionary Guards Corps	010	Make public statement	Claim responsibility for the attack	34a6a220ca59962e40b0fb7ed3b5fa2b
+Kurdistan Region Prime Minister Masroor Barzani	040	Consult or meet	Revolutionary Guards Corps	34a6a220ca59962e40b0fb7ed3b5fa2b
+Kurdistan Regional Government President Nechirvan Barzani	040	Consult or meet	Revolutionary Guards Corps	34a6a220ca59962e40b0fb7ed3b5fa2b
+Mustafa Kazemi	040	Consult or meet	Revolutionary Guards Corps	34a6a220ca59962e40b0fb7ed3b5fa2b
+OPPO	020	Make an appeal or request	Saudi Arabia	ed505f3eada15f58864cd785b42dbbfa
+Chinese smartphone manufacturer OPPO	040	Consult or meet	Saleh Ma, brand director of OPPO Saudi Arabia	ed505f3eada15f58864cd785b42dbbfa
+Saleh Ma, brand director of OPPO Saudi Arabia	040	Consult or meet	Chinese smartphone manufacturer OPPO	ed505f3eada15f58864cd785b42dbbfa
+Shatablee	030	Express intent to cooperate	Investors	6180bf3f83d1326aca63b4c6f31dbbe7
+Moustafa Amer	040	Consult or meet	Investors	6180bf3f83d1326aca63b4c6f31dbbe7
+Investors	040	Consult or meet	Moustafa Amer, founder and CEO of Shatablee	6180bf3f83d1326aca63b4c6f31dbbe7
+Egypt	020	Make an appeal or request	United Nations	744da592afe9ca1f4d061fbc4f635444
+Egyptian Armed Forces	040	Consult or meet	United Nations	744da592afe9ca1f4d061fbc4f635444
+Egyptian peacekeeping forces	050	Engage in diplomatic cooperation	United Nations	744da592afe9ca1f4d061fbc4f635444
+Egyptian Armed Forces	110	Verbally disapprove	Terrorism	744da592afe9ca1f4d061fbc4f635444
+Egyptian Armed Forces	130	Threaten	Terrorism	744da592afe9ca1f4d061fbc4f635444
+African Development Bank	030	Express intent to cooperate	Egypt	297400e71b0eba847c76b7eb839af3fc
+African Development Bank vice president, Dr Kevin Kariuki	040	Consult or meet	Egypt's minister of international cooperation, Egypt's minister of environment Dr Yasmine Fouad, Sameh Shoukry, minister of foreign affairs, and Dr Mohamed Shaker El-Markabi, minister of electricity and renewable energy	297400e71b0eba847c76b7eb839af3fc
+Israel	020	Make an appeal or request	Egypt	4727b861a15c1684933af6631d923fd7
+Prime Minister's Office	040	Consult or meet	"Shin Bet and National Security Council, unnamed ""other parties,"" and the Egyptian government"	4727b861a15c1684933af6631d923fd7
+Egypt	080	Yield or concede	Israel	4727b861a15c1684933af6631d923fd7
+Israel	050	Engage in diplomatic cooperation	Egypt	4727b861a15c1684933af6631d923fd7
+Israel	160	Reduce relations	Egypt	4727b861a15c1684933af6631d923fd7
+Israel	170	Coerce	Egypt	4727b861a15c1684933af6631d923fd7
+Egyptian minister	020	Make an appeal or request	South Sudanese minister	a7cb904831438e212f7e0ba6a01a518a
+South Sudanese minister	040	Consult or meet	Egyptian minister	a7cb904831438e212f7e0ba6a01a518a
+Egyptian minister	040	Consult or meet	South Sudanese minister	a7cb904831438e212f7e0ba6a01a518a
+Egypt	030	Express intent to cooperate	South Sudan	a7cb904831438e212f7e0ba6a01a518a
+Egyptian minister	040	Consult or meet	South Sudanese minister	a7cb904831438e212f7e0ba6a01a518a
+Egyptian minister	040	Consult or meet	South Sudanese minister	a7cb904831438e212f7e0ba6a01a518a
+Egypt	030	Express intent to cooperate	South Sudan	a7cb904831438e212f7e0ba6a01a518a
+Investors	080	Yield or concede	Lebanese banks	7918192b3fced6d1080376282fd5c700
+Judges	090	Investigate	Lebanese banks	7918192b3fced6d1080376282fd5c700
+Diabetes education	040	Consult or meet	International Diabetes Federation	7918192b3fced6d1080376282fd5c700
+International Diabetes Federation	030	Express intent to cooperate	World Diabetes Day	7918192b3fced6d1080376282fd5c700
+Egypt	020	Make an appeal or request	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	020	Make an appeal or request	Egypt	c06cc125058c012b7832702e0058ebf4
+Not specified	040	Consult or meet	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	050	Engage in diplomatic cooperation	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	070	Provide aid	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	080	Yield or concede	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	090	Investigate	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	100	Demand or order	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	110	Verbally disapprove	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	120	Reject	Not specified	c06cc125058c012b7832702e0058ebf4
+Not specified	130	Threaten	Not specified	c06cc125058c012b7832702e0058ebf4
+Egypt	020	Make an appeal or request	Russia	54e345f9d70e38229372e77e990add33
+Egyptian Ambassador in Russia Nazih El-Najari	040	Consult or meet	Thousands of travel industry professionals from around the world	54e345f9d70e38229372e77e990add33
+Thousands of travel industry professionals from around the world	040	Consult or meet	Egyptian Ambassador in Russia Nazih El-Najari	54e345f9d70e38229372e77e990add33
+Egyptian Ambassador in Russia Nazih El-Najari	020	Make an appeal or request	Russia	54e345f9d70e38229372e77e990add33
+Egypt	010	Make public statement	Ministry of Foreign Affairs	54e345f9d70e38229372e77e990add33
+Ukraine crisis	020	Make an appeal or request	Egypt	e4f43d775a97a7346d55095b01dfbea2
+Egypt	020	Make an appeal or request	Ukraine	e4f43d775a97a7346d55095b01dfbea2
+Egypt prime minister	040	Consult or meet	Greedy traders	e4f43d775a97a7346d55095b01dfbea2
+Greedy traders	040	Consult or meet	Egypt prime minister	e4f43d775a97a7346d55095b01dfbea2
+Egypt	110	Verbally disapprove	United Nations	17f4066045e80c283a5b6bd1c6d95cd8
+Egyptian military	110	Verbally disapprove	United Nations	17f4066045e80c283a5b6bd1c6d95cd8
+United Nations	040	Consult or meet	Egyptian military	17f4066045e80c283a5b6bd1c6d95cd8
+Egyptian military	040	Consult or meet	United Nations	17f4066045e80c283a5b6bd1c6d95cd8
+Egypt	090	Investigate	killing of UN peacekeepers	17f4066045e80c283a5b6bd1c6d95cd8
+Egypt	090	Investigate	killing of UN peacekeepers	17f4066045e80c283a5b6bd1c6d95cd8
+Egypt	160	Reduce relations	Mali	17f4066045e80c283a5b6bd1c6d95cd8
+Egypt	160	Reduce relations	Mali	17f4066045e80c283a5b6bd1c6d95cd8
+Egypt	030	Express intent to cooperate	Germany	750781e53351ed8f17fdc8b6f8e10968
+Egypt's Minister of Emigration and Expatriates' Affairs Nabila Makram	040	Consult or meet	German city of Dresden	750781e53351ed8f17fdc8b6f8e10968
+German city of Dresden	040	Consult or meet	Egypt's Minister of Emigration and Expatriates' Affairs Nabila Makram	750781e53351ed8f17fdc8b6f8e10968
+Marwa El-Sherbini	020	Make an appeal or request	Naming of a park after her	750781e53351ed8f17fdc8b6f8e10968
+Late Marwa El-Sherbini	020	Make an appeal or request	Naming of a park after her	750781e53351ed8f17fdc8b6f8e10968
+Egypt	030	Express intent to cooperate	United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)	2419d0ea611b43ef7bb5143fcb006a8d
+Egypt president Abdel Fattah Al-Sisi	040	Consult or meet	Not specified	2419d0ea611b43ef7bb5143fcb006a8d
+Not specified	040	Consult or meet	Egypt president Abdel Fattah Al-Sisi	2419d0ea611b43ef7bb5143fcb006a8d
+Egypt	020	Make an appeal or request	Brazil, China, India, Indonesia, Senegal, South Africa, Thailand	ec8edb72221bf1b4444f6d7b3e956889
+Egypt	040	Consult or meet	Walid Abdulrahman	ec8edb72221bf1b4444f6d7b3e956889
+Walid Abdulrahman	040	Consult or meet	Egypt	ec8edb72221bf1b4444f6d7b3e956889
+Egypt, Brazil, China, India, Indonesia, Senegal, South Africa, Thailand	050	Engage in diplomatic cooperation	International community	ec8edb72221bf1b4444f6d7b3e956889
+International community	050	Engage in diplomatic cooperation	Egypt, Brazil, China, India, Indonesia, Senegal, South Africa, Thailand	ec8edb72221bf1b4444f6d7b3e956889
+Ukraine	020	Make an appeal or request	Egypt	56f2c927871666720a354e7b5fa7ce4b
+Ruslan Nechai	020	Make an appeal or request	Cairo	56f2c927871666720a354e7b5fa7ce4b
+Cairo	040	Consult or meet	Ruslan Nechai	56f2c927871666720a354e7b5fa7ce4b
+Iran	110	Verbally disapprove	AL foreign ministers’ accusations	6138beb662ebaf8a7beffa5b776587be
+Saeed Khatibzadeh	040	Consult or meet	Foreign Ministry	6138beb662ebaf8a7beffa5b776587be
+Foreign Ministers of the Arab League and the so-called Quartet Committee	040	Consult or meet	Saeed Khatibzadeh	6138beb662ebaf8a7beffa5b776587be
+Saeed Khatibzadeh	130	Threaten	Repeat statements	6138beb662ebaf8a7beffa5b776587be
+Egypt	020	Make an appeal or request	Ukraine	48fd602b478a7a01a406aabf69828bbb
+Egyptian Embassy in Warsaw	040	Consult or meet	Polish government	48fd602b478a7a01a406aabf69828bbb
+Foreigners escaping war-ravaged Ukraine	050	Engage in diplomatic cooperation	Yield or concede	48fd602b478a7a01a406aabf69828bbb
+Egypt	010	Make public statement	Not specified	61273bdb81fde74a6caa323edca60bbc
+Egypt	050	Engage in diplomatic cooperation	Not specified	61273bdb81fde74a6caa323edca60bbc
+Not specified	050	Engage in diplomatic cooperation	Not specified	61273bdb81fde74a6caa323edca60bbc
+Not specified	010	Make public statement	Not specified	61273bdb81fde74a6caa323edca60bbc
+Not specified	010	Make public statement	Not specified	61273bdb81fde74a6caa323edca60bbc
+Not specified	050	Engage in diplomatic cooperation	Not specified	61273bdb81fde74a6caa323edca60bbc
+Not specified	050	Engage in diplomatic cooperation	Not specified	61273bdb81fde74a6caa323edca60bbc
+Not specified	010	Make public statement	Not specified	61273bdb81fde74a6caa323edca60bbc
+Not specified	010	Make public statement	Not specified	61273bdb81fde74a6caa323edca60bbc
+Not specified	050	Engage in diplomatic cooperation	Not specified	61273bdb81fde74a6caa323edca60bbc
+talabat	020	Make an appeal or request	Government officials and industry leaders	2a1b5af9cff89b48ed2044a70c1ecc74
+talabat	030	Express intent to cooperate	Dr. Ibrahim Ashmawy, Deputy Minister of Supply for Investment and Chairman of the Internal Trade Development Authority	2a1b5af9cff89b48ed2044a70c1ecc74
+UNRWA	020	Make an appeal or request	Palestine, Lebanon, Syria, Egypt, Arab League	57a5c923e25db77a814139d11f173f54
+Representative of Palestine, Lebanon, Syria, Egypt, Arab League	040	Consult or meet	Jordanian Foreign Ministry's Department of Refugee Affairs	57a5c923e25db77a814139d11f173f54
+Jordanian Foreign Ministry's Department of Refugee Affairs	040	Consult or meet	Representative of Palestine, Lebanon, Syria, Egypt, Arab League	57a5c923e25db77a814139d11f173f54
+Palestine, Lebanon, Syria, Egypt, Arab League	020	Make an appeal or request	UNRWA	57a5c923e25db77a814139d11f173f54
+Israel	020	Make an appeal or request	Egypt's Sharm el Sheikh	1acf547c088a8b51c0ab5ece7596e8db
+Prime Minister Naftali Bennett	040	Consult or meet	Egyptian President Abdel Fattah Al-Sisi	1acf547c088a8b51c0ab5ece7596e8db
+Egyptian President Abdel Fattah Al-Sisi	020	Make an appeal or request	Prime Minister Naftali Bennett	1acf547c088a8b51c0ab5ece7596e8db

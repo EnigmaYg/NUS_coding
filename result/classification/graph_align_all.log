@@ -1,0 +1,1229 @@
+nohup: ignoring input
+aligned_graph_result
+**************************
+Prompt:
+You are a professional news writer.
+Please evaluate whether the relationship between images and news aligns based on the following rules and your own domain knowledge:
+1. Final evaluation please choose between [Ture, False].
+2. The relationship between an image and a news article is aligned meaning that the information in the image is mentioned in the news article, without requiring all the content of the news to be depicted in the image. As long as the specific events covered in the image are included in the news, it should be considered aligned.
+
+-----------------------------------
+Md5: defeb96e722b664f163533950122a02b
+Image Ok.
+
+Image: 357078d529cfe2b957dd7d88a62ea9bb.
+-----------------------------------
+True
+
+The image depicts a group of armed individuals marching with flags, which is consistent with the description of Shiite militias in Iraq mentioned in the news article. The flags in the image are indicative of a paramilitary or militia group, aligning with the news article's discussion of the Popular Mobilization Committee and its affiliated Shiite militias. The article discusses the role of Iran in arming, training, and commanding these militias, as well as the involvement of key figures like Abu Mahdi al-Mohandis and Qassem Suleimani. The image supports the article's narrative about the presence and influence of such groups in Iraq, even though it does not specifically depict the individuals or events mentioned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d14f9bbf0887c6f562d5ae4a51233e8d
+Image Ok.
+
+Image: 5644bc500d4a6ce5b656d88ff750a94a.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 730a3214b49ba6a8eef31b5cf3cd77fb
+Image Ok.
+
+Image: ff2baf1fe8a2c71b863282c1ca799fd3.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: ad252af9407719257fd1ff723dc8ff2f
+Image Ok.
+
+Image: 4906b73ec85ccd6574579cdbb61ca8a7.
+-----------------------------------
+True
+
+The image depicts military personnel and vehicles in what appears to be an active conflict zone, with a projectile being fired from one of the vehicles. This aligns with the news article's description of Iraqi troops engaging with Islamic State extremists in the area south of Tikrit, which is consistent with the military activity shown in the image. The specific events covered in the image, which is the conflict involving Iraqi troops against the Islamic State, are included in the news article. Therefore, the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 71965d77ed886dcd54c9262c7bae06c1
+Image Ok.
+
+Image: e9d495ba65a9db0fb33f203a541b020e.
+-----------------------------------
+True
+
+The image shows a group of soldiers in uniform, which could be representative of military forces. The news article discusses Iranian-supported militias and Iraqi forces, which aligns with the depiction of military personnel in the image. The specific events covered in the image, such as the presence of military forces, are included in the news article, which talks about the involvement of Iranian-supported militias and Iraqi forces against the Islamic State in Tikrit. Therefore, the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d2bd3cfd7dfbb278affd19a0026deb6f
+Image Ok.
+
+Image: c0daeb19e82de576431c00ccad47a341.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 6b5912523b99524e93d4ac1693956968
+Image Ok.
+
+Image: 782afd02e5e6f369741f0f71c2acbb0a.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 99936217e9a06a54a121c7cf2d7a43e6
+Image Ok.
+
+Image: 846228990b7c14801756ffc6b70952fa.
+-----------------------------------
+True
+
+The relationship between the image and the news article is aligned. The image shows a group of soldiers marching with flags, including the flag of Iraq and flags that are likely to represent Iranian-backed militias. The news article discusses the increasing dependence of America's strategy in fighting ISIS on Iranian fighters and mentions Iranian-backed Shiite militia leaders stating that their fighters made up a significant portion of the pro-government force in Tikrit. Therefore, the specific events covered in the image, which are related to the presence and involvement of Iranian-backed troops in Iraq, are indeed included in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 8b20e9ecc1b8e9c1305a80d0db0e1d55
+Image Ok.
+
+Image: 8f1d9f238fe52215d41dcbb0e66c2a0d.
+-----------------------------------
+True.
+
+The image shows armed individuals in a desert-like environment, which is consistent with the type of scene one might expect in the context of the news article describing military action in Tikrit, Iraq. The individuals appear to be advancing cautiously, which aligns with the description of Iraqi forces entering Tikrit, dodging bombs and sniper fire. The news article specifically mentions the battle to cleanse the neighborhood of Qadisiyah in Tikrit, which involves a combination of army, police, and volunteer forces. The image is therefore aligned with the news events as it likely depicts forces involved in the military actions described in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: fae1ae044e80f1c68fe81ef3e55ba62c
+Image Ok.
+
+Image: bb15f97a373497ca8e3dcca17a1aedf5.
+-----------------------------------
+True
+
+The image depicts a military operation, with a rocket being launched from a vehicle-mounted launcher, which aligns with the news article's description of the siege laid by Iraqi troops and militiamen on jihadist fighters in Tikrit. The image is consistent with the military context and operations described in the article, including the involvement of Iraqi forces increasing their military alert status against IS in Tikrit. The specific events covered in the image, which is military action, are included in the news, thus meeting the criteria for alignment.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 7fb5b101c4e5e9968d2077a1b8de65d8
+Image Ok.
+
+Image: 170ebf729a12d822698327a16bc7a552.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: aa30e7f4b69cbd7ea88bc1c072d8df87
+Image Ok.
+
+Image: 1d9f238b6a2ca93769b285fd861c207b.
+-----------------------------------
+True
+
+The image shows Gen. Colin Powell, who is mentioned in the news article as having spoken at the AIPAC conference, discussing the challenges of peace in the Middle East and the United States' commitment to Israel. The article covers his statements about the need for Israel and Arab states to seek a common solution for peace and security in the region, which aligns with the event described as "(Gen Colin Powell, Express intent to mediate, Israel)." Additionally, the article mentions the United States' support for Israel during the Iraqi missile attacks, which aligns with "(The United States, Provide military aid, Israel)" and "(The United States, Express intent to provide material aid, Israel)." The image is therefore aligned with the specific events covered in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 5386f46d40b275ce401fdb04cdaabbe1
+Image Ok.
+
+Image: b2365ebcea52f3a8ef83352e56b03dc0.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 74197dcaa29c0827ee484ecf4677ac8b
+Image Ok.
+
+Image: 59e543599cb8e8abdfb0ddf990e95053.
+-----------------------------------
+True
+
+The relationship between the image and the news article is aligned. The image depicts what appears to be a fighter jet in flight, and the news article mentions that Iranian fighter jets conducted airstrikes against Daesh militants in eastern Iraq. Specifically, the article states that the Pentagon confirmed Iranian air force F-4 Phantoms flew airstrikes in recent days, which aligns with the image content. Additionally, the news events listed include the use of Iranian fighter jets to employ aerial weapons against Daesh, which is directly related to what is shown in the image.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 3ffdda6361cb6ae1f49dbb34d6025076
+Image Ok.
+
+Image: 14e168aa8c91e251227c197af40b76cd.
+-----------------------------------
+True
+
+The image shows an individual who appears to be a high-ranking official or a politician, which aligns with the context of the news article discussing statements made by Iraq's President Fouad Massoum. The news events listed are all related to the cooperation and interactions between the Iraqi government and the U.S.-led coalition, particularly regarding military aid and air strikes against Islamic State in Tikrit. The image supports the news article's content, which includes statements from the Iraqi president about the expected military assistance from the U.S.-led coalition. Therefore, the relationship between the image and the news events is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: fccdf9bbc2d46ed14992498b072b77aa
+Image Ok.
+
+Image: ef79e3be040a0e8d35240711cf020c3e.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: bbcc65ce6da0e43d93261c303f8c91a1
+Image Ok.
+
+Image: f576bd78bfae7fcad34baf7f8662c7de.
+-----------------------------------
+True
+
+The image depicts what appears to be U.S. military personnel in a tactical situation near a Humvee in an urban environment, which could be interpreted as a scene from military operations in Iraq. The news article discusses the implications of the war in Iraq for Israel and mentions the United States' military involvement, which is consistent with the content of the image. The specific events covered in the image, which is the presence and actions of U.S. military forces, are included in the news article's broader discussion of the war in Iraq and its strategic consequences for Israel and the region. Therefore, the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: bcdc42b6064236114fa49c5c39227d5f
+Image Ok.
+
+Image: 48e5e9aeb4c741cec847a0262634c501.
+-----------------------------------
+True
+
+The image shows a group of armed military personnel, which aligns with the news article's subject matter regarding Iraqi special forces advancing on central Tikrit with the support of U.S.-led coalition planes. The specific events covered in the image, such as military personnel who could be part of the Iraqi forces or associated paramilitary groups, are included in the news article. The image does not need to depict all the content of the news to be considered aligned; it is sufficient that it represents the broader context of the military operation against Islamic State militants in Tikrit, as described in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a20137983afcb9cef7f0bcfbd16f90d9
+Image Ok.
+
+Image: 1f7cbb2d76c8cf7831a730926de12319.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 0342b2687d9fb9120f23f72cf3b84460
+Image Ok.
+
+Image: a2e4a5b46eea7a23675e00283cb471b6.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f40a1ab0d4d95e83fa4954794dcd7c50
+Image Ok.
+
+Image: 75f3f379741de3ea0695029aba4043d8.
+-----------------------------------
+True
+
+The image shows what appears to be Iraqi security forces, with one of them holding the Iraqi flag, which aligns with the news article's mention of Iraqi Security Forces liberating the city of Tikrit from ISIS. The news article also mentions the Pentagon's confirmation of the advancement into Tikrit and the coalition's continued support to the ISF (Iraqi Security Forces), which is consistent with the image's depiction of armed forces, suggesting a military context. Thus, the specific events covered in the image are included in the news article, and the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: bb99a0b97559b301f86b3abfb4078110
+Image Ok.
+
+Image: 4906b73ec85ccd6574579cdbb61ca8a7.
+-----------------------------------
+True
+
+The image shows a military scene with soldiers and military vehicles, which aligns with the news article's description of the Iraqi army's operations. The presence of military personnel and equipment in the image is consistent with the news article's mention of the Iraqi government's efforts to occupy territory with the help of Shiite militias. Additionally, the image supports the broader context of the conflict and military activities in the region, which is a central focus of the news article. The appeal for material aid by Sunni tribes to the Iraqi government, while not directly depicted in the image, is part of the overall narrative of the news events and the military context in which such appeals would occur.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 0c1ccb4066230ebf0f4ef3448b5f0057
+Image Ok.
+
+Image: 1c63a04f78a2e43a91b8a795f01faf78.
+-----------------------------------
+True
+
+The image shows a map of Iran, an offshore gas platform, and the flag of Iran, which aligns with the news article's content regarding Iran's increase in gas production and the context of the dispute with Turkmenistan over natural gas supplies. The South Pars gas field, which is part of Iran's efforts to increase gas production, is likely represented by the offshore platform in the image. The news article mentions Iran's increased gas production and the issues with Turkmenistan, which are both relevant to the image. Therefore, the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: b725ffd80f091d062417bd225eec719b
+Image Ok.
+
+Image: c06da0fca29c8fe43cc17bbb6f175d70.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 2365fc33f86c44edeeff769f3214a3be
+Image Ok.
+
+Image: d0a974869e9b87b2c56cbd0cba156b59.
+-----------------------------------
+False
+
+The image shows a pipeline with the inscription "TÜRKMENISTAN" and a child in traditional attire standing in front of it. This image is related to the topic of Turkmenistan's natural gas exports, which is discussed in the news article. The article talks about the changes in the relationship between Iran and Turkmenistan regarding natural gas imports and exports, mentioning pipelines and the history of gas transactions between the two countries. However, there is no mention of accusations of war crimes in the news article, which is one of the listed news events. This discrepancy means that the relationship between the image and the news events is not fully aligned, leading to the final evaluation of False.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 4c719ebcfcdfa9341ce22275c597a311
+Image Ok.
+
+Image: 5d73fdfc505749efa1571c14d43a1037.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f093302c7b064e83588ebcd1ea690b48
+Image Ok.
+
+Image: ff6517e1fa92abd17d1bc4950d749424.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a78d36e75e4860099a2cc5617a24ff62
+Image Ok.
+
+Image: 3c43a65700a607cdae3490f7991d9034.
+-----------------------------------
+True
+
+The image shows the flag of Iran and a gas flare, which is relevant to the news article's topic of gas talks between Iran and Turkmenistan. The content of the image is mentioned in the news article, as it pertains to the gas dispute between the two countries. The flag represents Iran, and the flaring gas is indicative of the subject matter, which is the gas import issue and the halting of gas flow from Turkmenistan to Iran.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: dd7d637c8885cd91266037b52527afc8
+Image Ok.
+
+Image: d7f7093ef66e5e1b573241b7030ca9d5.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 238d655f933e037f8ae9b67d2477544e
+Image Ok.
+
+Image: bea0a865bc687060cabfc219cd74b0d2.
+-----------------------------------
+False.
+
+The image shows a signing ceremony between representatives from what appears to be Petronas and the National Iranian Oil Company (NIOC), which contradicts the news article's mention of a memorandum of understanding between the NIOC and Malaysia's Bukhary International Ventures (BIV). The individuals in the image are not identified in the provided text as Gholam Reza Manouchehri or Shamsul Azhar bin Abbas, and the news events described do not align with the content of the image.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 840bf306da3737277aff69d139c738f1
+Image Ok.
+
+Image: 31c0bc206950dff8261046d43b021e2d.
+-----------------------------------
+True
+
+The relationship between the photo and the news events is aligned. The image provided is of Supreme Leader Ayatollah Ali Khamenei who is mentioned in the news article. The article discusses his statements regarding the negotiations over Iran's disputed nuclear program and his rejection of "unreasonable demands" by world powers, as well as his refusal to allow inspectors to interview Iranian atomic scientists. These details align with the news event described as "(Supreme Leader Ayatollah Ali Khamenei, Reject accusation, deny responsibility, Iran nuclear program)."
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f6d13c6340337c8a47d045289e14ac37
+Image Ok.
+
+Image: 7a8ddf522238e0ea17fd6a808e87212d.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 1c21d86fa4df7de7b7c4961984ec0c70
+Image Ok.
+
+Image: 8d3b5ff28ea63a65c39cc5b05d75babb.
+-----------------------------------
+True
+
+The image shows the flag of Iran among other national flags in front of a building that appears to be an official or international institution, which could be associated with the International Atomic Energy Agency (IAEA) mentioned in the news article. The article discusses Iran's nuclear program and the IAEA's investigation, which includes references to the Parchin military base and international negotiations involving Iran and other world powers. The presence of the Iranian flag in the image is relevant to the news content, which is focused on Iran's actions and international discussions regarding its nuclear program. Therefore, the image is aligned with the news article as it relates to the specific events covered in the news.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d437acdce84ab362f845c671229e09a1
+Image Ok.
+
+Image: a2839179f06802428868f6416250d78d.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 0a8852dc58e3e0e743ff51afd54e79d8
+Image Ok.
+
+Image: 777eb2542accf7f8d62230f71119b9a5.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a648e8a6a69a24ee7086b22ed9cc5499
+Image Ok.
+
+Image: 60864712a6a49bced43d943c999af56e.
+-----------------------------------
+False
+
+The news article discusses a report by UN experts regarding the lack of reported violations of an arms embargo against Iran, the political implications of such reporting on nuclear negotiations, and specific instances of alleged sanctions violations by Iran. The image shows a missile being launched from a mobile launch platform, which could be related to the topic of arms and military capabilities. However, the article does not mention any specific event of a missile launch or provide details that directly connect to the image. The image does not directly reflect any of the specific events or details mentioned in the news article, such as the panel of experts' report, the UN Security Council's actions, or the provision of aid. Therefore, the relationship between the image and the news events as described is not aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 982cf58df0871f5a89810ac4cb9bf82c
+Image Ok.
+
+Image: 81e5f4ef2465cd11a2737614d52f07db.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 72e903bc3cef9ab7a8c58dc70c58c53c
+Image Ok.
+
+Image: 4b60b0c29d69cb786190323f9e03b40c.
+-----------------------------------
+True
+
+The relationship between the image and the news article is aligned. The image shows President Hassan Rouhani, and the news article discusses a statement made by him regarding Iran's nuclear negotiations and the refusal to allow state secrets to fall into the hands of foreigners through the Additional Protocol or any other means. The specific event covered in the image, which is President Rouhani making a statement, is included in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 059da9dbc6b877f82ec14f60516ac934
+Image Ok.
+
+Image: ea34fc3de9114afe57984e1f356000d8.
+-----------------------------------
+True
+
+The image shows President Donald Trump applauding while Judge Neil Gorsuch stands at a podium, which aligns with the news article's description of Trump announcing Gorsuch as his pick for the Supreme Court. The specific event covered in the image, the announcement of Gorsuch as the nominee, is included in the news article. The news events mentioned do not include any mention of economic aid, which appears to be unrelated to the content of the news article and the image. Therefore, the relationship between the image and the news article is aligned based on the information provided.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d1833a926cb276ba202c4d17e527a83e
+Image Ok.
+
+Image: 24341d7966a205320a41a02e121b3493.
+-----------------------------------
+True
+
+The relationship between the image and the news article is aligned. The image shows Vice President Mike Pence during an interview, which is directly related to the news article's content discussing Pence's defense of President Trump's criticism of a federal judge. The specific event of Pence's interview on ABC's "This Week" is mentioned in the news article, making the image relevant to the news content.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 787a9e519448b65aa3f267d71cfbf7cb
+Image Ok.
+
+Image: 55ae58a6599ccacd14bba82d1a2a16eb.
+-----------------------------------
+True
+
+The relationship between the image and the news events is aligned. The image features Michael Flynn, who is the central figure in the news article. The article discusses various aspects of Flynn's situation, including his discussions with the Russian ambassador, the White House's evaluation of his actions, and the political implications of his conduct. The image is relevant to the news events, as it visually represents Flynn, who is the subject of the news events listed.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 9918131c5e92c81f3340d6272c8e5be3
+Image Ok.
+
+Image: f9123af86d621fe1e94a6ae4f8784564.
+-----------------------------------
+True
+
+The image provided is of Michael Flynn, who is mentioned in the news article as a central figure in setting up the meeting between President Donald Trump and Prime Minister Benjamin Netanyahu. The article discusses Flynn's resignation over his connections to the Russian government and its potential impact on the meeting. Since the specific event covered in the image (Michael Flynn's presence and role) is included in the news article, the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 01879277c09553f6b51d352d4815792e
+Image Ok.
+
+Image: 3c19badee903965c1c2d6d2e1dbe96d5.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 5b9cb27ea5126aa2ff66a1d6306bf3a5
+Image Ok.
+
+Image: f2c1ad0464c41076ac910d35cb8df841.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 03ae0cb58c485bcd1a381300e66963fc
+Image Ok.
+
+Image: 71953990713fa0aea1a5b9358814d897.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: be6e9d5da670504258411c2b044d3fca
+Image Ok.
+
+Image: 5496f5a4b1a6fd62f78e7bfedd7f553c.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 8ea7c15535399535aa446c8742df4960
+Image Ok.
+
+Image: 2bec776baa865de2f69c68dbf5c3d1db.
+-----------------------------------
+False.
+
+The image provided does not correspond to any of the specific events or individuals mentioned in the news article. The news article discusses several topics, including an investigation into the Trump administration's ties to Russia, a phone call between U.S. President Donald Trump and Russia's President Vladimir Putin, and various other international and domestic issues involving President Trump. However, the person in the image is not mentioned in the news article, nor does the image depict any of the events described. Therefore, the relationship between the photo and the news events is not aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 72094b8e60d78d1d8e3e3996f673d6e9
+Image Ok.
+
+Image: 2db7ae6ee05f9c81eaf7a513211b9346.
+-----------------------------------
+True
+
+The relationship between the image and the news article is aligned. The image shows two individuals: Jake Tapper, a CNN anchor, and Sean Spicer, the former White House Press Secretary during the Trump administration. The news article discusses the relationship between the Trump administration and the media, specifically mentioning both Jake Tapper's and Sean Spicer's interactions with the media. The specific events covered in the image, which include the individuals involved in these interactions, are included in the news article, thus fulfilling the criteria for alignment as per the provided rules.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 4a979c893b83f26c0ef4c25116b339d7
+Image Ok.
+
+Image: 5ff05848948c8dbf935b1af2a27c4b8b.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: c8f3a397bb2551aa8af6f093d649bcc7
+Image Ok.
+
+Image: 77ce977d33b239dc8b352e68baff9c00.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 17b4f74f9b19c4cc163bf9a536a953e9
+Image Ok.
+
+Image: 553e9eb7b482a3ee5c90800cb4ad996d.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 9f358287a500a322f916c02eae67dc3e
+Image Ok.
+
+Image: c4e0cd461f07d82d12bb4e1feaf8db2b.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 69ecd76a446bee56199cc34c79eca20e
+Image Ok.
+
+Image: 5f9dbcc737cf3f41a9d75fad0983bc6b.
+-----------------------------------
+True
+
+The image is a screenshot of a tweet from Donald Trump where he accuses former President Barack Obama of wiretapping his phones during the election process, comparing it to Nixon/Watergate. This directly aligns with the news article's discussion of Trump's series of tweets on Saturday, particularly the accusation against Obama of wiretapping phones at Trump Tower. The news article elaborates on the context and implications of these tweets, which are a significant part of the events covered in the news. Therefore, the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 2387d2adc4363db0c0f86089e6a4d547
+Image Ok.
+
+Image: a47b104a93799c939f782bac757cd4dc.
+-----------------------------------
+False
+
+The image shows a caption related to FBI Director James Comey, but the content of the caption does not directly align with the events mentioned in the news article. The news article discusses Comey's reaction to Trump's wiretapping claim and the White House's response, but there is no mention of Comey refusing to say whether evidence of wrongdoing had been found, which is what the image caption suggests. Additionally, there is no event in the news article where Comey threatens the Justice Department with restrictions on political freedoms. Therefore, the relationship between the image and the news events is not aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 61f340c327f41f10bb76a2db867f910e
+Image Ok.
+
+Image: 4ae7b9bf89ca1d3147257766c8ae6e38.
+-----------------------------------
+True.
+
+The image shows Donald Trump, who is mentioned throughout the news article as the central figure regarding the claims of wiretapping during the election. The news article discusses the White House's response to President Trump's allegations and the subsequent actions and statements by various government officials and spokespeople. While the image does not depict the specific events of requesting evidence or the involvement of the Justice Department, it is still aligned with the overall topic of the news article, as it relates to President Trump and the controversy surrounding his wiretapping claims.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 96a37b2d0d3b22eeb53408a0d4fc19af
+Image Ok.
+
+Image: a809fd767224684dadfb3c024ffc25e0.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: cf9480e92360e600e4a6419a9c059fb1
+Image Ok.
+
+Image: 8d51dc1c88d588b7f3e54cf0b32d979d.
+-----------------------------------
+True
+
+The image shows Devin Nunes, who is mentioned as the House Intelligence Committee Chairman in the news article. The news article discusses Nunes' statements regarding Paul Manafort volunteering to testify before the committee and the request for James Comey and Mike Rogers to testify in a closed session. The image and the news article are aligned as they both involve Devin Nunes and the ongoing investigation that the House Intelligence Committee is conducting, which includes discussions about Paul Manafort and James Comey.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 4c79408dae2cd626441d7e253a8838f3
+Image Ok.
+
+Image: 3827a1fabbc19adbcdb12a9d4395a11f.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 707ec21e4290e21b7fee4a6f053e28d5
+Image Ok.
+
+Image: e1eae166ac21b6509bdd28dded4cc5cd.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a36b27181bd032582185fbb8e45ba895
+Image Ok.
+
+Image: ec85467f7e9f93810734abd06c704c8f.
+-----------------------------------
+True
+
+The image shows a group of individuals, likely a delegation, in a formal setting that could be indicative of a diplomatic or business meeting. The presence of men wearing traditional Arab attire suggests that the group may include members from Arab countries. The setting appears to be an office or a meeting room, which is consistent with the type of venue where diplomatic meetings or discussions on trade and investment would take place.
+
+The news article describes a high-profile Arab delegation's diplomatic mission to Amazonas, Brazil, to explore trade and investment opportunities. The Governor of Amazonas and the Mayor of Manaus are mentioned as having hosted the delegation, which aligns with the image potentially depicting a formal meeting involving a delegation. The article also mentions the involvement of the Arab-Brazilian Chamber of Commerce and meetings with local businessmen at the FIEAM's headquarters, which further supports the relevance of the image to the news events listed.
+
+Based on the information provided and the visual cues from the image, the relationship between the image and the news events appears to be aligned, as the image is consistent with the type of event described in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 39e63c982bca53d2a6449d9cb207a7fd
+Image Ok.
+
+Image: 7de9132ed489672de92d74092a55b857.
+-----------------------------------
+True
+
+The image shows two individuals, one of whom appears to be a high-ranking official from Egypt, sitting across from another individual, likely a German official given the presence of both the German and Egyptian flags. This aligns with the news article's mention of preparations for President Abdel Fattah El-Sisi's visit to Germany and the discussions between Egypt's Foreign Minister Sameh Shoukry and his German counterpart. Although the individuals in the image are not identified, the setting and context suggest a meeting related to the diplomatic relations mentioned in the news article, making the relationship between the image and the news aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: ea08dbd5b08b2a3b054247ada731ae92
+Image Ok.
+
+Image: b24ce3c14029ee85550816aeb8ca01fb.
+-----------------------------------
+True
+
+The image shows Egyptian President Abdel Fattah El-Sisi, and the news article mentions a meeting between him and the Austrian foreign minister Sebastian Kurz. The specific event covered in the image, which is El-Sisi's presence, is included in the news article as part of the discussion about the meeting and the topics covered. Therefore, the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: e15ccc347d46b212de8ec610b3f0ded3
+Image Ok.
+
+Image: bce20d013ea951af93a5ddd08dab2185.
+-----------------------------------
+True
+
+The image shows a formal meeting between individuals, where one person is seated separately from a group of three others. The setting suggests a diplomatic or official engagement, which aligns with the news article's mention of Egyptian President Abdel-Fattah El-Sisi meeting with Chinese State Councillor Yang Jiechi in Cairo. The context of the meeting in the image is consistent with the economic cooperation discussions between Beijing and Cairo mentioned in the news article. Therefore, the relationship between the image and the news events is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 361e6b32ab04a5096c5a59052077e3b2
+Image Ok.
+
+Image: 7a465870fdb2029ba915c42f99ca3378.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 71806fa94034b06905f310ec6986cd58
+Image Ok.
+
+Image: 7e17b1bf8c1cef845cebea53e1a9f5d2.
+-----------------------------------
+True
+
+The image shows crossed flags of Egypt and Switzerland, which symbolizes the relationship between the two nations. The news article discusses the trade balance between Egypt and Switzerland, the Swiss ambassador's comments on the need to improve Egyptian exports, and the cooperation between the two countries in various sectors, including economic development. The news events mentioned, such as the Swiss embassy cooperating economically and the collaboration with the Care organization, are aligned with the symbolism of the flags in the image, representing the diplomatic and economic ties between the two countries.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: bd0fb0928e2067c488f6a720a98e17f9
+Image Ok.
+
+Image: c498d1f2fca2d8fc723f42d7889ee92e.
+-----------------------------------
+True.
+
+The image shows Egyptian President Abdel-Fattah El-Sisi with a German official, which aligns with the news events described in the article. The article mentions El-Sisi's visit to Germany, where he met with Chancellor Angela Merkel and other officials, including the leader of the ruling Christian Democratic Union party in the German Bundestag, Volker Kauder. The image is consistent with the news events as it depicts El-Sisi with a German official, likely during his visit to Germany, which is the context of the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 887c85dda8845d32f102da0d5378ab53
+Image Ok.
+
+Image: 5656d9b95fcd624d223653e3355d8db9.
+-----------------------------------
+True
+
+The relationship between the photo and the news events is aligned. The image shows Abdel Fattah El-Sisi shaking hands with another official, which is consistent with the news article's mention of El-Sisi's visit to Hungary where he is scheduled to hold talks with senior government officials. This suggests that the image is related to his activities during his visit to Europe, aligning with the context of the news article. The accusation of aggression towards Angela Merkel is not depicted in the image, but since the image aligns with the first event mentioned in the news (El-Sisi making a visit to Germany and then Hungary), the overall relationship can be considered aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 4c28c1c080013f64a82efcbe4cab9347
+Image Ok.
+
+Image: 8fe539e4eb8310a336f1d97fba61e5a6.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 8852e9acc34cb3c3241d0c262dc364c4
+Image Ok.
+
+Image: d1fb549fbc8af4bd3da9c6363463e61d.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 6835fd63939ae21ef5a2e4c673e96ae7
+Image Ok.
+
+Image: f4e6887544e47c175503238baa3f73ff.
+-----------------------------------
+True
+
+The image appears to be a still from video footage, possibly related to the incident described in the news article. The article mentions video footage that emerged showing officers firing before Abu Al-Qia’an accelerated, which is consistent with what the image is purported to show, indicated by the annotation "Police Shot 1." The specific event of police shooting at the vehicle is covered in the news article, making the relationship between the image and the news aligned according to the provided rules.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f2e1f4864108dd27026a708096c5ded5
+Image Ok.
+
+Image: 764b3bfd234513edc52d87a9efebea73.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: ecf3e00d4046cfae680d922a05451e4c
+Image Ok.
+
+Image: cf0efd2db4b6a92d298118dd02dc36e3.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 359e5ea4205a6ea86081e10d8a148afe
+Image Ok.
+
+Image: 19acc8465f0e9f3050665fc9e8ce8a17.
+-----------------------------------
+False
+
+The news article discusses an incident where an Israeli settler shot a Palestinian after an alleged stabbing attack, and the Palestinian Health Ministry identified the victim as Saad Qisiah. The image shows a handgun on the ground, which could be related to a shooting incident. However, the article specifically mentions that the settler shot the Palestinian after being stabbed, and there is no mention of the handgun being found on the ground or being part of the evidence from the incident. Therefore, while the image is thematically related to the news of a shooting, there is no direct mention of this specific handgun or a scene like the one depicted in the image in the news article. Thus, the relationship between this image and the news events as described is not aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 6200cac29a77bd5c5b815ed6fe66f2f1
+Image Ok.
+
+Image: dfc8724ad1e19f56f764db3fcf34da36.
+-----------------------------------
+False
+
+Based on the provided news article, the relationship between the image and the news events is not aligned. The article discusses an exchange of fire in Ramallah where a Palestinian named Bassel al-Aaraj was killed by Israeli troops. The image appears to show two different individuals, one of whom may be the mentioned Bassel al-Aaraj, given the context of the news article. However, the specific news events listed do not align with the image:
+
+1. There is no mention in the news article of the Israeli military forces using chemical, biological, or radiological weapons, which is one of the news events listed.
+2. The police are reported to have non-apologetically acknowledged or claimed responsibility for the death of Bassel al-Aaraj, which aligns with the article stating that Israeli police named the man and described him as the head of a cell.
+3. There is no mention of Israeli authorities cooperating militarily with Bassel al-Aaraj.
+4. The Israeli military forces are described as carrying out forays and arrests in Ramallah, which could be considered a form of military cooperation within Ramallah, but this does not directly relate to the individual in the image.
+
+Therefore, while some elements of the news article are relevant to the image, the specific news events listed do not fully align with the image provided.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 4c3d13520585e3cef2565f53290e8aae
+Image Ok.
+
+Image: 8c9a2a499396e4588c3ad45d4050f58f.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: aea22b395abd326caf3c7b5a156c46a9
+Image Ok.
+
+Image: 448f74d5b26af99641fd6a36d30c9c76.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f2243c7632cfade971f0c8eb545baf99
+Image Ok.
+
+Image: 0f430d8ba65dbdc22fc48b642ac3562b.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 5aaae64b5f9c100a272565cc416b9d70
+Image Ok.
+
+Image: e4892dc904d4ac49c1ef14020d60e755.
+-----------------------------------
+True
+
+The image depicts a crime scene with police presence and evidence markers, which aligns with the news article's description of a stabbing attack by a terrorist in Jerusalem. The specific events covered in the image, such as the police investigation and the securing of the area after an attack, are included in the news article. The image does not need to show all content of the news to be considered aligned, and in this case, it is appropriately related to the reported stabbing incident.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 796fae659e72ed0a3346ec38828c0f28
+Image Ok.
+
+Image: 970c2140a597e4db874d22bff4e30398.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: e3af94561d211b47399d6ae43e9221ad
+Image Ok.
+
+Image: fe4abe870b9cbc73f4ca615e243860d8.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 200ca4ef61ead4ea4c53998c290491c7
+Image Ok.
+
+Image: 78a08abc57193abaadb9c05dfbe68ad3.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: b4671781a04ef5b65caae525e4fd341a
+Image Ok.
+
+Image: c6dfcc13a1f5952733dd7d1c60c24cb5.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 71a07903481525a7b0cb01db06a38734
+Image Ok.
+
+Image: 016248574a2cf573aa633ecf8cfbe912.
+-----------------------------------
+True
+
+The image shows a group of individuals, some of whom are wearing protective gear that could be associated with police or security forces, in a setting that suggests a tense or potentially violent situation. There is a circled area highlighting what appears to be a firearm. This visual information aligns with the news article's description of a shootout at a refugee camp in the West Bank, where Palestinian police forces went to arrest suspects, including Ahmed Abu Hamada, and a Palestinian policeman, Hassan Ali al-Hajj, was killed. The image is consistent with the type of scene described in the article, where police and armed individuals engaged in a confrontation involving small arms. Therefore, the image is relevant to the news events listed, as it could depict the type of situation where such a shootout occurred.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f31476169eb1f4ba5c713efe33ecad68
+Image Ok.
+
+Image: 1f3a4fac169478a370fbe005fcd47f7f.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: cde65ca11ce2098fd349a06eb4cace95
+Image Ok.
+
+Image: 61c28db9e8366b3d98876a34ec27af6a.
+-----------------------------------
+False
+
+The image depicts a scene with a military person aiming a weapon at an individual, which aligns with the first news event where Israeli authorities use conventional military force against a Palestinian. However, the second news event, which mentions the use of chemical, biological, or radiological weapons by a Palestinian against Israeli authorities, is not depicted or suggested in the image. The image does not show any evidence of chemical, biological, or radiological weapons being used. Therefore, the relationship between the image and the news events is not fully aligned because the image does not correspond to the second news event.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 44829c120bd1e56626d2294631bb55f3
+Image Ok.
+
+Image: b22143411d3408f251a8403e5ee4a8b8.
+-----------------------------------
+True
+
+The image shows Israeli security forces and a body on the ground, which aligns with the news article's description of a Palestinian woman, identified as Siham Nimr, who was shot after attempting to attack Israeli police with scissors at the entrance to Jerusalem's Old City. The information in the image corresponds with the specific events covered in the news article, where the security forces' response and the aftermath of the attempted stabbing are mentioned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 55409580806c857db1a5d48616490925
+Image Ok.
+
+Image: 970c2140a597e4db874d22bff4e30398.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 7b54f4fd4724d2d158e5e8127998150f
+Image Ok.
+
+Image: 5a820ff60c2a984cc5dd8ef093ed611e.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d1175d97333f52d97801b331a36028ba
+Image Ok.
+
+Image: 41579c1d53c95e3140b8a07655bd4d4d.
+-----------------------------------
+True
+
+The image shows a damaged vehicle and security forces at a scene that appears to be the aftermath of an incident. The news article describes a vehicle-ramming attack at a bus stop, which aligns with the visual evidence in the image. The presence of IDF soldiers and emergency responders in the image corresponds with the events detailed in the news article, where an IDF soldier was killed and another was wounded by a Palestinian driver. The overturned vehicle mentioned by the first responder in the news article is consistent with the damaged vehicle in the image. Therefore, the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a39fdda3252eb9c92e2d354cf07c9bef
+Image Ok.
+
+Image: f79676f75fba62f49fc708c47fbf9987.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 5266f9cb73e7e3a6538402ef99c0598b
+Image Ok.
+
+Image: e46d8436900580d0062cde7f5e6f9e17.
+-----------------------------------
+True
+
+The relationship between the photo and the news article is aligned. The image shows Israeli soldiers at the scene with a damaged vehicle, which is consistent with the description of a car-ramming attack in the West Bank mentioned in the news article. The specific event covered in the image, which is the aftermath of the suspected car-ramming attack, is included in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a544c6ff0e5560aa0ad1879738a75602
+Image Ok.
+
+Image: 87e10b82723eec0910901f8b44507eee.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 2e4db72ab9068c939d71bcd8d3890053
+Image Ok.
+
+Image: 981f0ae45d25959094abd8f0fb0b1020.
+-----------------------------------
+False
+
+The relationship between the provided image and the news events described in the article is not aligned. The news article discusses a specific incident involving a knife attack on Jerusalem's light rail, resulting in the death of a British student and injuries to two Israelis. The article details the attack, the response by Israeli officials, and the broader context of violence in the region.
+
+The image appears to show a man, presumably in custody, being escorted by security personnel. However, there is no explicit information linking the man in the image to the specific incident mentioned in the news article. Without additional context or a caption confirming the identity and relevance of the individual in the image to the incident, we cannot assume alignment based solely on the image content.
+
+Furthermore, the news events listed—accusations of human rights abuses against Palestinian Leader Mahmud Abbas and assassinations of Palestinians by Israeli soldiers and settlers—are broader political issues and do not directly relate to the specific incident of the knife attack on the light rail described in the article. Therefore, the image does not align with the broader news events mentioned either.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: fc93013a091e3fe8d2b33d22e235fdb0
+Image Ok.
+
+Image: 88a9178b01420af57d3976f65184a136.
+-----------------------------------
+True
+
+The relationship between the photo and the news article is aligned. The image shows a crime scene with police presence and police tape, which is consistent with the news article's description of a murder investigation in the Armon Hanatziv neighborhood of Jerusalem. The presence of emergency responders and police aligns with the news events described, including the police responding to a murder and detaining a suspect, as well as emergency medical responders declaring the victim dead at the scene.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: dc3378a184ab5a431f80ee746e6b4885
+Image Ok.
+
+Image: 348f97f0bc79e524b6071a5e690189e4.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 522ec2d6b244e680c9bf3a5cf403d708
+Image Ok.
+
+Image: 3f7b2842360503ed41fcb5c581f50869.
+-----------------------------------
+True.
+
+The image shows emergency services responding to an incident which aligns with the news article's description of a British woman being stabbed by a Palestinian man in Jerusalem. The specific event covered in the image, which is the aftermath of the attack, is included in the news article, thus the relationship between the image and the news article is aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 6bec594f39cfb5527c940ff346324bc5
+Image Ok.
+
+Image: 61bd093a309d95f64b33d13da3a302f8.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 144639d4673cb2eaf896700030d6b9db
+Image Ok.
+
+Image: 1a32c67a33a6af9b085297980273c8ab.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: b786ae1e3d677bff2d4d0c86df2d2cf4
+Image Ok.
+
+Image: 966772a3e387fd6c7428920d2aa6610d.
+-----------------------------------
+True
+
+The image depicts emergency services, which can be identified by the logo on their uniforms as Magen David Adom, an Israeli emergency services company mentioned in the news article. They appear to be attending to an emergency situation involving a stretcher, which aligns with the news of the stabbing incident in Jerusalem where a British exchange student was attacked and others were injured. The specific events covered in the image, such as the emergency response, are included in the news article, making the relationship between the image and the news aligned.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 76b859f33c986aafa04a678212e92b78
+Image Ok.
+
+Image: edaf84fb5363d5cd3fdb0020b9b0b0a7.
+-----------------------------------
+True
+-----------------------------------
+
+
+true num is 68
+false num is 32
+null num is 0
+precision: 0.68
