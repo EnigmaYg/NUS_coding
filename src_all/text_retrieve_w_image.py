@@ -433,7 +433,7 @@ def main(args):
     print(f"args.engine:{args.engine}")
     print(f"args.histlen:{args.histlen}")
 
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = ""
 
     df = pd.read_csv(args.data_path, sep="\t",dtype={"Relation_id": str})
 
