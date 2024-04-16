@@ -1,0 +1,947 @@
+nohup: ignoring input
+Prompt:
+You are a professional news writer. Please extract image information based on the provided news content, following the rules below and incorporating your own domain knowledge:
+1. Extract image information as a sub-event, rather than multiple sub-events.
+2. Based on key information or sub-events in the text, determine the theme or focus of the image.
+3. Directly relate the extracted image information to the relevant news event, enhancing understanding of the news content.
+4. Prioritize and emphasize the most newsworthy and important details in the image, such as specific actions, emotions, or thematic features.
+5. Ensure that the extracted information directly originates from the provided image and news article, avoiding the introduction of fictional content or speculative details.
+6. Summarize the information concisely and clearly, using plain language. Avoid excessive detail or subjective commentary.
+7. Maintain an objective and impartial attitude when describing the image, avoiding the insertion of personal viewpoints or interpretations.
+
+Please present the extracted image information in the following format:
+1. Theme/Focus: [The theme or focus of the extracted image information].
+2. Key Information/Sub-event: [Key information or sub-events relevant to the image theme or focus, presented in text form].
+
+-----------------------------------
+Md5: 41fdbcdb86e8ce3057d6998584fdc202
+-----------------------------------
+
+
+-----------------------------------
+Md5: 7b82771736f6efbbf6acb0b7efc02557
+
+Image: 5b2ba0d7b7b2287c86a80d6a9ba919af.
+The sub-events of news article:
+* Egyptian President Abdul-Fattah Al-Sisi told an Italian newspaper that Egypt is ready to send troops to Palestine to guarantee Israel’s security and work jointly against terrorism.
+* Al-Sisi said that Egyptian troops would help the local police and reassure Israelis in their role as guarantors.
+* Al-Sisi stressed that any such troop deployment would only be for the time needed to restore trust between the two sides.
+* Al-Sisi added that he has spoken about this idea ‘at length’ with Israeli Prime Minister Benjamin Netanyahu and Palestinian Authority President Mahmoud Abbas.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Meeting between Egyptian President Abdul-Fattah Al-Sisi and Israeli Prime Minister Benjamin Netanyahu.
+
+Key Information/Sub-event: The two leaders are sitting in a room, engaged in a conversation. There are two flags in the background, one of Egypt and one of Israel.
+
+Image: <start_of_image>Giza, Egypt - 20 September 2017: Egyptian President Abdel Fattah el-Sisi (R) meets with Israeli Prime Minister Benjamin Netanyahu (L) in Cairo, Egypt, on September 20, 2017. Netanyahu is on a one-day visit to Egypt to discuss regional issues with el-Sisi. (Photo by Egyptian Presidency/Anadolu Agency/Getty Images)**
+['* Theme/Focus: Meeting between Egyptian President Abdul-Fattah Al-Sisi and Israeli Prime Minister Benjamin Netanyahu.', '* ', '* Key Information/Sub-event: The two leaders are sitting in a room, engaged in a conversation. There are two flags in the background, one of Egypt and one of Israel.', '* ', '* Image: <start_of_image>Giza, Egypt - 20 September 2017: Egyptian President Abdel Fattah el-Sisi (R) meets with Israeli Prime Minister Benjamin Netanyahu (L) in Cairo, Egypt, on September 20, 2017. Netanyahu is on a one-day visit to Egypt to discuss regional issues with el-Sisi. (Photo by Egyptian Presidency/Anadolu Agency/Getty Images)**']
+
+
+Image: d98ba076e602e0acdd03834598bf6eaf.
+The sub-events of news article:
+* Egyptian President Abdul-Fattah Al-Sisi told an Italian newspaper that Egypt is ready to send troops to Palestine to guarantee Israel’s security and work jointly against terrorism.
+* Al-Sisi said that Egyptian troops would help the local police and reassure Israelis in their role as guarantors.
+* Al-Sisi stressed that any such troop deployment would only be for the time needed to restore trust between the two sides.
+* Al-Sisi added that he has spoken about this idea ‘at length’ with Israeli Prime Minister Benjamin Netanyahu and Palestinian Authority President Mahmoud Abbas.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Meeting between Egyptian President Abdul-Fattah Al-Sisi and Israeli Prime Minister Benjamin Netanyahu.
+
+Key Information/Sub-event: The two leaders are sitting side by side, engaged in a conversation. Al-Sisi is expressing his willingness to send Egyptian troops to Palestine to ensure Israel's security and combat terrorism. Netanyahu is listening attentively, indicating his interest in the proposal.
+
+Image: The image shows Egyptian President Abdul-Fattah Al-Sisi and Israeli Prime Minister Benjamin Netanyahu sitting side by side, engaged in a conversation. Al-Sisi is expressing his willingness to send Egyptian troops to Palestine to ensure Israel's security and combat terrorism. Netanyahu is listening attentively, indicating his interest in the proposal.
+['* Theme/Focus: Meeting between Egyptian President Abdul-Fattah Al-Sisi and Israeli Prime Minister Benjamin Netanyahu.', '* ', "* Key Information/Sub-event: The two leaders are sitting side by side, engaged in a conversation. Al-Sisi is expressing his willingness to send Egyptian troops to Palestine to ensure Israel's security and combat terrorism. Netanyahu is listening attentively, indicating his interest in the proposal.", '* ', "* Image: The image shows Egyptian President Abdul-Fattah Al-Sisi and Israeli Prime Minister Benjamin Netanyahu sitting side by side, engaged in a conversation. Al-Sisi is expressing his willingness to send Egyptian troops to Palestine to ensure Israel's security and combat terrorism. Netanyahu is listening attentively, indicating his interest in the proposal."]
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: f56143e27ec1e4a0fe31475245f4a9da
+
+Image: 78ff31ab5b04e728b5a1471566565135.
+The sub-events of news article:
+* The Cabinet called on Egypt to continue the Jarring talks to reach a peace agreement between the two states.
+* The Cabinet stated that Israel will not restore the pre-Six-Day War borders of June 4, 1967.
+* The Cabinet expressed its readiness for meaningful negotiations on all subjects relevant to a peace agreement between the two countries.
+* The Cabinet said that the government of Israel hopes for a positive response by Egypt and for progress in the negotiations.
+* The Cabinet stressed that the negotiations should not be subject to prior commitments on the outstanding issues.
+* The Cabinet welcomed Egypt's willingness to conclude a peace pact of some kind.
+* The Foreign Ministry spokesman commented that Israel would never agree to restrict Jewish immigration, even if it meant the foundering of the peace talks.
+* Political circles in Jerusalem said Jordan would soon approve Dr. Jarring's reported suggestion that Amman sign a peace accord with Israel after some territorial adjustments.
+* The Interparty Secretariat Against Withdrawal From Administered Territories urged the Meir administration to reject any demand for an unconditional pullback from the areas captured in the Six-Day War.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Signing of the peace treaty between Egypt and Jordan.
+Key Information/Sub-event: The image shows the signing of the peace treaty between Egypt and Jordan. The Egyptian Foreign Minister, Mahmoud Riad, and the Jordanian Foreign Minister, Abdullah Salah, are signing the treaty. The treaty was signed in Amman, Jordan, on October 26, 1979. The signing of the treaty was a major step in the peace process between Egypt and Jordan.
+['* Theme/Focus: Signing of the peace treaty between Egypt and Jordan.', '* Key Information/Sub-event: The image shows the signing of the peace treaty between Egypt and Jordan. The Egyptian Foreign Minister, Mahmoud Riad, and the Jordanian Foreign Minister, Abdullah Salah, are signing the treaty. The treaty was signed in Amman, Jordan, on October 26, 1979. The signing of the treaty was a major step in the peace process between Egypt and Jordan.']
+
+
+Image: f897e78a4293670e6af73d042274f88d.
+The sub-events of news article:
+* The Cabinet called on Egypt to continue the Jarring talks to reach a peace agreement between the two states.
+* The Cabinet stated that Israel will not restore the pre-Six-Day War borders of June 4, 1967.
+* The Cabinet expressed its readiness for meaningful negotiations on all subjects relevant to a peace agreement between the two countries.
+* The Cabinet said that the government of Israel hopes for a positive response by Egypt and for progress in the negotiations.
+* The Cabinet stressed that the negotiations should not be subject to prior commitments on the outstanding issues.
+* The Cabinet welcomed Egypt's willingness to conclude a peace pact of some kind.
+* The Foreign Ministry spokesman commented that Israel would never agree to restrict Jewish immigration, even if it meant the foundering of the peace talks.
+* Political circles in Jerusalem said Jordan would soon approve Dr. Jarring's reported suggestion that Amman sign a peace accord with Israel after some territorial adjustments.
+* The Interparty Secretariat Against Withdrawal From Administered Territories urged the Meir administration to reject any demand for an unconditional pullback from the areas captured in the Six-Day War.
+
+The information extracted from the image:
+
+
+ Theme/Focus: A group of people standing together in a room.
+Key Information/Sub-event: A group of people, including both men and women, are standing together in a room. They are all wearing formal business attire. The room is decorated with flags and a chandelier.
+Image: <start_of_image>Gathered for the peace talks are the Egyptian delegation, headed by Foreign Minister Ismail Fahmy, and the Israeli delegation, led by Foreign Minister Abba Eban.
+['* Theme/Focus: A group of people standing together in a room.', '* Key Information/Sub-event: A group of people, including both men and women, are standing together in a room. They are all wearing formal business attire. The room is decorated with flags and a chandelier.', '* Image: <start_of_image>Gathered for the peace talks are the Egyptian delegation, headed by Foreign Minister Ismail Fahmy, and the Israeli delegation, led by Foreign Minister Abba Eban.']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: 7bf313059ea104c5254c9cf030f84181
+-----------------------------------
+
+
+-----------------------------------
+Md5: d490a6ed414df91a602810c342aae4b9
+-----------------------------------
+
+
+-----------------------------------
+Md5: 218d3d3e63aecf8ca2e3593e0b092520
+
+Image: 288d09d28c7c6272c09f1148d065815d.
+The sub-events of news article:
+* Israeli Foreign Minister Yitzhak Shamir expressed confidence in the continuation of the peace process after the April 26 Sinai withdrawal date, despite differences between Israel and Egypt.
+* Egyptian Foreign Minister Kamel Hassan Ali rejected Shamir's statement that any Palestinian state should include Jordan, emphasizing that Jordan is a separate entity.
+* Shamir's visit to Egypt made minor progress in normalizing relations but did not resolve major obstacles.
+* The visit improved the climate between Israel and Egypt, particularly given Shamir's previous skepticism about Egypt's intentions after the withdrawal.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Meeting between Israeli Foreign Minister Yitzhak Shamir and Egyptian Foreign Minister Kamel Hassan Ali.
+
+Key Information/Sub-event: The two foreign ministers are seated on a couch, engaged in a serious discussion. They are both wearing suits and ties. The background includes a lamp, a vase, and a picture.
+
+Image: <start_of_image>G:\My Drive\News\002.jpg
+['* Theme/Focus: Meeting between Israeli Foreign Minister Yitzhak Shamir and Egyptian Foreign Minister Kamel Hassan Ali.', '* ', '* Key Information/Sub-event: The two foreign ministers are seated on a couch, engaged in a serious discussion. They are both wearing suits and ties. The background includes a lamp, a vase, and a picture.', '* ', '* Image: <start_of_image>G:\\My Drive\\News\\002.jpg']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: c0ad131ff5ad84196e57f74e8763335c
+
+Image: cdcaa06f9013762bb29c330c0c310dec.
+The sub-events of news article:
+* Vice Premier and Foreign Minister Shimon Peres met with Egyptian President Hosni Mubarak in Cairo to discuss an international peace conference for the Middle East.
+* Peres announced that he will have another round of talks with Mubarak on Friday.
+* Peres said “new ideas” were raised at their meeting Thursday, but would not say what they were.
+* Premier Yitzhak Shamir is adamantly opposed to an international conference including the Soviet Union.
+* Peres went to Cairo Wednesday while Shamir was still enroute home from a 10-day visit to the U.S.
+* Shamir said that the Peres-Mubarak meeting could well determine the fate of the unity government.
+* The Likud Ministers said they would react after they learned the outcome of Peres’ meeting with Mubarak Friday.
+* Shamir warned that Peres had no right or mandate to agree to anything on Israel’s behalf with respect to an international forum.
+
+The information extracted from the image:
+
+
+ 1. Theme/Focus: Israeli Prime Minister Yitzhak Shamir speaking in the Knesset.
+2. Key Information/Sub-event: Israeli Prime Minister Yitzhak Shamir is pictured speaking in the Knesset, expressing his opposition to an international peace conference for the Middle East.
+Image: <start_of_image>G:\My Drive\News\0001.jpg
+['* 1. Theme/Focus: Israeli Prime Minister Yitzhak Shamir speaking in the Knesset.', '* 2. Key Information/Sub-event: Israeli Prime Minister Yitzhak Shamir is pictured speaking in the Knesset, expressing his opposition to an international peace conference for the Middle East.', '* Image: <start_of_image>G:\\My Drive\\News\\0001.jpg']
+
+
+Image: 745a3bc6c6b4cfe99c549b3e8acaccb5.
+The sub-events of news article:
+* Vice Premier and Foreign Minister Shimon Peres met with Egyptian President Hosni Mubarak in Cairo to discuss an international peace conference for the Middle East.
+* Peres announced that he will have another round of talks with Mubarak on Friday.
+* Peres said “new ideas” were raised at their meeting Thursday, but would not say what they were.
+* Premier Yitzhak Shamir is adamantly opposed to an international conference including the Soviet Union.
+* Peres went to Cairo Wednesday while Shamir was still enroute home from a 10-day visit to the U.S.
+* Shamir said that the Peres-Mubarak meeting could well determine the fate of the unity government.
+* The Likud Ministers said they would react after they learned the outcome of Peres’ meeting with Mubarak Friday.
+* Shamir warned that Peres had no right or mandate to agree to anything on Israel’s behalf with respect to an international forum.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Two men in suits are sitting in chairs, talking.
+
+Key Information/Sub-event: Israeli Vice Premier and Foreign Minister Shimon Peres (left) meets with Egyptian President Hosni Mubarak (right) in Cairo to discuss an international peace conference for the Middle East.
+['* Theme/Focus: Two men in suits are sitting in chairs, talking.', '* ', '* Key Information/Sub-event: Israeli Vice Premier and Foreign Minister Shimon Peres (left) meets with Egyptian President Hosni Mubarak (right) in Cairo to discuss an international peace conference for the Middle East.']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: 30372e8ad02c101e80a46f1f20466b32
+-----------------------------------
+
+
+-----------------------------------
+Md5: 5b5bc35eb6b9a755ebf29d9e7e199c43
+
+Image: 4c1f5822a317735a3b6a4551f285daf6.
+The sub-events of news article:
+* Foreign Minister Moshe Dayan blamed Egypt for the current impasse in peace talks with Israel.
+* Dayan said Israel preferred direct negotiations and practical discussions of mutual proposals with the Egyptians to the present contacts through an American intermediary.
+* Dayan claimed there are no direct negotiations with Egypt now because the Egyptians do not want or cannot conduct such negotiations without the participation of Jordan and other Arab countries.
+* Dayan accused Cairo of toughening its stand and backing away from original positions.
+* Dayan said the current negotiations through American mediation was contrary to the understanding reached by Premier Menachem Begin and President Anwar Sadat at their Christmas Day meeting in Ismailia last year.
+* According to Dayan, the Egyptians promised then to present counter-proposals to Israel’s peace plan for Sinai and the West Bank, but so far they have not done so.
+* Dayan said Israel did not object to President Carter’s Jan. 4 Aswan formula that called for Palestinian Arab participation in determining their own future.
+* Dayan said Israel would never allow the Palestinian Arabs to determine the future of its settlements in the occupied Arab territories.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Two men in suits are engaged in a serious discussion.
+Key Information/Sub-event: The two men in the image are Israeli Foreign Minister Moshe Dayan (left) and Egyptian President Anwar Sadat (right). They are shown in a tense moment during peace negotiations between Israel and Egypt, with Dayan leaning in to emphasize a point while Sadat listens intently.
+Image: .
+['* Theme/Focus: Two men in suits are engaged in a serious discussion.', '* Key Information/Sub-event: The two men in the image are Israeli Foreign Minister Moshe Dayan (left) and Egyptian President Anwar Sadat (right). They are shown in a tense moment during peace negotiations between Israel and Egypt, with Dayan leaning in to emphasize a point while Sadat listens intently.', '* Image: .']
+
+
+Image: 53bfc19c1b559450680449733eff639b.
+The sub-events of news article:
+* Foreign Minister Moshe Dayan blamed Egypt for the current impasse in peace talks with Israel.
+* Dayan said Israel preferred direct negotiations and practical discussions of mutual proposals with the Egyptians to the present contacts through an American intermediary.
+* Dayan claimed there are no direct negotiations with Egypt now because the Egyptians do not want or cannot conduct such negotiations without the participation of Jordan and other Arab countries.
+* Dayan accused Cairo of toughening its stand and backing away from original positions.
+* Dayan said the current negotiations through American mediation was contrary to the understanding reached by Premier Menachem Begin and President Anwar Sadat at their Christmas Day meeting in Ismailia last year.
+* According to Dayan, the Egyptians promised then to present counter-proposals to Israel’s peace plan for Sinai and the West Bank, but so far they have not done so.
+* Dayan said Israel did not object to President Carter’s Jan. 4 Aswan formula that called for Palestinian Arab participation in determining their own future.
+* Dayan said Israel would never allow the Palestinian Arabs to determine the future of its settlements in the occupied Arab territories.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The image features the flags of Israel, Jordan, Egypt, and Palestine, arranged in a row. The flags are placed on a dark blue background, with a map of the region in the foreground. The image symbolizes the critical and complex relationships between these four countries, particularly in relation to the Israeli-Palestinian conflict.
+
+Key Information/Sub-event: The flags of Israel, Jordan, Egypt, and Palestine are featured in the image, representing the four countries involved in the Israeli-Palestinian conflict. The map in the foreground highlights the geographical proximity of these countries, emphasizing the close and intertwined nature of their political and security situations.
+['* Theme/Focus: The image features the flags of Israel, Jordan, Egypt, and Palestine, arranged in a row. The flags are placed on a dark blue background, with a map of the region in the foreground. The image symbolizes the critical and complex relationships between these four countries, particularly in relation to the Israeli-Palestinian conflict.', '* ', '* Key Information/Sub-event: The flags of Israel, Jordan, Egypt, and Palestine are featured in the image, representing the four countries involved in the Israeli-Palestinian conflict. The map in the foreground highlights the geographical proximity of these countries, emphasizing the close and intertwined nature of their political and security situations.']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: 9b50f725dcff8f4ddf9bd3b938353cb7
+-----------------------------------
+
+
+-----------------------------------
+Md5: 87b579605bac4f4b0c837ca7592cbdcb
+
+Image: e8d66ea0b970400dd328065805c4f00c.
+The sub-events of news article:
+* Israeli-Egyptian negotiations over the disputed Taba region resumed yesterday and continued today, but adjourned with no announcement of the next session.
+* Egypt broke off the talks after Israel invaded Lebanon last June.
+* The talks were held in Ismailia, an Egyptian city on the Suez Canal.
+* According to the Egyptians, the talks focussed on interim arrangements for the 700-meter strip of beach on the Gulf of Aqaba which both countries claim.
+* Israel Radio said today that in secret contacts before the talks were resumed, Egypt had agreed to discuss normalization of relations with Israel at future sessions.
+* The Israelis are seriously concerned over the freeze in the normalization process because of Israel’s actions in Lebanon.
+* The Israeli Ambassador in Cairo, Moshe Sasson, described a remark by Egypt’s Minister of State for Foreign Affairs Boutros Ghali that a “cold peace” exists between Israel and Egypt as “very unfortunate.”
+* Egypt has asked Israel to allow members of the multinational force in Sinai to enter the disputed region as part of an interim agreement.
+* Egypt is cooperating with Israel in tracking down unidentified persons who laid mines in the Negev last week which killed five Bedouins and damaged two vehicles.
+* Egypt is also helping Israel trace hundreds of stolen cars smuggled from Israel into Sinai for sale in Egypt.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Map of the Taba region, illustrating the location and proximity of the disputed territory to both Israel and Egypt.
+
+Key Information/Sub-event: The map shows the location of the Taba region, which is situated on the Gulf of Aqaba and is claimed by both Israel and Egypt. The map also displays the surrounding areas, including the cities of Taba, Eilat, and Aqaba.
+
+Image: [A map of the Taba region, illustrating the location and proximity of the disputed territory to both Israel and Egypt.]
+['* Theme/Focus: Map of the Taba region, illustrating the location and proximity of the disputed territory to both Israel and Egypt.', '* ', '* Key Information/Sub-event: The map shows the location of the Taba region, which is situated on the Gulf of Aqaba and is claimed by both Israel and Egypt. The map also displays the surrounding areas, including the cities of Taba, Eilat, and Aqaba.', '* ', '* Image: [A map of the Taba region, illustrating the location and proximity of the disputed territory to both Israel and Egypt.]']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: c17817678bef651236af511a7035d188
+-----------------------------------
+
+
+-----------------------------------
+Md5: 746c64ca657d52c93f0ede23d29b1d34
+-----------------------------------
+
+
+-----------------------------------
+Md5: b93714113ec61af3383bcaacb6f4eb04
+-----------------------------------
+
+
+-----------------------------------
+Md5: 561d43207bd6a2e831817dc8009e0e26
+-----------------------------------
+
+
+-----------------------------------
+Md5: 7ea950478101e7cb5c3b8213c0a84758
+
+Image: bc531ffcaa53adb7890bdfc068a32161.
+The sub-events of news article:
+* President Hosni Mubarak of Egypt denied that he would cancel Egypt’s peace treaty with Israel to regain membership in the Arab League.
+* Mubarak rejected the suggestion that President Hafez Assad of Syria can force Egypt to abrogate its peace treaty with Israel.
+* Mubarak said that he would not send back Egypt’s Ambassador to Israel until Israel withdraws completely from Lebanon and begins some movement on the Palestinian issue.
+* Mubarak charged that it was Israel, not Egypt, which was violating the Camp David agreements.
+* Mubarak said it would be a “grave mistake” if Congress linked aid to Egypt with the return of the Egyptian Ambassador to Israel.
+* Mubarak urged the U.S. to negotiate with the Palestine Liberation Organization.
+* Mubarak said that for King Hussein of Jordan to enter negotiations with Israel, he needs the support of both the U.S. and Egypt.
+* Mubarak denied reports that unlike his predecessor, Sadat, he was moving away from close relations with the U.S.
+* Israel’s Minister of Commerce and Industry, Gideon Patt, was told by Egyptian Foreign Minister Kamal Hassan Ali today that Israel must adopt a more “flexible” policy if it wants to encourage other parties to join in Middle East peace negotiations.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Leaders of Egypt, Israel, Jordan, and the United States at a peace summit.
+Key Information/Sub-event: The leaders of Egypt, Israel, Jordan, and the United States are shown walking together at a peace summit. This image symbolizes the hope for peace in the Middle East.
+Image: <start_of_image>Gideon Patt, was told by Egyptian Foreign Minister Kamal Hassan Ali today that Israel must adopt a more “flexible” policy if it wants to encourage other parties to join in Middle East peace negotiations.
+['* Theme/Focus: Leaders of Egypt, Israel, Jordan, and the United States at a peace summit.', '* Key Information/Sub-event: The leaders of Egypt, Israel, Jordan, and the United States are shown walking together at a peace summit. This image symbolizes the hope for peace in the Middle East.', '* Image: <start_of_image>Gideon Patt, was told by Egyptian Foreign Minister Kamal Hassan Ali today that Israel must adopt a more “flexible” policy if it wants to encourage other parties to join in Middle East peace negotiations.']
+
+
+Image: eb3922e184696f0108470223af37dc34.
+The sub-events of news article:
+* President Hosni Mubarak of Egypt denied that he would cancel Egypt’s peace treaty with Israel to regain membership in the Arab League.
+* Mubarak rejected the suggestion that President Hafez Assad of Syria can force Egypt to abrogate its peace treaty with Israel.
+* Mubarak said that he would not send back Egypt’s Ambassador to Israel until Israel withdraws completely from Lebanon and begins some movement on the Palestinian issue.
+* Mubarak charged that it was Israel, not Egypt, which was violating the Camp David agreements.
+* Mubarak said it would be a “grave mistake” if Congress linked aid to Egypt with the return of the Egyptian Ambassador to Israel.
+* Mubarak urged the U.S. to negotiate with the Palestine Liberation Organization.
+* Mubarak said that for King Hussein of Jordan to enter negotiations with Israel, he needs the support of both the U.S. and Egypt.
+* Mubarak denied reports that unlike his predecessor, Sadat, he was moving away from close relations with the U.S.
+* Israel’s Minister of Commerce and Industry, Gideon Patt, was told by Egyptian Foreign Minister Kamal Hassan Ali today that Israel must adopt a more “flexible” policy if it wants to encourage other parties to join in Middle East peace negotiations.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Hosni Mubarak's Stance on the Camp David Accords.
+Key Information/Sub-event: Egyptian President Hosni Mubarak is pictured standing in front of a map of the Middle East, reflecting his focus on regional issues. In the context of the news article, this image highlights Mubarak's perspective on the Camp David Accords and his emphasis on Egypt's role in the Arab world.
+Image: .
+["* Theme/Focus: Hosni Mubarak's Stance on the Camp David Accords.", "* Key Information/Sub-event: Egyptian President Hosni Mubarak is pictured standing in front of a map of the Middle East, reflecting his focus on regional issues. In the context of the news article, this image highlights Mubarak's perspective on the Camp David Accords and his emphasis on Egypt's role in the Arab world.", '* Image: .']
+
+
+Image: 99c3315232acfd3f34a0d8623e67f6b5.
+The sub-events of news article:
+* President Hosni Mubarak of Egypt denied that he would cancel Egypt’s peace treaty with Israel to regain membership in the Arab League.
+* Mubarak rejected the suggestion that President Hafez Assad of Syria can force Egypt to abrogate its peace treaty with Israel.
+* Mubarak said that he would not send back Egypt’s Ambassador to Israel until Israel withdraws completely from Lebanon and begins some movement on the Palestinian issue.
+* Mubarak charged that it was Israel, not Egypt, which was violating the Camp David agreements.
+* Mubarak said it would be a “grave mistake” if Congress linked aid to Egypt with the return of the Egyptian Ambassador to Israel.
+* Mubarak urged the U.S. to negotiate with the Palestine Liberation Organization.
+* Mubarak said that for King Hussein of Jordan to enter negotiations with Israel, he needs the support of both the U.S. and Egypt.
+* Mubarak denied reports that unlike his predecessor, Sadat, he was moving away from close relations with the U.S.
+* Israel’s Minister of Commerce and Industry, Gideon Patt, was told by Egyptian Foreign Minister Kamal Hassan Ali today that Israel must adopt a more “flexible” policy if it wants to encourage other parties to join in Middle East peace negotiations.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Israeli Prime Minister Benjamin Netanyahu meets with U.S. Special Envoy Jared Kushner.
+
+Key Information/Sub-event: Israeli Prime Minister Benjamin Netanyahu is pictured standing at a podium next to U.S. Special Envoy Jared Kushner. The two are likely discussing the ongoing peace process between Israel and the Palestinians.
+
+Image: Israeli Prime Minister Benjamin Netanyahu (L) meets with U.S. Special Envoy Jared Kushner (R) in Jerusalem.
+['* Theme/Focus: Israeli Prime Minister Benjamin Netanyahu meets with U.S. Special Envoy Jared Kushner.', '* ', '* Key Information/Sub-event: Israeli Prime Minister Benjamin Netanyahu is pictured standing at a podium next to U.S. Special Envoy Jared Kushner. The two are likely discussing the ongoing peace process between Israel and the Palestinians.', '* ', '* Image: Israeli Prime Minister Benjamin Netanyahu (L) meets with U.S. Special Envoy Jared Kushner (R) in Jerusalem.']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: bccebdcdd695078f9d366d52c4b9a218
+
+Image: e7df6c704fb8914ddf358c07975a5e6a.
+The sub-events of news article:
+* Thirty country leaders, 100 states, dozens of financial companies, bank managers and more than 1,000 potential investors attended the Sharm el-Sheikh conference.
+* Egypt's President Abdel Fattah al-Sisi warned that if Egypt collapses, the danger will threaten all of the region's countries.
+* Al-Sisi proposed a peace plan to send Egyptian forces into the West Bank and Gaza as a temporary measure until Israel and the Palestinians strike a peace deal.
+* Israel approved al-Sisi's plan to let Egyptian military forces and Air Force choppers into Sinai to fight the terror infrastructures there.
+* Al-Sisi revealed that he talks "a lot" with Prime Minister Benjamin Netanyahu about Iran, Hamas in Gaza, and Israel's lobbying for him on Capitol Hill.
+* Al-Sisi informed an American Congress member that if the Egyptians don’t get help, all options are on the table.
+* Secretary of State Kerry didn’t announce that the United States is planning on investing in Egypt.
+* A huge security operation took place behind the scenes to curb terror attacks.
+
+The information extracted from the image:
+
+
+ Theme/Focus: A meeting between Egyptian President Abdel Fattah al-Sisi, Israeli Prime Minister Benjamin Netanyahu, and UAE Foreign Minister Abdullah bin Zayed Al Nahyan.
+
+Key Information/Sub-event: The three leaders are sitting in a room, with the Egyptian flag, Israeli flag, and UAE flag in the background. They are all looking at each other, and their body language suggests that they are engaged in a serious conversation.
+['* Theme/Focus: A meeting between Egyptian President Abdel Fattah al-Sisi, Israeli Prime Minister Benjamin Netanyahu, and UAE Foreign Minister Abdullah bin Zayed Al Nahyan.', '* ', '* Key Information/Sub-event: The three leaders are sitting in a room, with the Egyptian flag, Israeli flag, and UAE flag in the background. They are all looking at each other, and their body language suggests that they are engaged in a serious conversation.']
+
+
+Image: 8f9bc905607c3284740351518d5b395c.
+The sub-events of news article:
+* Thirty country leaders, 100 states, dozens of financial companies, bank managers and more than 1,000 potential investors attended the Sharm el-Sheikh conference.
+* Egypt's President Abdel Fattah al-Sisi warned that if Egypt collapses, the danger will threaten all of the region's countries.
+* Al-Sisi proposed a peace plan to send Egyptian forces into the West Bank and Gaza as a temporary measure until Israel and the Palestinians strike a peace deal.
+* Israel approved al-Sisi's plan to let Egyptian military forces and Air Force choppers into Sinai to fight the terror infrastructures there.
+* Al-Sisi revealed that he talks "a lot" with Prime Minister Benjamin Netanyahu about Iran, Hamas in Gaza, and Israel's lobbying for him on Capitol Hill.
+* Al-Sisi informed an American Congress member that if the Egyptians don’t get help, all options are on the table.
+* Secretary of State Kerry didn’t announce that the United States is planning on investing in Egypt.
+* A huge security operation took place behind the scenes to curb terror attacks.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Egyptian President Abdel Fattah al-Sisi saluting the Israeli flag.
+Key Information/Sub-event: Egyptian President Abdel Fattah al-Sisi is shown saluting the Israeli flag in the image. This is a significant gesture, as it is a sign of respect and recognition between the two countries.
+Image:
+['* Theme/Focus: Egyptian President Abdel Fattah al-Sisi saluting the Israeli flag.', '* Key Information/Sub-event: Egyptian President Abdel Fattah al-Sisi is shown saluting the Israeli flag in the image. This is a significant gesture, as it is a sign of respect and recognition between the two countries.', '* Image:']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: b67b9c176bf87707b54b6e903d5d2e8f
+
+Image: 06adb1df1ea809b0c0bc1663b03eae96.
+The sub-events of news article:
+* Egyptian Foreign Minister Kamal Hassan Ali ended a three-day visit to Israel without settling the differences between Israel and Egypt over the Sinai border.
+* The timing and itinerary of President Hosni Mubarak’s projected visit to Israel remained undecided.
+* Both countries are determined to resolve their differences through amicable negotiations by the time Israel completes its withdrawal from Sinai on April 25.
+* Hassan Ali and Israeli Defense Minister Ariel Sharon will meet again within 2-3 weeks in Cairo for another session of the Israel-Egyptian Joint High Commission on normalization of relations.
+* The most serious dispute concerns the location of the boundary line in the Taba region near Eilot, which involves a coastal strip of less than one kilometer on which an Israeli-built resort hotel is located.
+* Sources on both sides predicted that some form of functional arrangement would be worked out whereby the Israelis would be able to continue to operate the hotel while Egypt exercised its sovereignty over the area.
+* Hassan Ali conveyed to Premier Menachem Begin an oral message from Mubarak reiterating his desire to visit Israel, and Begin re-extended the invitation.
+* The timing of the visit and the issue of whether Mubarak would include Jerusalem on his itinerary would be decided in future discussions.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The map of the Exodus Route from Egypt to the land of Canaan.
+
+Key Information/Sub-event: The map shows the route taken by the Israelites during the Exodus, as described in the Bible. It starts in Egypt, crosses the Red Sea, and then travels through the Sinai Peninsula and into the land of Canaan. The map also shows the location of key events during the Exodus, such as the Ten Plagues and the crossing of the Jordan River.
+['* Theme/Focus: The map of the Exodus Route from Egypt to the land of Canaan.', '* ', '* Key Information/Sub-event: The map shows the route taken by the Israelites during the Exodus, as described in the Bible. It starts in Egypt, crosses the Red Sea, and then travels through the Sinai Peninsula and into the land of Canaan. The map also shows the location of key events during the Exodus, such as the Ten Plagues and the crossing of the Jordan River.']
+
+
+Image: 1d94aa8b03df082b8cdf565f0349112e.
+The sub-events of news article:
+* Egyptian Foreign Minister Kamal Hassan Ali ended a three-day visit to Israel without settling the differences between Israel and Egypt over the Sinai border.
+* The timing and itinerary of President Hosni Mubarak’s projected visit to Israel remained undecided.
+* Both countries are determined to resolve their differences through amicable negotiations by the time Israel completes its withdrawal from Sinai on April 25.
+* Hassan Ali and Israeli Defense Minister Ariel Sharon will meet again within 2-3 weeks in Cairo for another session of the Israel-Egyptian Joint High Commission on normalization of relations.
+* The most serious dispute concerns the location of the boundary line in the Taba region near Eilot, which involves a coastal strip of less than one kilometer on which an Israeli-built resort hotel is located.
+* Sources on both sides predicted that some form of functional arrangement would be worked out whereby the Israelis would be able to continue to operate the hotel while Egypt exercised its sovereignty over the area.
+* Hassan Ali conveyed to Premier Menachem Begin an oral message from Mubarak reiterating his desire to visit Israel, and Begin re-extended the invitation.
+* The timing of the visit and the issue of whether Mubarak would include Jerusalem on his itinerary would be decided in future discussions.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The map of the Exodus route.
+
+Key Information/Sub-event: The map shows the route that the Israelites took during the Exodus from Egypt to the Promised Land. It includes the key locations mentioned in the biblical account, such as the Nile River, the Red Sea, and Mount Sinai.
+
+Image: <Image of a map of the Exodus route>
+['* Theme/Focus: The map of the Exodus route.', '* ', '* Key Information/Sub-event: The map shows the route that the Israelites took during the Exodus from Egypt to the Promised Land. It includes the key locations mentioned in the biblical account, such as the Nile River, the Red Sea, and Mount Sinai.', '* ', '* Image: <Image of a map of the Exodus route>']
+
+
+Image: 3a52489bd42efbbbece4c6b062f0fb84.
+The sub-events of news article:
+* Egyptian Foreign Minister Kamal Hassan Ali ended a three-day visit to Israel without settling the differences between Israel and Egypt over the Sinai border.
+* The timing and itinerary of President Hosni Mubarak’s projected visit to Israel remained undecided.
+* Both countries are determined to resolve their differences through amicable negotiations by the time Israel completes its withdrawal from Sinai on April 25.
+* Hassan Ali and Israeli Defense Minister Ariel Sharon will meet again within 2-3 weeks in Cairo for another session of the Israel-Egyptian Joint High Commission on normalization of relations.
+* The most serious dispute concerns the location of the boundary line in the Taba region near Eilot, which involves a coastal strip of less than one kilometer on which an Israeli-built resort hotel is located.
+* Sources on both sides predicted that some form of functional arrangement would be worked out whereby the Israelis would be able to continue to operate the hotel while Egypt exercised its sovereignty over the area.
+* Hassan Ali conveyed to Premier Menachem Begin an oral message from Mubarak reiterating his desire to visit Israel, and Begin re-extended the invitation.
+* The timing of the visit and the issue of whether Mubarak would include Jerusalem on his itinerary would be decided in future discussions.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Sinai Peninsula and Surrounding Areas.
+
+Key Information/Sub-event: The map shows the location of the Sinai Peninsula, which is a part of Egypt. It also shows the location of Israel, the Gaza Strip, and the West Bank. The map highlights the cities of Cairo, Eilat, and Sharm el-Sheikh. It also shows the Suez Canal and the Gulf of Suez.
+
+Image:
+['* Theme/Focus: Sinai Peninsula and Surrounding Areas.', '* ', '* Key Information/Sub-event: The map shows the location of the Sinai Peninsula, which is a part of Egypt. It also shows the location of Israel, the Gaza Strip, and the West Bank. The map highlights the cities of Cairo, Eilat, and Sharm el-Sheikh. It also shows the Suez Canal and the Gulf of Suez.', '* ', '* Image:']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: 35138a70978b83f06c4964ebebf43c46
+
+Image: 661019114be0a3e5761f5a803d71b2c0.
+The sub-events of news article:
+* Foreign Minister Yitzhak Shamir will take an active part in the autonomy negotiations with Egypt and the U.S.
+* May 26 is not the final date for completion of the autonomy talks but merely a desired date.
+* Special Ambassador Sol Linowitz is expected to arrive in Israel on Saturday to urge Israel to make the most of the time available until May 26.
+* Interior Minister Yosef Burg suggested that the top level autonomy team meet on a weekly basis instead of about once a month.
+* Egyptian Prime Minister Mustapha Khalil said that while Egypt is not opposed to speeding up the negotiating process, “the good intentions are much more important than the frequency and the length of the autonomy sessions.”
+
+The information extracted from the image:
+
+
+ Theme/Focus: A discussion between Noam Chomsky and Tony Klug about Israel-Palestine.
+Key Information/Sub-event: Noam Chomsky and Tony Klug are sitting on a bench, looking in opposite directions. Chomsky is pointing to a sign that says "Looking Back", while Klug is pointing to a sign that says "Thinking Ahead". This image represents a discussion between Noam Chomsky and Tony Klug about Israel-Palestine.
+['* Theme/Focus: A discussion between Noam Chomsky and Tony Klug about Israel-Palestine.', '* Key Information/Sub-event: Noam Chomsky and Tony Klug are sitting on a bench, looking in opposite directions. Chomsky is pointing to a sign that says "Looking Back", while Klug is pointing to a sign that says "Thinking Ahead". This image represents a discussion between Noam Chomsky and Tony Klug about Israel-Palestine.']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: eb89cf6931614bdb8d496f7bdc998b16
+
+Image: 7b94d818ef3b890f412902504587d377.
+The sub-events of news article:
+* Four days before Israeli elections, regional leaders met with US secretary of state John Kerry in Egypt to discuss the Palestinian situation and Israeli-Palestinian peace.
+* King Abdullah II of Jordan, Palestinian Authority president Mahmoud Abbas, and Kerry attended the meeting.
+* The electoral victory of Likud and the continuation of Benjamin Netanyahu’s premiership put a damper on any peace plans.
+* Egypt needs Israel’s next government to move forward on the peace process.
+* President el-Sisi is open to creative ways to achieve the two-state solution.
+* Egyptian-Israeli security cooperation is closer than it has ever been.
+* Egypt’s concern about the next Israeli-Palestinian flare-up centers on the Palestinian Authority-controlled West Bank and on Jerusalem.
+* Egypt has limited concern about public backlash for its policies toward the Gaza Strip.
+* Egypt could publicly link its ambassador’s return to Tel Aviv with the resumption of talks between Israel and the Palestinians.
+* Egypt holds a major trump card in Ouda Tarabin, a Bedouin citizen of Israel nearing the end of a 15-year Egyptian sentence for spying for Israel.
+* El-Sisi is interested in a peace push and delivered a message meant for the Israeli people in October 2014.
+* El-Sisi speaks of 1967 lines, a shared Jerusalem, and a just settlement to the Palestinian refugee issue.
+* Netanyahu and his prospective coalition partners reject all of the API’s concessions.
+* The Egyptian government is likely to focus its efforts on reaching intra-Palestinian reconciliation, strengthening the Palestinian Authority, and keeping the Israeli-Palestinian conflict quiet.
+
+The information extracted from the image:
+
+
+ Theme/Focus: A Palestinian man waves a Palestinian flag in front of Israeli soldiers.
+Key Information/Sub-event: The man is wearing a traditional Palestinian headdress and scarf. He is holding the flag in his right hand and is looking at the soldiers. The soldiers are wearing military uniforms and are armed with rifles. They are standing in front of a rocky hill. In the background, there are trees and a building.
+Image: <start_of_image>In the image, a Palestinian man is seen waving a Palestinian flag in front of four armed Israeli soldiers. The man, dressed in traditional Palestinian attire, stands on a rocky hill, while the soldiers, wearing military uniforms, stand in front of him. In the background, there are trees and a building. This image captures the ongoing tensions between Israelis and Palestinians, highlighting the man's act of defiance and the soldiers' presence as a symbol of authority. It encapsulates the complexities of the Israeli-Palestinian conflict and the need for a peaceful resolution.
+['* Theme/Focus: A Palestinian man waves a Palestinian flag in front of Israeli soldiers.', '* Key Information/Sub-event: The man is wearing a traditional Palestinian headdress and scarf. He is holding the flag in his right hand and is looking at the soldiers. The soldiers are wearing military uniforms and are armed with rifles. They are standing in front of a rocky hill. In the background, there are trees and a building.', "* Image: <start_of_image>In the image, a Palestinian man is seen waving a Palestinian flag in front of four armed Israeli soldiers. The man, dressed in traditional Palestinian attire, stands on a rocky hill, while the soldiers, wearing military uniforms, stand in front of him. In the background, there are trees and a building. This image captures the ongoing tensions between Israelis and Palestinians, highlighting the man's act of defiance and the soldiers' presence as a symbol of authority. It encapsulates the complexities of the Israeli-Palestinian conflict and the need for a peaceful resolution."]
+
+
+Image: 975c7bd99f6de48bcbc42dd79e9a0026.
+The sub-events of news article:
+* Four days before Israeli elections, regional leaders met with US secretary of state John Kerry in Egypt to discuss the Palestinian situation and Israeli-Palestinian peace.
+* King Abdullah II of Jordan, Palestinian Authority president Mahmoud Abbas, and Kerry attended the meeting.
+* The electoral victory of Likud and the continuation of Benjamin Netanyahu’s premiership put a damper on any peace plans.
+* Egypt needs Israel’s next government to move forward on the peace process.
+* President el-Sisi is open to creative ways to achieve the two-state solution.
+* Egyptian-Israeli security cooperation is closer than it has ever been.
+* Egypt’s concern about the next Israeli-Palestinian flare-up centers on the Palestinian Authority-controlled West Bank and on Jerusalem.
+* Egypt has limited concern about public backlash for its policies toward the Gaza Strip.
+* Egypt could publicly link its ambassador’s return to Tel Aviv with the resumption of talks between Israel and the Palestinians.
+* Egypt holds a major trump card in Ouda Tarabin, a Bedouin citizen of Israel nearing the end of a 15-year Egyptian sentence for spying for Israel.
+* El-Sisi is interested in a peace push and delivered a message meant for the Israeli people in October 2014.
+* El-Sisi speaks of 1967 lines, a shared Jerusalem, and a just settlement to the Palestinian refugee issue.
+* Netanyahu and his prospective coalition partners reject all of the API’s concessions.
+* The Egyptian government is likely to focus its efforts on reaching intra-Palestinian reconciliation, strengthening the Palestinian Authority, and keeping the Israeli-Palestinian conflict quiet.
+
+The information extracted from the image:
+
+
+ Theme/Focus: A meeting of regional leaders in Cairo to discuss the Palestinian situation and Israeli-Palestinian peace.
+Key Information/Sub-event: Palestinian Authority president Mahmoud Abbas, King Abdullah II of Jordan, and US secretary of state John Kerry are among the attendees.
+Image:
+['* Theme/Focus: A meeting of regional leaders in Cairo to discuss the Palestinian situation and Israeli-Palestinian peace.', '* Key Information/Sub-event: Palestinian Authority president Mahmoud Abbas, King Abdullah II of Jordan, and US secretary of state John Kerry are among the attendees.', '* Image:']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: f617ce801164621dc99c23fa09656393
+
+Image: 0d0d92f909f0db11c4c65652e9d40c1e.
+The sub-events of news article:
+* Israel expressed confidence that the Egyptian government will find and punish the terrorists who fatally shot an Israeli woman and wounded three other Israelis in a car ambush outside the Cairo International Trade Fair.
+* Israel's Minister of Tourism, Avraham Sharir, returned home with a personal message from President Hosni Mubarak pledging to press the investigation into the attack and track down the assailants.
+* The plane that flew Sharir from Cairo also carried the body of Etti Tal-Or, 24, who was killed by the ambushers.
+* Savid Zruya, Esther Yefet, and Uri Ziv, the three companions of Etti Tal-Or, were reported in stable condition after surgery at Sheba Hospital in Tel Hashomer.
+* The four young Israelis had been staffing the Israel pavilion at the Trade Fair, which was visited by about 40,000 Cairenes in the two weeks it was open prior to the attack.
+* The attack Wednesday night was the third on Israeli Embassy personnel in the Egyptian capital and the second to cause fatalities.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Israeli officials inspecting the site of a terrorist attack.
+
+Key Information/Sub-event: A group of Israeli officials, including the Minister of Tourism, Avraham Sharir, are shown inspecting the site of a terrorist attack in Cairo. They are looking at the damage caused by the attack and are being briefed by security officials.
+
+Image: <start_of_image>Gonen Segev, the Israeli ambassador to Egypt, second from right, and other Israeli officials inspect the site of a terrorist attack in Cairo, Egypt, on April 20, 2023. (AP Photo/Lefteris Pitarakis)**
+['* Theme/Focus: Israeli officials inspecting the site of a terrorist attack.', '* ', '* Key Information/Sub-event: A group of Israeli officials, including the Minister of Tourism, Avraham Sharir, are shown inspecting the site of a terrorist attack in Cairo. They are looking at the damage caused by the attack and are being briefed by security officials.', '* ', '* Image: <start_of_image>Gonen Segev, the Israeli ambassador to Egypt, second from right, and other Israeli officials inspect the site of a terrorist attack in Cairo, Egypt, on April 20, 2023. (AP Photo/Lefteris Pitarakis)**']
+
+
+Image: ee85c452300877bc048a2a28067f0958.
+The sub-events of news article:
+* Israel expressed confidence that the Egyptian government will find and punish the terrorists who fatally shot an Israeli woman and wounded three other Israelis in a car ambush outside the Cairo International Trade Fair.
+* Israel's Minister of Tourism, Avraham Sharir, returned home with a personal message from President Hosni Mubarak pledging to press the investigation into the attack and track down the assailants.
+* The plane that flew Sharir from Cairo also carried the body of Etti Tal-Or, 24, who was killed by the ambushers.
+* Savid Zruya, Esther Yefet, and Uri Ziv, the three companions of Etti Tal-Or, were reported in stable condition after surgery at Sheba Hospital in Tel Hashomer.
+* The four young Israelis had been staffing the Israel pavilion at the Trade Fair, which was visited by about 40,000 Cairenes in the two weeks it was open prior to the attack.
+* The attack Wednesday night was the third on Israeli Embassy personnel in the Egyptian capital and the second to cause fatalities.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Aftermath of a deadly ambush on Israeli tourists in Egypt.
+Key Information/Sub-event: A group of armed soldiers stand guard at a roadblock near the scene of the ambush, where a lone gunman opened fire on a car carrying four Israelis, killing one and injuring three others.
+Image: [Image of armed soldiers standing guard at a roadblock near the scene of the ambush.]
+['* Theme/Focus: Aftermath of a deadly ambush on Israeli tourists in Egypt.', '* Key Information/Sub-event: A group of armed soldiers stand guard at a roadblock near the scene of the ambush, where a lone gunman opened fire on a car carrying four Israelis, killing one and injuring three others.', '* Image: [Image of armed soldiers standing guard at a roadblock near the scene of the ambush.]']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: fd7282e0e842c28ec05dd6539177e607
+
+Image: 7b1e26e4355adc5b70fc8b62410d45b6.
+The sub-events of news article:
+* Israel's Ambassador Abba Eban stated that Israel would not carry out hostile acts against Egypt if Egypt did not carry out hostile acts against Israel.
+* Eban challenged Egypt to join Israel in a declaration of fidelity to the United Nations Charter, calling for peaceful settlement of disputes and refraining from threats or use of force.
+* Eban cited Egyptian violations of the armistice agreement, including 40 violations between August 1, 1954 and March 7, 1955.
+* Eban revealed that the United States, United Kingdom, and Turkey had made representations in Cairo to support the Mixed Armistice Commission's appeals for cessation of assaults and sabotage against Israel from the Gaza strip.
+* Eban referred to Egyptian Minister for National Guidance Major Salah Salem's claim to the Negev as an "insolent territorial claim" and an attempt to impede its development and annex it to Egypt.
+* Eban sought a condemnation by the Security Council of Egyptian incursions, murders, demolitions, and sabotage activities and a reassertion of the parties' obligations to non-belligerency, pacific settlement, and respect for political independence and territorial integrity.
+* Egypt's Omar Loutfi accused Israel of "flagrant, brutal" aggression and alleged that Gen. Burns went "far beyond the framework of urgent considerations concerning the aggression against Gaza" in his report.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Map of the Israel-Egypt border.
+
+Key Information/Sub-event: The map shows the location of the Gaza Strip, the Negev, and other key landmarks in the region. It also shows the location of the 1949 Armistice Line, which is the de facto border between Israel and Egypt.
+['* Theme/Focus: Map of the Israel-Egypt border.', '* ', '* Key Information/Sub-event: The map shows the location of the Gaza Strip, the Negev, and other key landmarks in the region. It also shows the location of the 1949 Armistice Line, which is the de facto border between Israel and Egypt.']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: c158ce30941834daa21d0aef7bb8f86f
+
+Image: d0556509ec9a091e2660dd9c45f08e15.
+The sub-events of news article:
+* Premier Yitzhak Shamir sent a message of warm greetings to President Hosni Mubarak of Egypt to mark the fifth anniversary of the signing of the Israel-Egypt peace treaty.
+* Shamir expressed his hope for “development” of the relations between the two countries and also expressed his confidence that the treaty would be a “cornerstone” for broader Middle East peace.
+* Abba Eban, the Labor Party’s foreign affairs spokesman, is scheduled to visit Egypt next week at the invitation of top government figures there.
+* Haim Zadok, a Justice minister in the former Labor government, said that the Egyptians are presently occupied with their own elections to be held in May.
+* Zadok met with former Premier Mustafa Khalil and Minister of State for Foreign Affairs Butros Ghali.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Leaders of Israel and Egypt at a peace conference.
+Key Information/Sub-event: The image shows then-Israeli Prime Minister Yitzhak Shamir, then-US President Bill Clinton, and then-Egyptian President Hosni Mubarak, along with other world leaders, attending a peace conference in the Middle East.
+Image:
+['* Theme/Focus: Leaders of Israel and Egypt at a peace conference.', '* Key Information/Sub-event: The image shows then-Israeli Prime Minister Yitzhak Shamir, then-US President Bill Clinton, and then-Egyptian President Hosni Mubarak, along with other world leaders, attending a peace conference in the Middle East.', '* Image:']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: fee9eabf4d3de7c617226ddbf718d069
+-----------------------------------
+
+
+-----------------------------------
+Md5: a1205e18c9a4a93819697769c881da32
+
+Image: ccf320ea7783bf73cc3e01ec8f3fd980.
+The sub-events of news article:
+* Some Israeli Cabinet ministers are concerned about reports of "one-sided" Israeli gestures to Egypt concerning the West Bank residents.
+* The Israeli gestures reportedly include a cessation of administrative arrests in the West Bank, cancellation of the prohibition on political conventions, permitting West Bank residents who left the country in 1967 to be reunited with their families, and a dissolution of the military government headquarters in West Bank cities.
+* One minister commented that "Israel has not left itself any leverage with which to conduct the forthcoming negotiations on autonomy."
+* Another minister added that the gestures were most likely the work of journalists, and that he found it hard to believe that Begin would agree to such acts.
+* The government discussed the issue of Israeli gestures to Egypt twice before, once before Begin’s departure to Washington and again last Sunday under the chairmanship of Acting Premier Zevulun Hammer.
+* The government rejected some of the gestures it was requested to make, but current reports indicate that Begin conceded to the requests while in Washington.
+* Israel agreed to the dissolution of the military headquarters in the Gaza Strip, but not in the West Bank cities.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Israeli Cabinet meeting.
+Key Information/Sub-event: Israeli Prime Minister Menachem Begin sits at the head of a conference table, chairing a meeting of the Israeli Cabinet. Other Cabinet members are seated around the table, some of whom are wearing surgical masks due to the COVID-19 pandemic.
+Image:
+['* Theme/Focus: Israeli Cabinet meeting.', '* Key Information/Sub-event: Israeli Prime Minister Menachem Begin sits at the head of a conference table, chairing a meeting of the Israeli Cabinet. Other Cabinet members are seated around the table, some of whom are wearing surgical masks due to the COVID-19 pandemic.', '* Image:']
+
+
+Image: 6fcaf234d2261d521029b737549faa6f.
+The sub-events of news article:
+* Some Israeli Cabinet ministers are concerned about reports of "one-sided" Israeli gestures to Egypt concerning the West Bank residents.
+* The Israeli gestures reportedly include a cessation of administrative arrests in the West Bank, cancellation of the prohibition on political conventions, permitting West Bank residents who left the country in 1967 to be reunited with their families, and a dissolution of the military government headquarters in West Bank cities.
+* One minister commented that "Israel has not left itself any leverage with which to conduct the forthcoming negotiations on autonomy."
+* Another minister added that the gestures were most likely the work of journalists, and that he found it hard to believe that Begin would agree to such acts.
+* The government discussed the issue of Israeli gestures to Egypt twice before, once before Begin’s departure to Washington and again last Sunday under the chairmanship of Acting Premier Zevulun Hammer.
+* The government rejected some of the gestures it was requested to make, but current reports indicate that Begin conceded to the requests while in Washington.
+* Israel agreed to the dissolution of the military headquarters in the Gaza Strip, but not in the West Bank cities.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Israeli Prime Minister Menachem Begin meets with his cabinet.
+Key Information/Sub-event: Israeli Prime Minister Menachem Begin is seen sitting at the head of a conference table, with several other men seated around him. They are all wearing suits and ties, and there are papers and documents spread out on the table. Begin is speaking, and the others are all listening attentively.
+Image: <start_of_image>GPO/Amos Ben Gershom
+.
+['* Theme/Focus: Israeli Prime Minister Menachem Begin meets with his cabinet.', '* Key Information/Sub-event: Israeli Prime Minister Menachem Begin is seen sitting at the head of a conference table, with several other men seated around him. They are all wearing suits and ties, and there are papers and documents spread out on the table. Begin is speaking, and the others are all listening attentively.', '* Image: <start_of_image>GPO/Amos Ben Gershom', '* .']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: d321786003072c49181a8d72dd3545a5
+
+Image: f329ef2c2d65eb2cd06cc15f3c43716d.
+The sub-events of news article:
+* Israel and Egypt will exchange instruments of ratification early next week to put their peace treaty into effect in accordance with international law.
+* Next month, Israel and Egypt will declare their borders open and begin the further process of implementation.
+* E1 Arish, the administrative capital of Sinai, will be returned to Egyptian sovereignty on May 26.
+* Begin and Sadat will meet at E1 Arish on May 27 and declare the open borders and set a free flying course for Israeli and Egyptian air lines.
+* Sadat and Begin have agreed to maintain direct personal contact.
+* Egypt’s Acting Foreign Minister Boutros Ghall will fly to Israel with a copy of the peace treaty ratified by Egypt next Sunday or Monday.
+* Israeli Foreign Minister Moshe Dayan will bring the Israel-ratified copy to Cairo about the same time.
+* The joint Israeli-Egyptian political and military committees will begin to function about a month later.
+* Begin and Sadat wanted to telephone President Carter this morning to inform him of their agreement but the hoot was too early by American time, so they decided to call him later.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The map of Israel and the Occupied Territories.
+
+Key Information/Sub-event: The map shows the location of Israel and the Occupied Territories, including the West Bank, Gaza Strip, and Golan Heights. It also shows the borders between Israel and its neighboring countries, including Egypt, Jordan, Lebanon, and Syria.
+
+Image: [A map of Israel and the Occupied Territories.]
+['* Theme/Focus: The map of Israel and the Occupied Territories.', '* ', '* Key Information/Sub-event: The map shows the location of Israel and the Occupied Territories, including the West Bank, Gaza Strip, and Golan Heights. It also shows the borders between Israel and its neighboring countries, including Egypt, Jordan, Lebanon, and Syria.', '* ', '* Image: [A map of Israel and the Occupied Territories.]']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: b18d0b2e4889717ef2c4796b690029e6
+
+Image: b5a079736f1f6600c1a5fe70743c27e8.
+The sub-events of news article:
+* Israel and Egypt will exchange letters of notification to formally put their peace treaty into effect.
+* Israel and Egypt will proclaim open borders and establish civilian air corridors between the two countries.
+* A direct telephone line will be installed between Israeli Prime Minister Begin and Egyptian President Sadat.
+* The exchange of ratification documents will be done at Umm Khashiba, an American-manned early warning station in Sinai.
+* Israeli Defense Minister Ezer Weizman will go to Cairo next week for talks with his Egyptian counterpart.
+* The Israeli-Egyptian joint political and military committees will begin their meetings next month.
+* The Knesset adjourned after today’s session for the Passover holidays.
+* Justice Minister Shimuel Tamir has issued instructions for legal measures to change the status of Egypt from that of an enemy state to a friendly neighbor.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The image captures the essence of the peace agreement between Israel and Egypt, emphasizing the complexities and challenges involved in resolving the conflict.
+Key Information/Sub-event: The image depicts Israeli Prime Minister Menachem Begin and Egyptian President Anwar Sadat attempting to untangle a knot labeled "Gordian Knot," which symbolizes the intricate and seemingly unsolvable issues between their nations. The caption, "Agreed - Not to Use the Sword," highlights the commitment of both leaders to peaceful resolution rather than resorting to violence.
+Image: [Image of Menachem Begin and Anwar Sadat attempting to untangle the "Gordian Knot."]
+['* Theme/Focus: The image captures the essence of the peace agreement between Israel and Egypt, emphasizing the complexities and challenges involved in resolving the conflict.', '* Key Information/Sub-event: The image depicts Israeli Prime Minister Menachem Begin and Egyptian President Anwar Sadat attempting to untangle a knot labeled "Gordian Knot," which symbolizes the intricate and seemingly unsolvable issues between their nations. The caption, "Agreed - Not to Use the Sword," highlights the commitment of both leaders to peaceful resolution rather than resorting to violence.', '* Image: [Image of Menachem Begin and Anwar Sadat attempting to untangle the "Gordian Knot."]']
+
+
+Image: 990866961605b28e031bd15b7873c7f4.
+The sub-events of news article:
+* Israel and Egypt will exchange letters of notification to formally put their peace treaty into effect.
+* Israel and Egypt will proclaim open borders and establish civilian air corridors between the two countries.
+* A direct telephone line will be installed between Israeli Prime Minister Begin and Egyptian President Sadat.
+* The exchange of ratification documents will be done at Umm Khashiba, an American-manned early warning station in Sinai.
+* Israeli Defense Minister Ezer Weizman will go to Cairo next week for talks with his Egyptian counterpart.
+* The Israeli-Egyptian joint political and military committees will begin their meetings next month.
+* The Knesset adjourned after today’s session for the Passover holidays.
+* Justice Minister Shimuel Tamir has issued instructions for legal measures to change the status of Egypt from that of an enemy state to a friendly neighbor.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The image captures the essence of the Arab-Israeli conflict, with a focus on the peace summit in Baghdad.
+Key Information/Sub-event: The image shows a man riding a camel, representing Israel, with a large sack of money labeled "Arab Oil Money" in front of him. The man is looking in the opposite direction of a dove, which is a symbol of peace, while a group of Arab leaders stand on a hilltop in the background, observing the scene.
+Image:
+['* Theme/Focus: The image captures the essence of the Arab-Israeli conflict, with a focus on the peace summit in Baghdad.', '* Key Information/Sub-event: The image shows a man riding a camel, representing Israel, with a large sack of money labeled "Arab Oil Money" in front of him. The man is looking in the opposite direction of a dove, which is a symbol of peace, while a group of Arab leaders stand on a hilltop in the background, observing the scene.', '* Image:']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: bb1886b1132b22c4ba76ff92ae72fec5
+-----------------------------------
+
+
+-----------------------------------
+Md5: 79d214026ca374f590962af65600ebf1
+
+Image: 29372c52244ca2dba5d25aecc5c5a987.
+The sub-events of news article:
+* Defense Minister Moshe Arens accused Egypt of preparing to violate the military terms of the Israeli-Egyptian peace treaty.
+* Arens claimed that Egypt is building a military infrastructure in Sinai sufficient for an entire field army.
+* The military annex to the 1979 peace treaty limits Egyptian troop deployment on the peninsula to a single division.
+* Arens said that the Egyptians are building facilities for an army of at least four divisions.
+* Israel feared that Egypt would soon be capable of the rapid deployment of more troops than are allowed in Sinai under the treaty.
+* Arens complained about the state of Egypt’s relations with Israel.
+* Israel did not give up the entire Sinai “merely to have an Egyptian Ambassador in Tel Aviv for only three years, up to when he was withdrawn in 1982,” the Defense Minister said.
+* Egypt recalled its Ambassador to Israel during the war in Lebanon and has said it will not return its envoy until Israel withdraws its forces completely from Lebanon and meets other conditions.
+* Israel still has an Ambassador in Cairo.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The image shows Egyptian President Anwar Sadat, US President Jimmy Carter, and Israeli Prime Minister Menachem Begin at the signing of the Camp David Accords in 1978.
+
+Key Information/Sub-event: The three leaders are shown smiling and shaking hands, signifying the historic peace agreement between Egypt and Israel, which was brokered by the United States.
+Image:
+['* Theme/Focus: The image shows Egyptian President Anwar Sadat, US President Jimmy Carter, and Israeli Prime Minister Menachem Begin at the signing of the Camp David Accords in 1978.', '* ', '* Key Information/Sub-event: The three leaders are shown smiling and shaking hands, signifying the historic peace agreement between Egypt and Israel, which was brokered by the United States.', '* Image:']
+
+
+Image: 1601e3fb85465cdf5c4ee5d620462778.
+The sub-events of news article:
+* Defense Minister Moshe Arens accused Egypt of preparing to violate the military terms of the Israeli-Egyptian peace treaty.
+* Arens claimed that Egypt is building a military infrastructure in Sinai sufficient for an entire field army.
+* The military annex to the 1979 peace treaty limits Egyptian troop deployment on the peninsula to a single division.
+* Arens said that the Egyptians are building facilities for an army of at least four divisions.
+* Israel feared that Egypt would soon be capable of the rapid deployment of more troops than are allowed in Sinai under the treaty.
+* Arens complained about the state of Egypt’s relations with Israel.
+* Israel did not give up the entire Sinai “merely to have an Egyptian Ambassador in Tel Aviv for only three years, up to when he was withdrawn in 1982,” the Defense Minister said.
+* Egypt recalled its Ambassador to Israel during the war in Lebanon and has said it will not return its envoy until Israel withdraws its forces completely from Lebanon and meets other conditions.
+* Israel still has an Ambassador in Cairo.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The signing of the Egypt–Israel peace treaty.
+Key Information/Sub-event: The image shows Egyptian President Anwar Sadat, US President Jimmy Carter, and Israeli Prime Minister Menachem Begin at the signing of the Egypt–Israel peace treaty on March 26, 1979. The treaty was a historic agreement between Egypt and Israel that ended the state of war between the two countries and established diplomatic relations.
+Image: <Image of Anwar Sadat, Jimmy Carter, and Menachem Begin signing the Egypt–Israel peace treaty.>
+['* Theme/Focus: The signing of the Egypt–Israel peace treaty.', '* Key Information/Sub-event: The image shows Egyptian President Anwar Sadat, US President Jimmy Carter, and Israeli Prime Minister Menachem Begin at the signing of the Egypt–Israel peace treaty on March 26, 1979. The treaty was a historic agreement between Egypt and Israel that ended the state of war between the two countries and established diplomatic relations.', '* Image: <Image of Anwar Sadat, Jimmy Carter, and Menachem Begin signing the Egypt–Israel peace treaty.>']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: b4d548ec54926db710a5abeed551b7f3
+-----------------------------------
+
+
+-----------------------------------
+Md5: 859fc96157484e73268e105e6222ce53
+
+Image: 1421ec9969ab151f2c9e608a7571d200.
+The sub-events of news article:
+* Hamas political leadership member Dr. Mahmoud Al-Zahar called on Syria and Lebanon to enable the establishment of military cells subordinate to Hamas’s military wing, the ‘Izz Al-Din Al-Qassam Brigades, in refugee camps on their soil.
+* Hamas wants every conflict with Israel to be all-out, and to include attacks on Israel from its northern border as well.
+* During the recent Gaza conflict, rockets had been launched into Israel from Lebanon by elements operated by the Al-Qassam Brigades.
+* Hamas’s leadership thinks, and is planning, that every future war against the Zionist enemy will be all-out, meaning that it will encompass every inch of land in Palestine, and make matters difficult for the enemy.
+* Hamas renewed ties with Hizbullah, and Hamas’s political leadership member Dr. Mahmoud Al-Zahar stated that the movement is working to establish groups belonging to the Al-Qassam Brigades in Lebanese refugee camps close to northern Palestine.
+* Hamas’s fighting commander Muhammad Deif sent a letter to Hizbullah secretary-general Hassan Nasrallah, asking him for crossfire in occupied Palestine from the resistance.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Aftermath of an explosion.
+
+Key Information/Sub-event: Two armed men inspect the damage caused by an explosion at a building. The men are wearing military uniforms and carrying rifles. The building has extensive damage to its exterior, with shattered windows and bullet holes. Debris litters the ground around the building.
+
+Image: <Image of two armed men inspecting the damage caused by an explosion at a building.>
+['* Theme/Focus: Aftermath of an explosion.', '* ', '* Key Information/Sub-event: Two armed men inspect the damage caused by an explosion at a building. The men are wearing military uniforms and carrying rifles. The building has extensive damage to its exterior, with shattered windows and bullet holes. Debris litters the ground around the building.', '* ', '* Image: <Image of two armed men inspecting the damage caused by an explosion at a building.>']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: 8bd851030e9ff5342aed1da504b35fde
+-----------------------------------
+
+
+-----------------------------------
+Md5: dfa5718180bf1a34d7931c0d3cfc7b16
+
+Image: 631dd5715b46a0a0ecd0d3a3fd9b47b0.
+The sub-events of news article:
+* Hamas has been the governing authority in the Gaza Strip for several years and a major political player on matters concerning the Palestinians.
+* It would be impossible to make substantial progress in resolving the unresolved Israeli-Palestinian conflict without talking with Hamas.
+* Al Jazeera is working with The Guardian newspaper to publish a selection of the leaked documents in the coming days.
+* Hamas has been considered a foreign terrorist organization by the US State Department since 1997.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The image shows the aftermath of an airstrike in an urban area.
+Key Information/Sub-event: The airstrike caused significant damage to buildings and infrastructure, with thick smoke rising from the scene.
+Image:
+['* Theme/Focus: The image shows the aftermath of an airstrike in an urban area.', '* Key Information/Sub-event: The airstrike caused significant damage to buildings and infrastructure, with thick smoke rising from the scene.', '* Image:']
+
+
+Image: d5f7e5f89d86693a0a500457faa08126.
+The sub-events of news article:
+* Hamas has been the governing authority in the Gaza Strip for several years and a major political player on matters concerning the Palestinians.
+* It would be impossible to make substantial progress in resolving the unresolved Israeli-Palestinian conflict without talking with Hamas.
+* Al Jazeera is working with The Guardian newspaper to publish a selection of the leaked documents in the coming days.
+* Hamas has been considered a foreign terrorist organization by the US State Department since 1997.
+
+The information extracted from the image:
+
+
+ Theme/Focus: The map of the Israeli-Palestinian conflict.
+
+Key Information/Sub-event: The map shows the areas controlled by Israel and the Palestinian Authority, as well as the location of major cities and towns. The map also shows the Green Line, which is the boundary between Israel and the Palestinian Authority.
+
+Image: [Image of the map of the Israeli-Palestinian conflict]
+['* Theme/Focus: The map of the Israeli-Palestinian conflict.', '* ', '* Key Information/Sub-event: The map shows the areas controlled by Israel and the Palestinian Authority, as well as the location of major cities and towns. The map also shows the Green Line, which is the boundary between Israel and the Palestinian Authority.', '* ', '* Image: [Image of the map of the Israeli-Palestinian conflict]']
+
+
+Image: 52c6a3d0f51ae364acc89acd78eb559b.
+The sub-events of news article:
+* Hamas has been the governing authority in the Gaza Strip for several years and a major political player on matters concerning the Palestinians.
+* It would be impossible to make substantial progress in resolving the unresolved Israeli-Palestinian conflict without talking with Hamas.
+* Al Jazeera is working with The Guardian newspaper to publish a selection of the leaked documents in the coming days.
+* Hamas has been considered a foreign terrorist organization by the US State Department since 1997.
+
+The information extracted from the image:
+
+
+ Theme/Focus: A Palestinian woman confronts an Israeli soldier.
+Key Information/Sub-event: A Palestinian woman, wearing a headscarf, is seen shouting at an Israeli soldier in full combat gear. The soldier is wearing a helmet, body armor, and carrying a gun. The woman's expression is one of defiance and anger. The image is set against a backdrop of smoke and destruction.
+Image: [Image of a Palestinian woman confronting an Israeli soldier.]
+['* Theme/Focus: A Palestinian woman confronts an Israeli soldier.', "* Key Information/Sub-event: A Palestinian woman, wearing a headscarf, is seen shouting at an Israeli soldier in full combat gear. The soldier is wearing a helmet, body armor, and carrying a gun. The woman's expression is one of defiance and anger. The image is set against a backdrop of smoke and destruction.", '* Image: [Image of a Palestinian woman confronting an Israeli soldier.]']
+
+-----------------------------------
+
+
+-----------------------------------
+Md5: 864ac2acbbcea07cb07eb0e36f468928
+
+Image: c26efbbf44814d5edec502334bbf5e3e.
+The sub-events of news article:
+* Egyptian army units have entered the Gaza Strip, isolating the posts of the UN forces.
+* Substantial movements of Russian-equipped Egyptian troops have been observed from the Israel side in many sections of the Egyptian-Israel border areas.
+* Two Egyptian divisions have been deployed in the Gaza Strip border area.
+* Egyptian units have been stationed in Abou Ageila and Juscima, sites of sharp battles during the 1956 Sinai campaign.
+* The United Arab Republic is concentrating forces on the northern front.
+* Israel's Foreign Minister Golda Meir has told foreign ambassadors that Israel takes a "grave view" of the reported United Arab Republic troop concentrations on the Gaza Strip-Israel border.
+* Israel military sources indicate the Army is keeping a close watch all along the border.
+* Opinion in Israel is widespread that Nasser would not dare to unleash a major attack on the borders and that Israel would not currently initiate new retaliatory action.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Palestinian children playing near the Gaza-Israel border fence.
+
+Key Information/Sub-event: A group of Palestinian children are playing near the Gaza-Israel border fence. One of the children is throwing a stone with a slingshot. The other children are watching him. In the background, there is an Israeli military vehicle. The image captures the tension and danger that Palestinian children face living near the Gaza-Israel border.
+['* Theme/Focus: Palestinian children playing near the Gaza-Israel border fence.', '* ', '* Key Information/Sub-event: A group of Palestinian children are playing near the Gaza-Israel border fence. One of the children is throwing a stone with a slingshot. The other children are watching him. In the background, there is an Israeli military vehicle. The image captures the tension and danger that Palestinian children face living near the Gaza-Israel border.']
+
+
+Image: f8f11b71f76fdf41cf5ecbc3b93d0107.
+The sub-events of news article:
+* Egyptian army units have entered the Gaza Strip, isolating the posts of the UN forces.
+* Substantial movements of Russian-equipped Egyptian troops have been observed from the Israel side in many sections of the Egyptian-Israel border areas.
+* Two Egyptian divisions have been deployed in the Gaza Strip border area.
+* Egyptian units have been stationed in Abou Ageila and Juscima, sites of sharp battles during the 1956 Sinai campaign.
+* The United Arab Republic is concentrating forces on the northern front.
+* Israel's Foreign Minister Golda Meir has told foreign ambassadors that Israel takes a "grave view" of the reported United Arab Republic troop concentrations on the Gaza Strip-Israel border.
+* Israel military sources indicate the Army is keeping a close watch all along the border.
+* Opinion in Israel is widespread that Nasser would not dare to unleash a major attack on the borders and that Israel would not currently initiate new retaliatory action.
+
+The information extracted from the image:
+
+
+ Theme/Focus: Palestinian youths throwing stones at the Israeli border fence.
+
+Key Information/Sub-event: In the image, three Palestinian youths are seen throwing stones at the Israeli border fence. The youths are wearing casual clothing and are armed with slingshots. The Israeli border fence is made of concrete and is topped with barbed wire. In the background, there is a large Israeli military vehicle. The image captures the ongoing conflict between Israelis and Palestinians.
+['* Theme/Focus: Palestinian youths throwing stones at the Israeli border fence.', '* ', '* Key Information/Sub-event: In the image, three Palestinian youths are seen throwing stones at the Israeli border fence. The youths are wearing casual clothing and are armed with slingshots. The Israeli border fence is made of concrete and is topped with barbed wire. In the background, there is a large Israeli military vehicle. The image captures the ongoing conflict between Israelis and Palestinians.']
+

@@ -1,0 +1,1318 @@
+nohup: ignoring input
+complementary_graph_result
+**************************
+Prompt:
+You are a professional news writer.
+Please evaluate whether the relationship between images and news is complementary based on the following rules and your own domain knowledge:
+1. Final evaluation please choose between [Ture, False].
+2. The relationship between an image and a news article is complementary meaning that if the image's overall theme and background information are highly related to the news, but the specific event depicted in the image is not mentioned in detail in the article, and the visual information in the image can complement the news story as a whole.
+
+-----------------------------------
+Md5: ac06a4f738e133aaa1aad5ff38f70d95
+Image Ok.
+
+Image: 9a316769a57c12b14a825c8985bbb20a.
+-----------------------------------
+True.
+
+The image shows a group of soldiers marching, which visually complements the overall theme of the news article discussing military efforts and strategies against the Islamic State group. The soldiers could be representative of the Iraqi army or allied forces being discussed in the article. While the specific event depicted in the image is not detailed in the news article, the visual information of military personnel in action relates to the broader context of strengthening and coordinating military forces to combat IS, as mentioned in the news events. Therefore, the relationship between the image and the news events can be considered complementary.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 8fb23013c86e5b5d95c4032d13e99222
+Image Ok.
+
+Image: 1f94964df1742207b1895c095b383e12.
+-----------------------------------
+True.
+
+The relationship between the image and the news article is complementary. The image shows Iraqi security forces with a flag of the Islamic State group, which is highly relevant to the overall theme of the news article discussing the Pentagon's plans to combat the Islamic State in Mosul, Iraq. Even though the specific event depicted in the image is not mentioned in detail in the article, the visual information complements the news story as a whole by providing a visual context to the operations against the Islamic State group mentioned in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a5bdb00ab6195207e17bbaef3fa4827f
+Image Ok.
+
+Image: a408162b6a9cfeea64831da5ada8a21a.
+-----------------------------------
+True
+
+The relationship between the photo and the news article is complementary. The image shows armed men, likely members of a militia, with a flag that suggests an organized group. The news article discusses the influence of Iran in Iraq, specifically mentioning Iranian-backed militias like the Popular Mobilisation Committee and groups such as Saraya al-Khorasani. The themes of military cooperation, the role of Iranian advisers, and the presence of paramilitary groups in Iraq are central to both the image and the news article, making the visual information in the image complementary to the news story as a whole, even though the specific individuals or event in the image are not detailed in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: ef7b42b3c1ee7bd0ce40b802152f114b
+Image Ok.
+
+Image: a408162b6a9cfeea64831da5ada8a21a.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows armed individuals, one of whom is holding a flag that appears to represent a group or militia. This visual context is highly relevant to the news article, which discusses the influence of Iran in Iraq, the role of Iranian-backed militias, and the cooperation between these militias and the Iraqi government in the fight against ISIS.
+
+While the specific individuals or the exact event depicted in the image are not mentioned in the article, the theme of the image aligns with the overall topic of the news story. The presence of militias and their activities are central to the article's discussion of the political and military situation in Iraq, the involvement of Iran, and the influence of figures like Hadi al-Amiri and Iranian advisors.
+
+Therefore, the visual information in the image complements the news story as a whole by providing a visual representation of the types of forces and actors described in the text, even if the specific details of the image are not explicitly addressed in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: defeb96e722b664f163533950122a02b
+Image Ok.
+
+Image: 241add12c4040e8e1adabe6fd65aff08.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image provides a visual representation of the geographical locations where Iran-backed militia attacks have occurred in Iraq, which is highly related to the overall theme of the news article discussing Iran's influence and the operations of Shiite militias in Iraq. Although the specific events depicted in the image, such as individual attacks, may not be mentioned in detail in the article, the visual information complements the news story by illustrating the extent and distribution of militia activity, which is a central topic of the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d14f9bbf0887c6f562d5ae4a51233e8d
+Image Ok.
+
+Image: 5c24d1a564680b8b8292b6b0c1c0a6a7.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows an individual damaging an artifact, which aligns with the overall theme of the news article describing the destruction of cultural heritage by Islamic State militants. Although the specific event depicted in the image is not mentioned in detail in the article, the visual information in the image complements the news story as a whole by providing a visual representation of similar acts of destruction.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: cc929b2c8a7a45cb4c08692e1f8aadd3
+Image Ok.
+
+Image: 166e32a65a61e650b1ae0eb229fb30a8.
+-----------------------------------
+True.
+
+The image shows a convoy of military vehicles, which is highly relevant to the theme of a military offensive described in the news article. Although the specific event depicted in the image is not detailed in the article, the visual information of military preparedness and movement complements the news story about the Iraqi-led offensive against the Islamic State in Tikrit. The flags visible on the vehicles could suggest the involvement of particular groups or militias, which aligns with the article's mention of Iraqi forces supported by Shi'ite militias. Therefore, the image serves to visually represent the broader context of the military actions being discussed in the news events.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 730a3214b49ba6a8eef31b5cf3cd77fb
+Image Ok.
+
+Image: 48eb152c8ee06ab38628e817aab9e7b5.
+-----------------------------------
+True
+
+The image provided is a map detailing the areas of control and conflict around Tikrit, Iraq. This visual information is highly relevant to the news article, which discusses the military offensive by Iraqi forces and their allies to retake Tikrit from Islamic State control. The map complements the news article by providing a visual representation of the strategic locations mentioned in the text, such as the Tikrit city center, Tikrit University, and the areas where fighting is occurring. It helps readers understand the geographical context of the events described in the article, even though the specific events depicted in the image, like control areas and conflict zones, may not be described in detail within the news text. The visual information thus enhances the overall understanding of the news story.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 3d41f4ab725f0e34afa9186a9ceba83d
+Image Ok.
+
+Image: 3bc9230131b9ba9d8b80081d56db88c4.
+-----------------------------------
+True
+
+The image depicts individuals who appear to be military personnel, with one making a victory sign, which is often associated with successful operations or positive morale. This visual context aligns with the theme of the news article, which discusses a military offensive against Islamic State militants involving Iranian and Iraqi forces. Although the image does not specifically depict Gen. Ghasem Soleimani or the exact events mentioned in the article, it complements the overall theme of military cooperation and action in the region, as described in the news events. The visual information in the image supports the narrative of military engagement and can be seen as complementary to the news story as a whole.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 278da7967a179193e754b3565119bdd4
+Image Ok.
+
+Image: c65afb08002ffcb72d5cfa9c82280989.
+-----------------------------------
+False.
+
+The image provided depicts a military figure pointing to a map, which could be related to a military briefing or strategy session. However, the news article discusses current events involving the battle against IS in Iraq, the involvement of Iranian-backed Shiite militias, Sunni tribes, and the absence of U.S.-led coalition air support in the Tikrit operation. The image does not directly relate to the specific events mentioned in the news article, such as the role of Iranian general Ghasem Soleimani, the cooperation between Sunni tribes and Iraqi forces, or the current status of the conflict with IS in Tikrit. Therefore, the image does not complement the news story as a whole based on the criteria provided.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: ad252af9407719257fd1ff723dc8ff2f
+Image Ok.
+
+Image: 67520a298f38a428f92c45e4175b8a3d.
+-----------------------------------
+True
+
+The image shows a group of individuals in military attire carrying what appears to be a coffin draped with a flag that is associated with a particular group. The background suggests a Middle Eastern setting. The news article discusses the conflict involving Iraqi troops and Islamic State extremists, mentioning the involvement of Iranian-backed Shiite militias, which could be related to the group indicated by the flag on the coffin. The overall theme of the image, which implies a military or militant setting possibly involving loss or commemoration, is highly related to the context of the news article, which covers military operations and conflict in a similar region.
+
+Although the specific event depicted in the image is not detailed in the article, the visual information complements the news story by providing a visual representation of the broader military and conflict-related themes discussed in the article. The image adds to the understanding of the atmosphere and the gravity of the situation in the region, which is undergoing military operations against the Islamic State, as described in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 71965d77ed886dcd54c9262c7bae06c1
+Image Ok.
+
+Image: 16d1c734eb41130d5fbc236bb0bea365.
+-----------------------------------
+True
+
+The image depicts a high-ranking Iranian military figure, which aligns with the overall theme of the news article discussing the involvement of Iranian-supported militias in Iraq. Although the article does not mention this specific individual or event depicted in the image, the presence of such a figure visually complements the narrative about Iran's growing influence and role in the conflict against the Islamic State in Iraq. The visual information in the image supports the story's focus on Iranian involvement, thereby complementing the news story as a whole.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: c7a6087da2c138c620ef35cdd6f7151b
+Image Ok.
+
+Image: 6b47b1100b684bc12ec23a59c3b5c98f.
+-----------------------------------
+True
+
+Based on the provided rules and domain knowledge, the relationship between the image and the news article can be considered complementary. The image depicts individuals who appear to be part of a militia or military group, as indicated by the camouflage uniforms and the presence of weapons. The flags suggest a specific identity or affiliation, which could be related to the Shiite militias mentioned in the news article.
+
+The news article discusses the siege of Tikrit by the Islamic State group and the involvement of Shiite militias backed by Iran in the offensive to retake the city. It mentions specific groups such as Asaib Ahl al-Haq and Kataib Hezbollah, which are cooperating militarily, and addresses the broader context of Shiite leaders and militias using tactics of violent repression against Sunni residents of Tikrit.
+
+Although the specific event depicted in the image is not detailed in the article, the visual information in the image complements the overall theme of the news story by providing a visual representation of the type of forces involved in the conflict. The image helps to convey the presence and influence of Shiite militias in the region, which is a central point of the article, thus enhancing the reader's understanding of the situation described in the news.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d11ea7ffac4af49a1893ec814449c079
+Image Ok.
+
+Image: 7de223d4241fd9c23c42b77a7f11f77c.
+-----------------------------------
+True
+
+The relationship between the photo and the news article is complementary. The image depicts what appears to be militia members or military personnel operating a multiple rocket launcher system, which is consistent with the theme of military action and conflict described in the news article about the offensive against Islamic State militants in Tikrit, Iraq. The presence of artillery and other military equipment is mentioned in the article, specifically in General Martin Dempsey's comments about Iranian support in the form of artillery. While the specific event in the image is not detailed in the article, the visual information of military operations complements the overall news story about the conflict and the involvement of various forces, including Iranian-backed militias.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f6016c53f344d68b17c38b6916b55fae
+Image Ok.
+
+Image: 51e0b757d4144cf3de50c4632ec73a31.
+-----------------------------------
+True
+
+The relationship between the image and the news article can be considered complementary. The image shows what appears to be a group of military personnel and armed individuals, possibly Iraqi government forces, Shiite militias, or volunteer units, which are mentioned in the news article as being part of the alliance carrying out the operation to retake control of Tikrit from ISIS. The overall theme of the image, which is military activity in Iraq, is highly related to the background information provided in the news article about the offensive against ISIS and the involvement of various forces, including Shiite militias and Iranian forces.
+
+Although the specific event depicted in the image is not detailed in the news article, the visual information complements the news story by providing a visual representation of the types of forces involved in the operation. The image helps to illustrate the military presence and readiness in the region, which is a central aspect of the news story. Therefore, the image and the news article work together to give the reader a fuller understanding of the situation in Tikrit.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a63229d0821e83dc96b5a51ea231d3b9
+Image Ok.
+
+Image: 0217c1e7e53ea3379843504d5f17e2da.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts a scene that is consistent with the overall theme of the news article, which discusses the conflict involving the Islamic State, the role of the US and its allies, and the complex dynamics with local forces such as the Iraqi military and various militias. The image shows military vehicles with American flags, which aligns with the article's mention of US involvement in the region. Although the specific event shown in the image is not detailed in the article, the visual information complements the news story's broader context of military engagement in the fight against ISIS.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d2bd3cfd7dfbb278affd19a0026deb6f
+Image Ok.
+
+Image: 3ec038577365166646f36b26693948e1.
+-----------------------------------
+True
+
+The relationship between the image and the news events can be considered complementary. The image depicts a group of soldiers in uniform, which aligns with the overall theme of military presence and activities discussed in the news article. Although the specific event shown in the image is not detailed in the article, the visual information complements the news story's focus on Iran's military involvement and advisory roles in the region, particularly through the actions of the Quds Force and the statements made by Iranian military officials regarding cooperation and assistance to neighboring countries like Iraq and the Kurdistan Regional Government.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 6f7258f171ab78b0255ae7693630f57c
+Image Ok.
+
+Image: 9eacfbd07cf5f0734e1abba8137f39dc.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows two individuals in a formal setting, with one of them wearing a U.S. military uniform, which suggests a high-ranking officer, possibly involved in military operations or strategy. Although the specific event depicted in the image is not mentioned in the news article, the visual information in the image complements the news story as a whole. The news article discusses the involvement of the top U.S. general in the context of the battle against Islamic State militants in Iraq, U.S. military strategy, and the cooperation between Iraqi government forces, tribal militia fighters, and the U.S.-led coalition. The presence of a military figure in the image aligns with the overall theme of military leadership and strategy as discussed in the article. Therefore, the image can be seen as enhancing the context of the news story regarding military operations and leadership, even if it does not depict a specific event mentioned in the text.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 6b5912523b99524e93d4ac1693956968
+Image Ok.
+
+Image: 6b47b1100b684bc12ec23a59c3b5c98f.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts individuals who appear to be militiamen, with one prominently wearing a turban and military camouflage, which is consistent with the overall theme of the news article discussing the involvement of Iranian-backed Shiite militias in the offensive in Tikrit, Iraq. The presence of the red flag with Arabic script, which is often associated with Shiite groups, and the military attire of the individuals in the image support the news narrative about the Iranian influence and the sectarian dynamics at play in the region.
+
+Although the specific event depicted in the image is not detailed in the article, the visual information in the image complements the news story as a whole by providing a visual representation of the type of forces involved in the conflict, which includes the Iranian-backed Shiite militias. The image helps to illustrate the broader context of the news article, which discusses the concerns about Iranian influence and the sectarian tensions in Iraq, particularly in relation to the offensive in Tikrit.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 717553d68339bfd133dcc7ee5fcf1d67
+Image Ok.
+
+Image: 0511736ab718d551f587bc8211abfa37.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts a person holding a firearm, which aligns with the overall theme of military conflict and warfare discussed in the news article. The article details the offensive against the Islamic State in Tikrit, involving Iraqi forces and Shi'ite Muslim militia groups, with Iranian support. Although the specific event or individual in the image is not mentioned in the article, the visual information complements the news story's context of armed conflict and military operations in Iraq. The image supports the article's narrative about the ongoing struggle against the Islamic State and the various military forces involved, including the mention of Iranian influence and cooperation with Iraqi forces.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 99936217e9a06a54a121c7cf2d7a43e6
+Image Ok.
+
+Image: e44e350bf62c66f1a2b24dcab3623b33.
+-----------------------------------
+True
+
+Based on the provided rules and domain knowledge, the relationship between the image and the news article is complementary. The image depicts a formal meeting between two individuals, with flags of Iraq and Iran visible in the background, suggesting a theme of diplomacy or cooperation between the two nations. Although the specific event in the image is not detailed in the news article, the overall theme of Iranian involvement in Iraq, as mentioned in the news article, aligns with the visual cues from the image. The image complements the news story by providing a visual representation of the Iranian presence and influence in Iraq, which is a central topic of the news article discussing Iran's military aid and the role of Iran-backed pro-government troops in the fight against ISIS.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 8b20e9ecc1b8e9c1305a80d0db0e1d55
+Image Ok.
+
+Image: 7c37dc75a284d708df594e58f288bc35.
+-----------------------------------
+True.
+
+The image depicts a group of armed men, which aligns with the theme of military action and conflict described in the news article. Although the specific event shown in the image is not detailed in the article, the visual information complements the overall news story, which discusses the military engagements between Iraqi forces and the Islamic State group in various locations such as Tikrit, Ramadi, and Ras Al-Ain. The image serves to illustrate the type of forces involved in such conflicts and the intense and armed nature of the situation, thereby complementing the textual content of the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: fae1ae044e80f1c68fe81ef3e55ba62c
+Image Ok.
+
+Image: 68f612edf9e19b3b02b6895de4c9874e.
+-----------------------------------
+True
+
+The image shows what appears to be Iraqi soldiers or militiamen on a military vehicle, which is highly related to the overall theme of the news article discussing the siege of Tikrit by Iraqi troops and militiamen. The specific event depicted in the image is not detailed in the article, but the visual information of armed forces in a combat zone complements the news story's description of the military operation against IS in Tikrit. The image reinforces the narrative of the article, which talks about the military efforts and the cooperation between different forces, including the U.S.-led coalition, the optimism of the Defense Minister about the operation, and the increased military alert status of Iraqi forces in the area.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 0a3ae3af0a5c109e1c5f34074057f367
+Image Ok.
+
+Image: c5167cbcbd89ca1e5d5e2ccde5aa68e2.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts a funeral procession for members of a Shiite group who were killed in Tikrit while fighting Islamic militants, which is highly related to the overall theme and background information presented in the news article. The article discusses the challenges and the lack of progress in political reconciliation in Iraq, particularly between the Shiite-led government and the Sunni population, from which the Islamic State group draws support.
+
+The specific event depicted in the image is not mentioned in detail in the article, but it visually represents the ongoing conflict and the human cost of the military operations against the Islamic State group, which are a central focus of the news story. The presence of military personnel in the image aligns with the article's mention of the Iraqi military's cooperation with Iran-backed Shiite militias to retake Tikrit from the Islamic State group. Additionally, the emotional display of grief by the mourners complements the article's discussion of the sectarian tensions and the consequences of the conflict on Iraqi society.
+
+Therefore, the visual information in the image complements the news story as a whole by providing a humanizing and poignant visual context to the complex political and military dynamics described in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 52ed1ef521fa75598a6a6c8ffdd5fc02
+Image Ok.
+
+Image: 3c117f41c763d801c218e43488993fd3.
+-----------------------------------
+True
+
+The image shows a flag associated with the Islamic State group, which is relevant to the news article's discussion of Islamic State militants' activities in Iraq, specifically the destruction of a strategic highway bridge near Tikrit. Although the specific event depicted in the image is not detailed in the article, the visual information complements the overall news story by providing a visual context to the Islamic State's presence and actions in the region. The image supports the theme of the article, which is the conflict involving Islamic State militants in Iraq.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 54daddf7dc36b2b8557c4332941f8d37
+Image Ok.
+
+Image: 94e23d06969bfe112cd84a4dbbe897b4.
+-----------------------------------
+True
+
+The relationship between the photo and the news events is complementary. The image depicts what appears to be militia members, with a flag that suggests affiliation with a Shi'ite group, which aligns with the overall theme of the news article discussing concerns about Iran-backed Shi'ite forces in Iraq. The specific event in the image is not detailed in the article, but the visual information complements the news story's discussion about the dynamics and consequences of the Iran-backed forces' actions in the region.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: cddacd085bd8214dd23e06fbb8b5fcf6
+Image Ok.
+
+Image: 62c3551dad7ce76dbe2a79fd6c5f037a.
+-----------------------------------
+True
+
+The relationship between the photo and the news events is complementary. The image shows what appears to be military personnel operating in a conflict zone, with a mortar being fired, which aligns with the overall theme of the news article describing the Iraqi government forces' advance into Tikrit and their conflict with the Islamic State (IS) group. The visual information in the image complements the news story as a whole by providing a visual representation of the military action taking place, even though the specific event depicted in the image is not mentioned in detail in the article. The image supports the narrative of the news events, such as the cooperation between Shi'ite Muslim groups and Iraqi government forces, the military threat to IS, and the use of small arms and light weapons in the conflict.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 550bf9e3696bb11f6c324ef5b328670d
+Image Ok.
+
+Image: 867fafd23fb78adb0d2c46e412cd7b84.
+-----------------------------------
+True.
+
+The image shows armed individuals with a military vehicle, which is consistent with the themes mentioned in the news article. The article discusses military and strategic issues related to the Middle East, including the fight against ISIS, the role of Iran and its Revolutionary Guard, and the involvement of various militias in the region. The presence of the flag in the image suggests affiliation with a specific group or military faction, which aligns with the discussions of different forces operating in the region. Although the specific individuals or the exact event depicted in the image are not mentioned in the news article, the overall theme of military engagement and the context of conflict in the Middle East make the image complementary to the news story as it visually represents the type of scenarios being discussed.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 7fb5b101c4e5e9968d2077a1b8de65d8
+Image Ok.
+
+Image: 280d75a902a8451428e312f360f0135d.
+-----------------------------------
+True.
+
+The image depicts military personnel in a desert-like environment, which is visually consistent with the Middle Eastern setting described in the news article. While the specific event or individuals in the image are not detailed in the article, the visual information of military presence and activity complements the overall theme of the news story, which discusses British military actions in the Middle East, including troop movements and potential engagements in Trans Jordan and surrounding areas. The image supports the context of military preparedness and operations that are central to the news events described.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 579ab69055a7711c8c4955c55c57673b
+Image Ok.
+
+Image: 67c8972907b70cf4cf267a0ce4f94a74.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 3e22a57705bdf265ee6487cd198cd9ee
+Image Ok.
+
+Image: 96d97c681fb672e0683331d7b101c94f.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: aa30e7f4b69cbd7ea88bc1c072d8df87
+Image Ok.
+
+Image: 9646980c04e708b478cf7e9d056bdea4.
+-----------------------------------
+True
+
+The relationship between the image and the news article can be considered complementary. The image shows General Colin Powell in military attire, which is relevant to the background information provided in the news article about his role and statements regarding the Middle East, specifically in the context of the aftermath of the conflict involving Saddam Hussein's forces and the U.S. military's involvement in the region.
+
+Although the specific event depicted in the image is not detailed in the article, the visual information complements the overall news story. The image of Powell in a military setting reinforces the themes of military involvement and leadership, which are central to the news article's discussion of U.S. foreign policy and Powell's statements at the AIPAC policy conference. The article mentions Powell's appearance and his comments on the challenges of peace in the Middle East, which align with the authoritative and military context suggested by the image.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: b3048657e1cefe180d30c06585d1b16e
+Image Ok.
+
+Image: f74056239cbe6453bfa96cf6a26460a7.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts a military vehicle on fire with a plume of smoke, and a flag is visible, suggesting a context of conflict or military action. The news article discusses the military standstill and conflict in Tikrit, Iraq, involving the Iraqi military, Shiite militias, and the fight against the Islamic State group. The image, while not depicting a specific event mentioned in the article, aligns with the overall theme of military struggle and conflict within the region. The visual information in the image complements the news story as a whole by providing a visual representation of the type of violence and military action that is occurring in the region, as described in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 581a2ecdbaabeb94bd3dcc94a285a6c9
+Image Ok.
+
+Image: 302a961283010daec5ad10cdb0777a64.
+-----------------------------------
+True
+
+The image shows a person who appears to be speaking authoritatively, with the backdrop of a flag and a seal that suggests a formal and official setting, which is consistent with the kind of environment where a CIA Director might be delivering remarks. The news article discusses statements made by CIA Director John Brennan regarding the status of IS in Iraq and Syria. Although the image does not depict the specific event of the air strikes or the actions of the Iraqi government forces, it complements the overall theme of the news article by providing a visual representation of the CIA Director, who is mentioned as making statements about the situation. Therefore, the image and the news article are complementary as the visual information in the image supports the news story as a whole.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d5f403408ad7b7e000312e8641f4e453
+Image Ok.
+
+Image: 4b5233cf68baf65437398f54087d1c39.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: b8df1c3d514c018ff226aca7e3aafec2
+Image Ok.
+
+Image: 6efd8b6e2953b7038fb78aba3f680067.
+-----------------------------------
+True
+
+The image shows a group of armed men, some of whom are wearing headbands with Arabic inscriptions, which suggests they could be part of a paramilitary group or militia. The overall theme of the image, which includes armed individuals likely involved in a conflict situation, is highly related to the news article's description of the fight between the Iraqi government, Shiite paramilitary forces, and the forces of the Islamic State. The visual information in the image complements the news story as a whole by providing a visual representation of the type of forces involved in the conflict described in the article, even if the specific event depicted in the image is not mentioned in detail in the news text.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 649ba2fbe8292c2f3995a54db8b052dd
+Image Ok.
+
+Image: 1a4df1396652279f67e7ec0b487e3e14.
+-----------------------------------
+True
+
+The relationship between the photo and the news events is complementary. The image depicts a large plume of smoke rising above a cityscape, which is consistent with the kind of scene that might be observed following an airstrike or a military engagement. The news article discusses the imminent air strikes against Daesh in the city of Tikrit by the US-led coalition, as well as the involvement of Iraqi government forces and Iranian-backed Shiite paramilitaries in the conflict. Although the specific event shown in the image is not detailed in the news article, the overall theme of military action and the context of the conflict in Iraq are highly relevant to the news story. The visual information in the image complements the news story by providing a visual representation of the type of event that is being discussed, which is the military effort to combat Daesh in Iraq.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f573442768661873eb853d0c71da14f2
+Image Ok.
+
+Image: ae3a04c755432356daa562d5064ce622.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 3ffdda6361cb6ae1f49dbb34d6025076
+Image Ok.
+
+Image: f1c28bcfa2269f1467b41d4c31b9a899.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: fccdf9bbc2d46ed14992498b072b77aa
+Image Ok.
+
+Image: c6156f0f6a4e73838386ec4f9dfe8bc4.
+-----------------------------------
+True
+
+The image depicts what appears to be a military engagement, with soldiers in defensive positions and military vehicles in the background, which is highly related to the theme of the news article discussing U.S. aircraft providing air support for Iraqi forces in the battle against the Islamic State in Tikrit. The overall theme of military action against the Islamic State and the setting, which is consistent with the region in question, complements the news story, even though the specific event shown in the image is not detailed in the article. The visual information in the image enhances the reader's understanding of the context and the intensity of the conflict described in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: bbcc65ce6da0e43d93261c303f8c91a1
+Image Ok.
+
+Image: 6f2507e319d0b6c20301b7973e86cbd5.
+-----------------------------------
+True
+
+The image depicts what appears to be a military scenario with soldiers in a defensive position, observing or engaging in combat, with smoke rising in the background, possibly from an explosion or fire. This visual context is highly related to the themes discussed in the news article, which centers on the implications of the war in Iraq for Israel, the strategic benefits and risks for Israel depending on the outcome of the conflict, and the broader geopolitical dynamics involving the United States, Iraq, Iran, Syria, Lebanon, and the Palestinian territories.
+
+While the specific event shown in the image is not detailed in the article, the overall theme of military conflict and the presence of American soldiers (as suggested by their uniforms and equipment) in the Middle East complements the discussion of the United States' military involvement in the region. The image reinforces the article's narrative about the potential consequences of the war for Israel and the region's stability, thus serving as a visual complement to the news story as a whole.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: bcdc42b6064236114fa49c5c39227d5f
+Image Ok.
+
+Image: e577716b4fed587ed76fd9d70e40ac67.
+-----------------------------------
+True
+
+The image shows armed individuals, some with identifiable insignia, which suggests they are part of a military or paramilitary group. The presence of armed forces and military vehicles is highly relevant to the news article's theme of an offensive against Islamic State militants in Tikrit. The article discusses the involvement of U.S.-led coalition forces and Iraqi special forces, as well as mentions the participation of Shi'ite paramilitary groups known as Hashid Shaabi. The image complements the news story by providing a visual representation of the forces involved in the conflict, even if the specific individuals or events in the photo are not detailed in the article. The visual information supports the overall narrative of military action and the complex interplay of different groups within the conflict.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 2caea2505de6c6b2ecee1cb212bbf35d
+Image Ok.
+
+Image: 79d406f22a4c983dc6d257903bf275d6.
+-----------------------------------
+True
+
+The image depicts armed individuals in a convoy of vehicles that appear to be preparing for or engaged in a military operation. This visual complements the news article, which discusses U.S. airstrikes against Islamic State positions in Tikrit and the involvement of Iraqi forces and Iranian-backed militias in the conflict. Although the specific event shown in the image is not detailed in the article, the overall theme of military action in the region is highly relevant and supports the narrative of the news story. The image can help readers visualize the type of forces and the environment described in the article, thereby complementing the written content.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a66bff7fdefbceff9f1baff1d5c8ce6d
+Image Ok.
+
+Image: 7f05be807f8d6197588ea90d8a1dff5b.
+-----------------------------------
+True
+
+Based on the provided rules and my domain knowledge, the relationship between the image and the news article is complementary. The image depicts an area with smoke and destruction, which aligns with the overall theme of the news article discussing the offensive in Tikrit, Iraq, against Islamic State-held positions. Although the specific event in the image is not detailed in the article, the visual information complements the news story by providing a visual representation of the type of action taking place during the offensive, such as airstrikes and ground clashes mentioned in the article. The image supports the narrative of intense military activity and the efforts to reclaim Tikrit from Islamic State control, as described in the news events.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 2c38ded3b682c20f243f76ecfaf27c8f
+Image Ok.
+
+Image: 64bef644c78b5aeb15dd3ae2231af37a.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows a military convoy with armored vehicles and a helicopter, which is consistent with the theme of military operations described in the news article. Although the specific event depicted in the image is not mentioned in detail in the article, the visual information complements the overall news story of military engagement and advances against Daesh militants in Tikrit. The presence of military forces in the image aligns with the background information about the Iraqi soldiers' street fighting and the coalition air strikes supporting their efforts.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a64dc53eda8b22cfabb80696e96b0b31
+Image Ok.
+
+Image: 20fc89f6deb8ba29db1841dbea28c159.
+-----------------------------------
+True
+
+The image depicts armed individuals, which appears to be consistent with the theme of military conflict as described in the news article. The individuals could be interpreted as militia or security forces, which aligns with the mention of Shi’ite militia groups and Iraqi security forces in the news events. The image does not need to depict the specific event mentioned in the news article to be complementary; it supports the overall theme of the battle against IS militants in Tikrit. The visual information provided by the image complements the news story by illustrating the armed conflict and the presence of combatants in the region, which is relevant to the news events described.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 90c8148816b55ad9dbed9fc48b26224a
+Image Ok.
+
+Image: 1397cb85511f10c71804cb591b45594e.
+-----------------------------------
+True
+
+The image depicts a military scene with a soldier looking towards an area with smoke rising in the background, which suggests active conflict or the aftermath of a military operation. The Iraqi flag is prominently displayed, and the setting appears to be in a conflict zone, which is consistent with the themes of the news article.
+
+The news article discusses the retaking of the Salah Al Deen provincial government headquarters in Tikrit by Iraqi forces and mentions the involvement of the Popular Mobilisation units, which are pro-government paramilitary forces. The image complements the news story by providing a visual representation of the military presence and the environment in which the operation is taking place, even though the specific event of retaking the government headquarters is not depicted.
+
+The overall theme of the image aligns with the background information of the article, which talks about the military operations against Daesh, the involvement of different military groups, and the support of the US-led coalition. The visual information in the image supports the narrative of the news story as a whole, making the relationship between the image and the news complementary.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 0a7d40b983cff83fe4422a3478574d46
+Image Ok.
+
+Image: 48eb152c8ee06ab38628e817aab9e7b5.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image provides a map of Tikrit, showing areas of control and conflict zones, which directly relates to the news article's discussion of the Iraqi troops reaching the center of Tikrit and the ongoing battle against Islamic State militants. The image's visual information supports the news story by offering a geographical context to the events described, even though the specific incidents of fighting may not be detailed in the image. The map complements the news by illustrating the strategic positions mentioned in the text, such as the Iraqi government's control and the locations of fighting between IS and Iraqi forces.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f40a1ab0d4d95e83fa4954794dcd7c50
+Image Ok.
+
+Image: 53f6bc71b84808e6e4b8e4d8d8f0d2d6.
+-----------------------------------
+True
+
+The relationship between the image and the news article can be considered complementary. The image shows military personnel operating what appears to be an artillery piece, which is consistent with the theme of military action mentioned in the news article. The article discusses the liberation of Tikrit by Iraqi Security Forces with the support of the Pentagon, which confirms the advancement into Tikrit to liberate the city from ISIS. Although the specific event depicted in the image is not detailed in the article, the visual information complements the overall news story of military engagement and the fight against ISIS in Iraq.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: de4141afb157066db7fa1f11bdc97886
+Image Ok.
+
+Image: 343782a2404a81e4c949c9eaa2a24faa.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: bb99a0b97559b301f86b3abfb4078110
+Image Ok.
+
+Image: 018d0f71172d4ac0b5d03fd482ef5243.
+-----------------------------------
+True
+
+The image depicts a group of soldiers observing a large explosion or fire in the distance, which is consistent with the overall theme of conflict and military action described in the news article. The background information about the Iraqi government's efforts, with the help of Shiite militias and air raids, to retake territory from ISIS, and the subsequent battles, aligns with the visual representation of military personnel and conflict in the image. Although the specific event shown in the image is not detailed in the article, the visual information complements the news story's discussion of military operations and the battle for Tikrit. The image reinforces the article's narrative of ongoing conflict and the complex dynamics between different groups in Iraq.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 655d6ca9edc4a17daff323cca541ecb6
+Image Ok.
+
+Image: 3335e009763fa6f6265fb2092057d786.
+-----------------------------------
+False
+
+The image depicts gas infrastructure with the flags of the European Union and Russia in the background, which suggests a theme related to gas and energy within the context of the EU and Russia. However, the news article is specifically about Iran's efforts to stop dependence on gas imports and a dispute between Iran and Turkmenistan. The image does not directly relate to the news events mentioned, as it does not visually represent Iran, Turkmenistan, or their bilateral relations. Therefore, the image does not complement the specific news story about Iran and Turkmenistan's gas dispute.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 8950cd39bf53bf2128748a5b0c72da63
+Image Ok.
+
+Image: c16c04217193218ea48dc8646ba39cb6.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 20c100b57ce8f90e5202fd7f01c012da
+Image Ok.
+
+Image: 7608da946558d973e5aab45f00d8eaf6.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image displays what appears to be a gas facility or industrial plant, which is relevant to the overall theme of the news article discussing gas supplies and the energy sector. Although the specific event of Turkmenistan cutting off gas supplies to Iran is not depicted in the image, the visual information of the gas infrastructure complements the news story about Iran's ability to feed the countrywide gas grid and the context of gas importation from Turkmenistan.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 7ca4dcd7cdc9f0ee9cb5c827427751e9
+Image Ok.
+
+Image: 96a46c4f653c7f9d1c2449ea280f225c.
+-----------------------------------
+True
+
+Based on the provided rules and domain knowledge, the relationship between the image and the news article is complementary. The image depicts a man sitting at a desk with a microphone, which suggests a formal setting, likely for a statement or interview. The presence of the Iranian flag indicates that the individual is likely an Iranian official, which aligns with the news article's mention of the Iranian Oil Minister and the National Iranian Gas Company (NIGC). Although the specific event depicted in the image is not detailed in the article, the visual information complements the news story as a whole by providing a visual representation of an Iranian official who could be associated with the NIGC or the oil ministry, entities that are central to the news event regarding the economic cooperation between the NIGC and Turkmengas.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 0c1ccb4066230ebf0f4ef3448b5f0057
+Image Ok.
+
+Image: 8cdaeb33873c3170cdb0f3cc752b30e3.
+-----------------------------------
+True
+
+The image depicts a gas flare alongside the Iranian flag, which visually complements the theme of the news article regarding Iran's increase in gas production and the issues surrounding natural gas imports from Turkmenistan. The image does not need to detail the specific events mentioned in the article to be complementary; it visually supports the overall topic of energy production and national resource management in Iran.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 802c21d1419b5dc389900d5ec4a13ebe
+Image Ok.
+
+Image: 2cf266bba70bca773a5d8423c8477f02.
+-----------------------------------
+True
+
+The image depicts electricity transmission towers, which are related to the overall theme of the news article concerning the export of electricity from Iran to Iraq. Although the image does not show the specific event of the Iranian delegation's travel to Iraq or the negotiations, it visually complements the news story about electricity exports and the related infrastructure. Therefore, the relationship between the image and the news article can be considered complementary.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: b725ffd80f091d062417bd225eec719b
+Image Ok.
+
+Image: bcf68805dbddf356c3f17b6ae9c2bad8.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 2365fc33f86c44edeeff769f3214a3be
+Image Ok.
+
+Image: 39d7e254a08f291d45acd0956d38848d.
+-----------------------------------
+True
+
+The image shows a person who appears to be giving a speech or presentation, standing at a podium with microphones and a backdrop that seems to be related to energy or oil, given the visual cues. Although the specific event depicted in the image is not detailed in the news article, the overall theme of the image aligns with the context of the news article, which discusses statements made by Iranian Oil Minister Bijan Namdar Zanganeh regarding Iran's natural gas imports from Turkmenistan and the potential impact on political and economic relations.
+
+The image can complement the news story by providing a visual representation of the Iranian Oil Minister, which supports the article's focus on his statements and the broader implications for Iran's energy policy and international relations. The visual information in the image enhances the reader's understanding of the news events, even if the specific moment captured is not explicitly mentioned, making the relationship between the image and the news complementary.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 4c719ebcfcdfa9341ce22275c597a311
+Image Ok.
+
+Image: 634d0509587e11dc02159a9df78abf80.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The news article discusses the unveiling of a gas pipeline between Iran and Iraq and issues surrounding the start of gas exports, which is directly related to the theme of the image showing a gas pipeline. Although the specific pipeline in the image is not mentioned in the article, the visual information in the image complements the overall news story about gas pipelines and the infrastructure involved in gas exports between countries.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: f093302c7b064e83588ebcd1ea690b48
+Image Ok.
+
+Image: ac103acecbec8c0dd85de310ef9c9f5d.
+-----------------------------------
+True
+
+The image shows a large pipeline traversing through a rugged, barren landscape, which visually complements the theme of the news article discussing a gas dispute and the transportation of gas between countries. Although the specific event mentioned in the news—the potential complaint against Turkmenistan in the International Court of Arbitration and the gas swap agreement—is not depicted in the image, the presence of the pipeline is highly relevant to the topic of gas supply and international energy agreements. Therefore, the image can be seen as complementing the overall theme and background information of the news story, even if it does not specifically illustrate the detailed events mentioned in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a78d36e75e4860099a2cc5617a24ff62
+Image Ok.
+
+Image: d734c63f3ecec18e9b1b37aa29cac3d0.
+-----------------------------------
+True.
+
+The image depicts what appears to be a formal meeting between officials from Iran and Turkmenistan, with the flags of both countries displayed, which is highly relevant to the overall theme of the news article discussing gas negotiations between the two nations. Although the specific event in the image is not detailed in the article, the visual information complements the news story by providing a context of the diplomatic relationship between Iran and Turkmenistan, which is the backdrop for the gas dispute and negotiations mentioned in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: dfbb8a8228c8c89edab4d3db457a8b98
+Image Ok.
+
+Image: 28c18e6bb546b4e3eae9027563fae4b7.
+-----------------------------------
+True
+
+The image of the drilling rig in a snowy landscape, while not specifically depicting the events or locations mentioned in the news article, is thematically related to the content of the article, which discusses oil production and development in the Middle East, including Lukoil's interests and operations in the region. The general view of the drilling rig complements the news story by providing a visual representation of the industry and activities being discussed, such as oilfield development and exploration. Therefore, the relationship between the image and the news events can be considered complementary.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: fbe52168e14ce9018a4df5c91cd892b6
+Image Ok.
+
+Image: dc862b8dc2e0c10ecb2c8e514a784022.
+-----------------------------------
+True
+
+The relationship between the image and the news events is complementary. The image depicts oil pumps, which are directly related to the oil and gas industry, the central theme of the news article. Although the image does not specifically depict the Iranian oil fields or the companies mentioned, it visually represents the industry and the context of oil production and exploration, which is the subject of the news article. The visual information in the image complements the news story as a whole by providing a relevant visual backdrop to the discussed events, such as the bidding process for oil and gas projects in Iran and the involvement of international companies in this sector.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: dd7d637c8885cd91266037b52527afc8
+Image Ok.
+
+Image: 0ed2f254e5e300a5961119b5328fd4ce.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows a section of a pipeline system, which is highly relevant to the news article's discussion of the agreement and plans for building a pipeline to export natural gas from Iran to Oman. Although the specific pipeline section shown in the image is not mentioned in the news article, the visual information in the image complements the overall theme of the news story, which is about the development and negotiation of a pipeline project.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 238d655f933e037f8ae9b67d2477544e
+Image Ok.
+
+Image: 217c1b03280872d30277971f0d118a84.
+-----------------------------------
+True
+
+The image depicts a drilling rig, which is highly relevant to the theme of the news article about the National Iranian Oil Company (NIOC) signing a memorandum of understanding with Malaysia's Bukhary International Ventures (BIV) to study two gas fields in Iran. While the specific event of Gholam Reza Manouchehri hosting a visit from Shamsul Azhar bin Abbas is not depicted in the image, the visual information of the drilling rig complements the news story as a whole by providing a visual representation of the industry and activities discussed in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 3aa493385d5a230a23b30dac3e47542c
+Image Ok.
+
+Image: 51928128b8c831f64dbdfa77884350f1.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts a chessboard with chess pieces in the foreground and the flags of Iran and the United States in the background. The overall theme of the image, which suggests strategic competition or negotiation between the two nations, is highly related to the news article's discussion of the complex international relations and negotiations surrounding Iran's nuclear program. Although the specific event of a chess game is not mentioned in the article, the visual metaphor complements the news story as a whole by illustrating the geopolitical maneuvering between Iran and major powers, including the United States, as referenced in the news article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: c43c6a715ff02525e380c942c063b042
+Image Ok.
+
+Image: cb0c7c01f85d8935f60a30c3154583ca.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts a missile and a large banner with a picture of a political figure, which is related to Iran's military capabilities and power. The news article discusses Iran's rejection of the International Atomic Energy Agency's (IAEA) request to inspect military sites, which is a matter directly related to Iran's military and nuclear activities. Although the specific event shown in the image is not mentioned in the article, the visual information in the image complements the overall theme of the news story, which is about Iran's stance on nuclear inspections and military transparency. The presence of the missile in the image underscores the subject of military capabilities, which is at the heart of the discussions about inspections and nuclear activities.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 6812c83018dd4a0b7f3f0b3179b3a6fe
+Image Ok.
+
+Image: ba21ca174b3ae6e8833ecce789fd4662.
+-----------------------------------
+True
+
+Based on the provided rules and domain knowledge, the relationship between the image and the news article is complementary. The image's overall theme and background information are highly related to the news story, as the image depicts an Iranian official who is mentioned in the article. Although the specific event shown in the image is not detailed in the article, the visual information complements the news story by providing a visual representation of the official involved in the decision-making process regarding the inspection of military sites by the IAEA. The image supports the context of the news article, which discusses statements made by Hamid Baeidinejad about Iran's stance on IAEA inspections.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 79dc5a5dade5cdc6b600f3063f932cde
+Image Ok.
+
+Image: ba21ca174b3ae6e8833ecce789fd4662.
+-----------------------------------
+True
+
+The image of the individual, who appears to be an Iranian official, is highly related to the theme of the news article, which discusses statements made by senior members of the Iranian regime regarding the inspection of military sites in the context of a nuclear deal. Although the specific event or person depicted in the image is not mentioned in detail in the article, the visual information complements the news story as a whole by providing a visual representation of an Iranian official, which is relevant to the discussion of Iranian officials' positions on the matter.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 840bf306da3737277aff69d139c738f1
+Image Ok.
+
+Image: 7cacb191a3c179f898d7791901404b13.
+-----------------------------------
+True
+
+The relationship between the photo and the news events is complementary. The image depicts Supreme Leader Ayatollah Ali Khamenei, who is mentioned in the news article as making statements about Iran's nuclear program and negotiations. Although the specific event in the image is not detailed in the article, the visual information complements the news story as a whole by providing a visual representation of the key figure involved in the news narrative.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 8b812027fc4fee27100663df2d433fd3
+Image Ok.
+
+Image: b79081aa4249c6979636d1f8521de247.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image features an individual with the International Atomic Energy Agency (IAEA) logo in the background, which directly relates to the news article's discussion of Iran's interactions with the IAEA regarding inspections of its nuclear facilities. Although the specific event depicted in the image is not detailed in the article, the image's visual information complements the overall theme of the news story, which involves the IAEA's interest in inspecting Iranian sites and Iran's stance on such inspections.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 4d4a06529acc4e7847d81b791d91b365
+Image Ok.
+
+Image: 95fa4c97ff36c15670630216f1eecac7.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 7c04771de11eb54b667f774d0c203fd1
+Image Ok.
+
+Image: ec17149bfb57ef824a06723e1446f978.
+-----------------------------------
+True
+
+Based on the provided rules and domain knowledge, the relationship between the image and the news article is complementary. The image portrays an individual who, based on the context provided by the news article, appears to be a significant figure in Iranian politics and potentially related to the nuclear negotiations mentioned. Although the specific event depicted in the image is not detailed in the article, the overall theme of the image, which includes the presence of this individual and the background featuring the Iranian flag, is highly related to the news story about Iran's stance on nuclear site inspections and negotiations. The visual information in the image complements the news story as a whole by providing a visual representation of one of the key Iranian figures who would be involved in such high-level discussions and decisions.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 88cff806bee0754c357e2837b3f7e1fb
+Image Ok.
+
+Image: 83f75a53211d07f058dc30ea84aa563d.
+-----------------------------------
+True
+
+Based on the provided rules and domain knowledge, the relationship between the image and the news article is complementary. The image shows an aerial view of a large facility, which could be interpreted as a military or industrial site. This aligns with the overall theme of the news article, which discusses Iran's agreement to allow UN inspections of its military sites in relation to its nuclear program.
+
+Although the specific event depicted in the image is not mentioned in detail in the article, the visual information in the image complements the news story as a whole by providing a visual context to the discussions about inspections of such sites. The image helps readers visualize the type of locations that might be subject to the "managed access" mentioned in the article, thereby enhancing the reader's understanding of the news story.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 210e29c0bc0ba35c83c0831826986574
+Image Ok.
+
+Image: c4dee1769db667947770651b600bcb09.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 345182634871cf079c3a872a0cf6e2ae
+Image Ok.
+
+Image: c8caa822b3bc8c48f8d7ec1e0e0b0101.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows an individual who appears to be Yukiya Amano, the head of the UN's atomic watchdog, based on the context provided in the news article. Although the specific event depicted in the image is not detailed in the news article, the overall theme and background information are highly related. The visual information in the image complements the news story as a whole, which discusses Iran's potential nuclear deal with world powers, the requirement of inspections of its military sites, and the role of the UN's atomic watchdog in this context.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 1c21d86fa4df7de7b7c4961984ec0c70
+Image Ok.
+
+Image: 1ce40d9851f169463be418bf50ee1fed.
+-----------------------------------
+True
+
+The relationship between the photo and the news events is complementary. The image depicts a person speaking at a podium with the International Atomic Energy Agency (IAEA) logo, which is highly relevant to the news article's discussion of Iran's interactions with the IAEA. Although the specific event depicted in the image is not mentioned in detail in the article, the visual information complements the overall theme of the news story, which is about Iran's nuclear program and its dealings with the IAEA. The presence of the IAEA logo and the Iranian flag suggests a context that is directly related to the news events described, particularly the investigation into Iran's nuclear activities and the dialogue between Iran and the IAEA.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: def6d0ec872d305332520a95758d1fd9
+Image Ok.
+
+Image: d37aa322ca52c32ae93f0877278a7ada.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows individuals, presumably Iranian officials, with centrifuge components, which are directly related to Iran's nuclear program. Although the specific event depicted in the image is not detailed in the article, the visual information complements the overall news story about Iran's nuclear activities and the international negotiations surrounding its nuclear program. The image provides a visual context to the discussions about Iran's nuclear capabilities and the concerns addressed in the article regarding the progress of the inquiry into Iran's potential military dimensions of its nuclear program.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: aac7fbc5e83acfc5f1cfa7cf4c309246
+Image Ok.
+
+Image: 72caee725573cee22ae50dda0c62d6ec.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts a person working with what appears to be nuclear-related equipment, which aligns with the overall theme of the news article regarding Iran's nuclear program and the International Atomic Energy Agency's (IAEA) concerns about it. Although the specific event shown in the image is not detailed in the article, the visual information complements the news story's focus on nuclear activities and the international response to them.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d437acdce84ab362f845c671229e09a1
+Image Ok.
+
+Image: 58d69a79c8513ab8f9666e4f7ab10c8a.
+-----------------------------------
+True.
+
+The relationship between the image and the news article is complementary. The image features the flag of Iran and the logo of the International Atomic Energy Agency (IAEA), which are highly relevant to the news article's discussion of Iran's nuclear program and the IAEA's report on it. While the image does not depict a specific event mentioned in the article, it visually represents the entities involved in the news story, thereby complementing the overall theme and background information of the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 2bb7a0eb3161a3dc41725b4faeb6bd11
+Image Ok.
+
+Image: 8cd6b0bd3db02bacbb2205aeedc1bd89.
+-----------------------------------
+True
+
+The relationship between the photo and the news events is complementary. The image depicts what appears to be a meeting between two individuals, one of whom resembles U.S. Secretary of State John Kerry, as mentioned in the news article. The context of the news article discusses meetings between Kerry and his Iranian counterpart, which aligns with the theme of the image showing a discussion between two officials. Although the specific event in the image is not detailed in the article, the visual information complements the overall news story, which is about the negotiations and meetings taking place to secure a nuclear deal.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 6405b6fcaf7f7e8225f804142b69b37a
+Image Ok.
+
+Image: 4d8784188d0a64f702cf5ba1630c402c.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows a person cycling past a nuclear facility, which aligns with the overall theme of the article discussing Iran's nuclear activities and the International Atomic Energy Agency's (IAEA) stalled probe into the country's nuclear program. Although the specific event depicted in the image is not detailed in the article, the visual information complements the news story by providing a relevant visual context to the topic of nuclear facilities and activities in Iran.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 0a8852dc58e3e0e743ff51afd54e79d8
+Image Ok.
+
+Image: a23aa9f7e9f30ea595c8644220a45233.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: a648e8a6a69a24ee7086b22ed9cc5499
+Image Ok.
+
+Image: 7078d06ebc40813197751346291434a7.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows a camera operator filming what appears to be a display of military equipment or remnants thereof. The background includes posters that seem to provide information about specific incidents or items related to military actions or sanctions violations. 
+
+The news article discusses a report by UN experts regarding the arms embargo against Iran and mentions the lack of reported violations, potential political reasons behind this, and specific instances where Iran's attempts to circumvent sanctions were not officially reported but were known through other means, such as media reports. It also touches on Iran's involvement in providing arms to other regions and the ongoing negotiations over Iran's nuclear program.
+
+While the specific event depicted in the image is not detailed in the article, the overall theme of the image—military equipment and the implication of sanctions violations—is highly related to the news story. The visual information in the image can complement the news story by providing a tangible representation of the type of material that might be subject to the arms embargo and sanctions discussed in the article.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 982cf58df0871f5a89810ac4cb9bf82c
+Image Ok.
+
+Image: 95066c88ceb73d00463285c7e22d61d2.
+-----------------------------------
+False.
+
+The image depicts a world map showing the results of a United Nations vote calling for an investigation into women's rights in Iran, with countries colored differently based on their vote. This image's overall theme is related to UN actions concerning Iran, but it specifically addresses a different topic—women's rights—rather than the sanctions violations, nuclear activities, and geopolitical maneuvering discussed in the news article. The specific events and themes in the news article are not reflected in the image, and the visual information provided by the image does not complement the detailed content of the news story about Iran's alleged violations of sanctions and the ongoing negotiations over its nuclear program.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: b7142ad11f52235ff22b542f9d0ce6cc
+Image Ok.
+
+Image: a549ed35d31636ba7613108e288c3be2.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 72e903bc3cef9ab7a8c58dc70c58c53c
+Image Ok.
+
+Image: eeede5cca4ff025cf30fc3e645a6df4e.
+-----------------------------------
+True
+
+The image of President Hassan Rouhani complements the news article, as it shows the Iranian president who is the subject of the news story. His presence in the image, along with the Iranian flag, supports the overall theme of the article, which is about Iran's stance on nuclear negotiations and inspections. Although the specific event depicted in the image (the televised news conference) is not described in detail in the article, the visual information reinforces the news story about President Rouhani's statement regarding the protection of state secrets during the negotiations.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 059da9dbc6b877f82ec14f60516ac934
+Image Ok.
+
+Image: 2f1f8c5ef864ce5a61d6cbe1874edb6b.
+-----------------------------------
+False
+
+The image provided shows a highway with heavy traffic and a digital road sign that reads "ROAD WORK AHEAD." The news article discusses the secretive journey of Judge Neil Gorsuch to Washington D.C. before being announced as President Donald Trump's Supreme Court nominee. Although the article mentions travel and a secretive route taken to avoid media attention, the specific image of a congested highway does not directly complement the details of the news story. The image does not depict any of the individuals mentioned, nor does it illustrate the back farm roads, military jet, or any other specific aspect of the transportation described in the article. Therefore, the image does not complement the news events as per the given rules.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d1833a926cb276ba202c4d17e527a83e
+Image Ok.
+
+Image: eecb67909bb50ebb538a2d22e0b586c9.
+-----------------------------------
+True.
+
+The relationship between the image and the news article is complementary. The image shows two individuals who are central figures in the news article, which discusses the defense of certain actions and statements made by one of them. While the specific event in the image is not detailed in the article, the presence of these individuals is highly relevant and supports the overall theme of the news story. The visual information in the image complements the news story by providing a visual context to the discussion about the political actions and statements being made.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 3b3b83f6e5b0d072d901185f01e2f956
+Image Ok.
+
+Image: d58a46bd7c1867cb5d4a1b46906bef33.
+-----------------------------------
+True
+
+Based on the provided rules and domain knowledge, the relationship between the image and the news article is complementary. The image shows a person who appears to be a figure of authority or significance, potentially related to the political or national security realm, which aligns with the overall theme of the news article discussing National Security Advisor Michael Flynn's conversations with the Russian ambassador. The image does not need to depict the specific event mentioned in the news article to be considered complementary. The visual information in the image supports the news story's context of political discussions and controversies involving high-ranking officials and their interactions with foreign entities. Therefore, the image complements the news story as a whole by providing a visual representation of a person who could be associated with such political narratives.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 9918131c5e92c81f3340d6272c8e5be3
+Image Ok.
+
+Image: 841bcb4214ce4729e124760924da97d9.
+-----------------------------------
+True
+
+The image shows a group of individuals in a formal setting, seemingly engaged in a serious discussion or briefing. Although the specific details of the discussion are not provided in the image, the overall theme of the image is highly related to the news article. The news article discusses a series of political and security meetings and preparations surrounding Prime Minister Benjamin Netanyahu's visit to Washington to meet with President Donald Trump. It also mentions the involvement of various officials, including acting national security adviser Jacob Nagel and Mossad Director Yossi Cohen, who met with Michael Flynn in preparation for Netanyahu's meeting with Trump.
+
+The image can be seen as complementary to the news story because it visually represents the type of preparatory meetings and discussions that would occur in the context of such a high-level diplomatic visit. Even though the specific event in the image is not detailed in the article, the visual information supports the overall narrative of political and security preparations, which is central to the news story. Therefore, the relationship between the image and the news article is complementary.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 720e6fcf7ee707e59a9844c89dbe407b
+Image Ok.
+
+Image: fae5df567ed265aa8dba44b31de26ee2.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image shows two individuals, one of whom is the former US President Donald Trump, and the other is Russian President Vladimir Putin. Although the specific event depicted in the image is not detailed in the news article, the overall theme of the article is highly related to the news, which discusses the controversy surrounding the resignation of National Security Advisor Mike Flynn over his dealings with Russia's government. The image complements the news story as a whole by visually representing the two nations' leaders, which are central to the context of the reported events, despite the article not mentioning a direct meeting between them or the specific event shown in the photo. The news events listed pertain to Trump's activities and dealings, which are relevant to the themes presented in the image.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 5b9cb27ea5126aa2ff66a1d6306bf3a5
+Image Ok.
+
+Image: 1dcc29dd7d38cf8173f637b77a29e11a.
+-----------------------------------
+True
+
+The relationship between the image and the news article can be considered complementary. The image shows individuals who appear to be associated with the Trump administration, which is the focus of the news article. Although the specific event depicted in the image is not detailed in the article, the visual information complements the overall news story about internal conflicts within the Trump administration and the resignation of Michael Flynn. The presence of these individuals in the image supports the theme of the article regarding the dynamics and challenges faced by the administration.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 03ae0cb58c485bcd1a381300e66963fc
+Image Ok.
+
+Image: f6298322565eb0632c77bd0627087bd4.
+-----------------------------------
+False
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: be6e9d5da670504258411c2b044d3fca
+Image Ok.
+
+Image: fe1fc8ead7a787e2ff0af5f176e3925e.
+-----------------------------------
+True
+
+The relationship between the image and the news article can be considered complementary. The image shows a person who appears to be Donald Trump, which is related to the overall theme of the news article discussing accusations against Trump's team and potential implications for his presidency. While the specific event depicted in the image is not detailed in the news article, the visual information complements the news story's focus on Trump and the political tensions surrounding him.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 0f86b49bfda260851718c833c5dd5849
+Image Ok.
+
+Image: 88ea98128b108cd00df85f752975db82.
+-----------------------------------
+False.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: d644b253f3c71b3a676e00c76cd68be4
+Image Ok.
+
+Image: d1aaddf57946a2c9216c925e9b2bcfd8.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts a person who is the subject of the news article, and while the specific event shown in the image is not described in detail within the article, the visual information of the person complements the overall news story by providing a visual representation of one of the key figures involved in the events described.
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 4a979c893b83f26c0ef4c25116b339d7
+Image Ok.
+
+Image: 0aeac257d441d8b3c6498b226f24efb0.
+-----------------------------------
+True
+-----------------------------------
+
+
+
+-----------------------------------
+Md5: 61fd36851482fcf5fff0e61c36077747
+Image Ok.
+
+Image: 00c0c45207179d1089b64c93af4850dc.
+-----------------------------------
+True
+
+The relationship between the image and the news article is complementary. The image depicts Steven Mnuchin, who is mentioned in the news article as having discussed the issue of leaks with his senior staff at the Treasury. Although the specific event shown in the image is not detailed in the article, Mnuchin's role in the context of the news story about leaks within the government makes the image highly relevant and complementary to the overall theme of the article. The visual information in the image supports the news story by providing a visual representation of one of the key figures involved in the narrative of the article.
+-----------------------------------
+
+
+true num is 93
+false num is 7
+null num is 0
+precision: 0.93
